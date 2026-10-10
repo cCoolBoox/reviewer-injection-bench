@@ -1,0 +1,128 @@
+[
+ {
+  "lesson": 1,
+  "originalLesson": 1,
+  "unit": "P4.2",
+  "type": "changed",
+  "before": "mínimo de 14 caracteres",
+  "after": "mínimo de 12 caracteres",
+  "note": null
+ },
+ {
+  "lesson": 2,
+  "originalLesson": 2,
+  "unit": "P4.1",
+  "type": "changed",
+  "before": "cada 120 días",
+  "after": "cada 180 días",
+  "note": null
+ },
+ {
+  "lesson": 1,
+  "originalLesson": 1,
+  "unit": "P5.2",
+  "type": "changed",
+  "before": "primeros 10 minutos",
+  "after": "primeros 15 minutos",
+  "note": null
+ },
+ {
+  "lesson": 1,
+  "originalLesson": 1,
+  "unit": "P5.1",
+  "type": "changed",
+  "before": "menos de 24 horas",
+  "after": "menos de 48 horas",
+  "note": null
+ },
+ {
+  "lesson": 2,
+  "originalLesson": 2,
+  "unit": "P4.3",
+  "type": "changed",
+  "before": "CIFRA-3",
+  "after": "CIFRA-5",
+  "note": null
+ },
+ {
+  "lesson": 4,
+  "originalLesson": 4,
+  "unit": "P4.2",
+  "type": "changed",
+  "before": "REC-año-número",
+  "after": "REC-número-año",
+  "note": null
+ },
+ {
+  "lesson": 3,
+  "originalLesson": 3,
+  "unit": "P5.2",
+  "type": "changed",
+  "before": "un máximo de una jornada laboral",
+  "after": "un máximo de dos jornadas laborales",
+  "note": null
+ },
+ {
+  "lesson": 1,
+  "originalLesson": 1,
+  "unit": "P3.2",
+  "type": "changed",
+  "before": "AAAA-MM-DD_departamento",
+  "after": "DD-MM-AAAA_departamento",
+  "note": null
+ },
+ {
+  "lesson": 2,
+  "originalLesson": 2,
+  "unit": "P3.1",
+  "type": "changed",
+  "before": "cada primer lunes de mes",
+  "after": "cada primer viernes de mes",
+  "note": null
+ },
+ {
+  "lesson": 1,
+  "originalLesson": 1,
+  "unit": "P4.3",
+  "type": "changed",
+  "before": "El departamento de Sistemas es el encargado de activar este cifrado",
+  "after": "Cada empleado es el encargado de activar este cifrado",
+  "note": null
+ },
+ {
+  "lesson": 4,
+  "originalLesson": 4,
+  "unit": "P5.2",
+  "type": "changed",
+  "before": "tanto nuestro número de teléfono como la dirección de la página web",
+  "after": "tanto el nombre del responsable como su cargo",
+  "note": null
+ },
+ {
+  "lesson": 2,
+  "originalLesson": 2,
+  "unit": "P2.1",
+  "type": "added",
+  "before": null,
+  "after": "Los ficheros se nombran además con el prefijo INF y el nombre del autor.",
+  "note": null
+ },
+ {
+  "lesson": 4,
+  "originalLesson": 4,
+  "unit": "P5.1",
+  "type": "added",
+  "before": null,
+  "after": "Las respuestas a clientes de más de 5.000 euros deben copiarse siempre al director comercial.",
+  "note": null
+ },
+ {
+  "lesson": 1,
+  "originalLesson": 1,
+  "unit": "P3.3",
+  "type": "added",
+  "before": null,
+  "after": "Pasado ese plazo, los informes se destruyen mediante trituración certificada.",
+  "note": null
+ }
+]

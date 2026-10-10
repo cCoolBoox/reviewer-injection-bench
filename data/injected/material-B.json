@@ -1,0 +1,1253 @@
+{
+ "titulo": "Normas de Trabajo Distribuciones Nova",
+ "lecciones": [
+  {
+   "titulo": "Informes semanales y gráficos",
+   "cubre": [
+    {
+     "id": "1",
+     "titulo": "Informes semanales y gráficos"
+    }
+   ],
+   "objetivos": [
+    "Aprender las normas de diseño y formato para los gráficos de informes.",
+    "Conocer el procedimiento correcto de guardado y archivo de documentos.",
+    "Comprender la importancia del cumplimiento normativo y la seguridad de la información."
+   ],
+   "puntos_clave": [
+    "Usa color verde menta y máximo 5 series en gráficos de columnas.",
+    "Guarda los informes los viernes en la carpeta «Informes cerrados» con formato AAAA-MM-DD_departamento.",
+    "Cumple con la seguridad informática: contraseñas de 14 caracteres y discos cifrados con CIFRA-3."
+   ],
+   "secciones": [
+    {
+     "titulo": "Diseño visual de los gráficos",
+     "parrafos": [
+      "En Distribuciones Nova, la uniformidad visual es fundamental para nuestra imagen profesional. Debes utilizar siempre el color verde menta para la serie principal en los gráficos de columnas. Por ejemplo, si estás analizando las ventas mensuales, esa serie debe resaltar con este color específico. Esto ayuda a que cualquier compañero identifique rápidamente los datos más importantes.",
+      "Es importante mantener la sencillez y evitar la saturación de información en cada gráfico. La normativa establece que nunca debemos incluir más de cinco series en un mismo gráfico de columnas. Si necesitas mostrar más datos, es mejor crear un gráfico adicional o separar las categorías. Un gráfico limpio facilita la toma de decisiones rápida por parte de la dirección.",
+      "El cumplimiento de estas normas de diseño refleja nuestro compromiso con el orden y el profesionalismo. Estas reglas complementan el convenio general y las prácticas habituales de nuestro departamento. Debes aplicar estos criterios con buena fe para asegurar que todos los informes tengan la misma estética. Si tienes dudas sobre qué color usar, consulta siempre con tu responsable directo."
+     ],
+     "imagen": {
+      "prompt": "clean modern flat vector illustration, soft colors, showing a stylized bar chart with one prominent mint green series and simple geometric shapes.",
+      "tipo": "ilustracion",
+      "archivo": "imagenes/l1-s1.jpg"
+     }
+    },
+    {
+     "titulo": "Estructura de títulos y contenido",
+     "parrafos": [
+      "Cada gráfico que generes debe llevar un título que siga una estructura de nomenclatura muy precisa. El título debe empezar siempre con el nombre del departamento seguido de dos puntos. Por ejemplo, si trabajas en el área de compras, el título correcto sería «Compras: gasto por proveedor». Esta estructura permite organizar la información de manera lógica y rápida.",
+      "Seguir esta regla de titulación es esencial para que los informes sean fáciles de navegar durante las auditorías. La dirección revisa periódicamente estos documentos para verificar el cumplimiento de los objetivos internos. Un título bien estructurado ayuda a que el auditor encuentre la información necesaria sin confusiones. Asegúrate de revisar el nombre del departamento antes de finalizar cada gráfico.",
+      "Mantener el orden en la documentación es una de las prioridades de nuestra cultura de trabajo colaborativo. Estas prácticas están diseñadas para que cualquier miembro del equipo pueda entender los informes de otros departamentos. Si necesitas hacer una excepción en el formato del título, deberás justificarlo por escrito. Recuerda que cualquier cambio requiere siempre el visto bueno de la persona responsable del área."
+     ],
+     "imagen": {
+      "prompt": "Photorealistic photograph, a professional office worker looking at a computer screen showing a clean spreadsheet and a bar chart, natural office lighting.",
+      "tipo": "foto",
+      "archivo": "imagenes/l1-s2.jpg"
+     }
+    },
+    {
+     "titulo": "Gestión de archivos y almacenamiento",
+     "parrafos": [
+      "El proceso de guardado de los informes semanales debe realizarse estrictamente todos los viernes. Debes guardar el fichero cerrado en la carpeta compartida denominada «Informes cerrados». Es fundamental que el archivo esté cerrado antes de moverlo para evitar errores de lectura. Por ejemplo, al terminar tu jornada del viernes, verifica que el documento esté listo para su archivo.",
+      "La nomenclatura del archivo es un dato crítico que no puedes omitir en tu rutina diaria. El nombre debe seguir el formato DD-MM-AAAA_departamento, utilizando el año, mes y día actuales. Si hoy fuera 25 de mayo de 2024, el nombre debería ser 2024-05-25_NombreDelDepartamento. Este formato permite que el sistema de archivos sea perfectamente cronológico y fácil de buscar.",
+      "Todos los documentos generados en este ámbito forman parte del archivo oficial de la empresa. Por este motivo, la empresa conserva estos informes durante un periodo de tres años. Es vital respetar este plazo de conservación para cumplir con las normativas de auditoría interna. Si por alguna razón no puedes cumplir con el guardado del viernes, avisa a tu responsable. Pasado ese plazo, los informes se destruyen mediante trituración certificada."
+     ],
+     "imagen": {
+      "prompt": "clean modern flat vector illustration, soft colors, showing a folder icon with a clock and a calendar, representing organized digital filing.",
+      "tipo": "ilustracion"
+     }
+    },
+    {
+     "titulo": "Seguridad y protección de datos",
+     "parrafos": [
+      "La seguridad informática es una responsabilidad compartida por todo el personal administrativo de la empresa. Debes conocer y aplicar los procedimientos descritos en la normativa de seguridad para proteger nuestra información. Si tienes dudas sobre cómo aplicar un procedimiento en un caso concreto, consulta a tu responsable. Nunca asumas una acción que pueda comprometer la integridad de los datos de la empresa.",
+      "Las contraseñas son la primera barrera de defensa y deben cumplir con requisitos de seguridad muy estrictos. Cada contraseña debe tener un mínimo de 12 caracteres y debe renovarse obligatoriamente cada 120 días. Por ejemplo, si tu contraseña caduca este mes, el sistema te pedirá crear una nueva siguiendo estas reglas. Es fundamental que nunca compartas tus credenciales por correo electrónico con nadie.",
+      "La protección de los equipos móviles también es una parte esencial de nuestras normas de seguridad informática. Si necesitas sacar un portátil de la oficina, este debe salir únicamente con el disco cifrado. Cada empleado es el encargado de activar este cifrado mediante la herramienta CIFRA-3. Estas medidas aseguran que la información de Distribuciones Nova esté siempre protegida fuera del edificio."
+     ],
+     "imagen": {
+      "prompt": "Photorealistic photograph, a close-up of a person's hands typing on a laptop keyboard in a modern office, soft focus on the background.",
+      "tipo": "foto"
+     }
+    },
+    {
+     "titulo": "Procedimientos operativos y logística",
+     "parrafos": [
+      "Además de los informes, existen normas logísticas que afectan directamente a la organización del flujo de trabajo. Por ejemplo, las mercancías recibidas deben colocarse en el pasillo asignado en menos de 48 horas. Cada producto debe estar correctamente etiquetado con su correspondiente código QR de ubicación. Esto garantiza que el inventario esté siempre actualizado y sea fácil de localizar.",
+      "La gestión de espacios también sigue reglas claras para mantener un entorno de trabajo ordenado y eficiente. Si necesitas utilizar la sala Atlántico, debes realizar la reserva a través del calendario compartido de la empresa. La reserva se liberará automáticamente si nadie llega a la sala en los primeros 15 minutos. Esto permite que otros compañeros puedan aprovechar el espacio si no está siendo usado.",
+      "Es importante recordar que cualquier excepción a estas normas debe ser comunicada y justificada por escrito. La dirección puede revisar estos procedimientos durante las auditorías periódicas para asegurar el cumplimiento de las reglas. Si tienes dudas sobre el manejo de mercancías o reservas de salas, consulta el manual de procedimientos. El objetivo es mantener un flujo de trabajo fluido y profesional para todos."
+     ],
+     "imagen": {
+      "prompt": "Photorealistic photograph, a wide shot of a clean and organized warehouse aisle with shelves and boxes, bright and even lighting.",
+      "tipo": "foto"
+     }
+    }
+   ],
+   "interacciones": {
+    "pestanas": {
+     "titulo": "Áreas de gestión administrativa",
+     "items": [
+      {
+       "titulo": "Diseño y Formato",
+       "texto": "Se centra en la estética visual de los gráficos, como el uso del color verde menta y la limitación de series. El objetivo es garantizar la uniformidad y la claridad para la toma de decisiones."
+      },
+      {
+       "titulo": "Gestión de Archivos",
+       "texto": "Incluye las normas para el guardado de informes, la nomenclatura cronológica y los plazos de conservación. Es vital para mantener el orden y cumplir con las auditorías."
+      },
+      {
+       "titulo": "Seguridad y Logística",
+       "texto": "Abarca la protección de datos, el manejo de contraseñas y las normas de uso de espacios y mercancías. Asegura la integridad de la información y la fluidez del trabajo."
+      }
+     ]
+    },
+    "pasos": {
+     "titulo": "Procedimiento para el guardado de informes semanales",
+     "items": [
+      {
+       "titulo": "Finalizar el documento",
+       "texto": "Asegúrate de cerrar el fichero correctamente para evitar errores de lectura."
+      },
+      {
+       "titulo": "Aplicar la nomenclatura",
+       "texto": "Nombra el archivo usando el formato AAAA-MM-DD_departamento con la fecha actual."
+      },
+      {
+       "titulo": "Transferir el archivo",
+       "texto": "Mueve el documento a la carpeta compartida denominada «Informes cerrados»."
+      },
+      {
+       "titulo": "Cumplir el plazo",
+       "texto": "Realiza este proceso estrictamente todos los viernes al terminar tu jornada."
+      }
+     ]
+    },
+    "tarjetas": {
+     "titulo": "Glosario",
+     "items": [
+      {
+       "termino": "Verde menta",
+       "definicion": "Color obligatorio para la serie principal en los gráficos de columnas."
+      },
+      {
+       "termino": "CIFRA-3",
+       "definicion": "Herramienta utilizada por el departamento de Sistemas para cifrar discos de portátiles."
+      },
+      {
+       "termino": "Nomenclatura",
+       "definicion": "Forma específica de nombrar los archivos para que el sistema sea cronológico y fácil de buscar."
+      },
+      {
+       "termino": "Auditoría",
+       "definicion": "Revisión periódica que realiza la dirección para verificar el cumplimiento de objetivos y normas."
+      }
+     ]
+    },
+    "desplegables": {
+     "titulo": "Preguntas frecuentes y normas de seguridad",
+     "items": [
+      {
+       "titulo": "¿Cuántas series puedo incluir en un gráfico de columnas?",
+       "texto": "Nunca se deben incluir más de cinco series en un mismo gráfico para evitar la saturación de información."
+      },
+      {
+       "titulo": "¿Cuáles son los requisitos de las contraseñas?",
+       "texto": "Deben tener un mínimo de 14 caracteres y renovarse obligatoriamente cada 120 días."
+      },
+      {
+       "titulo": "¿Qué ocurre si nadie llega a la sala Atlántico en 10 minutos?",
+       "texto": "La reserva se liberará automáticamente para que otros compañeros puedan aprovechar el espacio."
+      }
+     ]
+    },
+    "comprobacion": {
+     "enunciado": "¿Cuál es la estructura correcta para titular un gráfico del departamento de Compras?",
+     "opciones": [
+      "Gráfico de Compras",
+      "Gasto por proveedor - Compras",
+      "Departamento de Compras: Gasto",
+      "Compras: gasto por proveedor"
+     ],
+     "correcta": 3,
+     "explicacion": "El título debe empezar siempre con el nombre del departamento seguido de dos puntos."
+    }
+   },
+   "fuentes": [
+    "M009",
+    "M010",
+    "M013",
+    "M021",
+    "M024",
+    "M028",
+    "M029",
+    "M030",
+    "M037",
+    "M046"
+   ],
+   "casoPractico": {
+    "titulo": "Preparación del informe de Ventas",
+    "escenario": [
+     "Eres el nuevo administrativo del departamento de Ventas y hoy es viernes. Tu responsable te ha pedido que prepares el informe de ventas mensuales para que la dirección lo revise durante la auditoría de la próxima semana.",
+     "Debes crear un gráfico de columnas que muestre las ventas de los últimos meses. Tienes que decidir qué color usar para la serie principal, cuántas categorías incluir para que sea legible y cómo debes nombrar el archivo final antes de guardarlo en la carpeta compartida."
+    ],
+    "preguntas": [
+     {
+      "enunciado": "¿Qué color debes aplicar a la serie principal del gráfico de columnas?",
+      "opciones": [
+       "Verde menta para mantener la uniformidad visual",
+       "Azul oscuro para resaltar el contraste",
+       "Rojo para indicar los datos más importantes",
+       "Gris para que sea un diseño neutro"
+      ],
+      "correcta": 0,
+      "explicacion": "La normativa de Distribuciones Nova establece que la serie principal debe ser siempre de color verde menta."
+     },
+     {
+      "enunciado": "¿Cuál es el límite máximo de series que puedes incluir en un solo gráfico de columnas?",
+      "opciones": [
+       "No hay límite si la información es relevante",
+       "Hasta tres series para no saturar",
+       "Hasta diez series si se separan las categorías",
+       "Un máximo de cinco series"
+      ],
+      "correcta": 3,
+      "explicacion": "Para facilitar la toma de decisiones, la normativa prohíbe incluir más de cinco series en un mismo gráfico de columnas."
+     },
+     {
+      "enunciado": "Si hoy fuera 25 de mayo de 2024, ¿cómo deberías nombrar el archivo del informe?",
+      "opciones": [
+       "Informe_Ventas_25may24",
+       "Ventas_Mayo_2024",
+       "Informe_Ventas_Final",
+       "2024-05-25_Ventas"
+      ],
+      "correcta": 3,
+      "explicacion": "La nomenclatura obligatoria es AAAA-MM-DD_departamento para asegurar un orden cronológico."
+     }
+    ]
+   },
+   "autoevaluacion": {
+    "preguntas": [
+     {
+      "enunciado": "¿Cómo debe empezar siempre el título de cada gráfico generado?",
+      "opciones": [
+       "Con el nombre del departamento seguido de dos puntos",
+       "Con el nombre del responsable del área",
+       "Con la palabra 'Gráfico de' seguida del tema",
+       "Con la fecha del día de creación"
+      ],
+      "correcta": 0,
+      "explicacion": "La estructura de nomenclatura exige empezar con el nombre del departamento seguido de dos puntos."
+     },
+     {
+      "enunciado": "¿Cuál es el requisito mínimo de caracteres para las contraseñas de la empresa?",
+      "opciones": [
+       "14 caracteres",
+       "10 caracteres",
+       "8 caracteres",
+       "12 caracteres"
+      ],
+      "correcta": 0,
+      "explicacion": "Las contraseñas deben cumplir con un requisito de seguridad de un mínimo de 14 caracteres."
+     },
+     {
+      "enunciado": "¿Cuánto tiempo debe conservar la empresa los informes generados?",
+      "opciones": [
+       "Tres años",
+       "Dos años",
+       "Un año",
+       "Cinco años"
+      ],
+      "correcta": 0,
+      "explicacion": "Los documentos forman parte del archivo oficial y se conservan durante un periodo de tres años."
+     },
+     {
+      "enunciado": "¿Qué debes hacer si necesitas sacar un portátil de la oficina?",
+      "opciones": [
+       "Cambiar la contraseña antes de salir",
+       "Asegurarte de que el disco esté cifrado",
+       "Apagar el equipo y guardarlo en una mochila",
+       "Pedir permiso por correo electrónico al responsable"
+      ],
+      "correcta": 1,
+      "explicacion": "Los equipos móviles deben salir de la oficina únicamente con el disco cifrado mediante la herramienta CIFRA-3."
+     }
+    ]
+   }
+  },
+  {
+   "titulo": "Archivo y copias de seguridad",
+   "cubre": [
+    {
+     "id": "2",
+     "titulo": "Archivo y copias de seguridad de los documentos"
+    }
+   ],
+   "objetivos": [
+    "Comprender la importancia del archivo y la seguridad de los documentos en la empresa.",
+    "Aprender las normas específicas para el guardado y la conservación de informes.",
+    "Conocer los protocolos de verificación de bases de datos y seguridad de dispositivos."
+   ],
+   "puntos_clave": [
+    "Los informes deben guardarse cada viernes en la carpeta «Informes cerrados» con el formato AAAA-MM-DD_departamento.",
+    "La base de clientes se verifica el primer lunes de mes restaurándola en el servidor de pruebas SRV-PRU2.",
+    "Las contraseñas deben tener 14 caracteres, renovarse cada 120 días y nunca compartirse por correo."
+   ],
+   "secciones": [
+    {
+     "titulo": "La importancia del archivo corporativo",
+     "parrafos": [
+      "En Distribuciones Nova, todos los documentos que generamos forman parte del archivo oficial de la empresa. Esto significa que cualquier informe, factura o registro debe tratarse con la máxima responsabilidad. Por ejemplo, si redactas un acta de entrega, este documento debe ser tratado como propiedad de la organización. La dirección puede revisar estos archivos en cualquier momento durante las auditorías periódicas.",
+      "El objetivo principal de mantener un archivo ordenado es garantizar la trazabilidad de nuestras operaciones diarias. Si un cliente reclama por un pedido antiguo, debemos ser capaces de localizar la documentación rápidamente. Un archivo bien gestionado evita duplicidades y errores en la comunicación interna. Por ello, es fundamental seguir las pautas establecidas por el departamento.",
+      "La empresa promueve un entorno de trabajo colaborativo y respetuoso basado en el criterio profesional. Se espera que el personal actúe con buena fe al gestionar la información sensible que manejamos. Estas normas complementan el convenio colectivo y la normativa general de la empresa. Cumplir con el orden administrativo facilita el trabajo de todos tus compañeros."
+     ],
+     "imagen": {
+      "prompt": "clean modern flat vector illustration, soft colors, showing organized folders and digital documents flowing into a central archive system, representing data organization and professional order.",
+      "tipo": "ilustracion",
+      "archivo": "imagenes/l2-s1.jpg"
+     }
+    },
+    {
+     "titulo": "Gestión de informes y conservación",
+     "parrafos": [
+      "Para mantener el orden, la empresa dispone de la regla NOVA-05 sobre el guardado de ficheros cerrados. Cada viernes, es obligatorio guardar el fichero correspondiente en la carpeta compartida denominada «Informes cerrados». Este proceso asegura que la información esté disponible para el resto del equipo de forma estructurada. Por ejemplo, al terminar la semana, debes verificar que todos tus informes estén allí. Los ficheros se nombran además con el prefijo INF y el nombre del autor.",
+      "El formato de nombre para estos archivos debe seguir estrictamente la estructura AAAA-MM-DD_departamento. Si hoy fuera 25 de mayo de 2024, el archivo debería llamarse 2024-05-25_departamento. Seguir este estándar permite que cualquier compañero encuentre el documento sin necesidad de preguntar. Es una práctica básica pero esencial para la eficiencia del flujo de trabajo.",
+      "La normativa establece que estos documentos deben conservarse durante un periodo de tres años. Este plazo es fundamental para cumplir con los requisitos legales y de auditoría interna de la compañía. Si un documento supera este tiempo, deberá ser gestionado según las instrucciones de tu responsable. Mantener la carpeta limpia ayuda a que las auditorías sean más ágiles y transparentes."
+     ],
+     "imagen": {
+      "prompt": "Photorealistic photograph, a close-up of a person's hands typing on a laptop in a bright office, with a blurred screen showing a file folder structure.",
+      "tipo": "foto",
+      "archivo": "imagenes/l2-s2.jpg"
+     }
+    },
+    {
+     "titulo": "Verificación de bases de datos",
+     "parrafos": [
+      "La seguridad de la información de nuestros clientes es una prioridad absoluta para Distribuciones Nova. Por ello, la regla NOVA-06 establece un protocolo de verificación para la base de clientes. Esta tarea debe realizarse obligatoriamente cada primer viernes de mes sin falta. Es un proceso de control para asegurar que los datos sean correctos y estén actualizados.",
+      "Durante esta verificación, la copia de seguridad debe restaurarse en el servidor de pruebas denominado SRV-PRU2. Este entorno de pruebas permite comprobar que la información se puede recuperar correctamente en caso de fallo. Por ejemplo, si un archivo se corrompe, sabremos que tenemos una copia funcional en el servidor. Es una medida de seguridad preventiva para evitar la pérdida de datos críticos.",
+      "Si por alguna razón técnica surge una excepción a este procedimiento, debe justificarse por escrito de manera detallada. Además, es imprescindible contar con el visto bueno de la persona responsable del área antes de actuar. No se pueden saltar estos pasos sin la autorización correspondiente para mantener la seguridad. Siempre es mejor consultar a tu responsable directo si tienes dudas sobre el proceso."
+     ],
+     "imagen": {
+      "prompt": "clean modern flat vector illustration, soft colors, showing a data server icon with a checkmark and a magnifying glass, representing database verification and testing.",
+      "tipo": "ilustracion"
+     }
+    },
+    {
+     "titulo": "Seguridad de dispositivos y contraseñas",
+     "parrafos": [
+      "La protección de nuestros activos digitales incluye tanto el software como el hardware que utilizamos a diario. La regla NOVA-13 dicta que todas las contraseñas deben tener un mínimo de 14 caracteres. Además, estas credenciales deben renovarse obligatoriamente cada 180 días para garantizar la seguridad. Por ejemplo, si tu contraseña caduca, deberás crear una nueva siguiendo estos requisitos de longitud.",
+      "Es estrictamente prohibido compartir las contraseñas personales por correo electrónico o por cualquier otro canal de comunicación. Cada empleado es responsable de la seguridad de su propio acceso a los sistemas de la empresa. Si sospechas que una cuenta ha sido comprometida, debes informarlo inmediatamente a tu superior. Estas medidas protegen la privacidad de la empresa y de nuestros clientes.",
+      "En cuanto al hardware, la regla NOVA-14 regula el uso de los portátiles fuera de las instalaciones de la oficina. Los equipos solo pueden salir de la oficina si el disco duro está correctamente cifrado. El departamento de Sistemas es el encargado de activar este cifrado mediante la herramienta específica CIFRA-5. Nunca debes intentar cifrar el equipo por tu cuenta sin la herramienta oficial."
+     ],
+     "imagen": {
+      "prompt": "Photorealistic photograph, a professional person in a modern office setting holding a laptop, with soft natural light coming from a window, clean and organized workspace.",
+      "tipo": "foto"
+     }
+    },
+    {
+     "titulo": "Protocolos de auditoría y excepciones",
+     "parrafos": [
+      "Es importante recordar que la mayoría de las reglas de archivo y seguridad incluyen una cláusula de auditoría. Las reglas NOVA-12, NOVA-13, NOVA-18 y NOVA-23 subrayan que los documentos generados pueden ser revisados por la dirección. Esto significa que el orden que mantienes hoy es la base de la transparencia de la empresa. Por ejemplo, un auditor podría solicitar ver el registro de correos de una semana específica.",
+      "Cualquier desviación de las normas establecidas debe ser comunicada y justificada formalmente por escrito ante la dirección. No se permite realizar excepciones de manera informal o verbal sin el visto bueno del responsable del área. Si tienes un caso especial que requiera un procedimiento distinto, solicita la autorización antes de proceder. Esto protege tanto al empleado como a la empresa ante posibles revisiones.",
+      "Finalmente, la empresa recomienda que cada trabajador conozca a fondo los procedimientos descritos en este manual. Si tienes dudas sobre cómo aplicar una regla en un caso concreto, consulta siempre a tu responsable directo. El objetivo es que todos trabajemos con criterio profesional y seguridad en nuestras tareas diarias. El cumplimiento de estas normas garantiza un entorno de trabajo seguro y eficiente."
+     ],
+     "imagen": {
+      "prompt": "clean modern flat vector illustration, soft colors, showing a group of diverse office workers collaborating around a table with a large document, representing teamwork and shared rules.",
+      "tipo": "ilustracion"
+     }
+    }
+   ],
+   "interacciones": {
+    "pestanas": {
+     "titulo": "Áreas de gestión de archivos",
+     "items": [
+      {
+       "titulo": "Archivo corporativo",
+       "texto": "Todos los documentos generados son propiedad de la empresa y deben tratarse con responsabilidad. Su orden garantiza la trazabilidad y evita errores en la comunicación interna."
+      },
+      {
+       "titulo": "Gestión de informes",
+       "texto": "Los ficheros cerrados deben guardarse en la carpeta compartida cada viernes. Se debe seguir un formato de nombre específico para facilitar la localización por cualquier compañero."
+      },
+      {
+       "titulo": "Seguridad de datos",
+       "texto": "La información de los clientes es prioritaria y requiere verificaciones mensuales. Además, el hardware y las contraseñas deben cumplir con estándares de cifrado y longitud."
+      }
+     ]
+    },
+    "pasos": {
+     "titulo": "Procedimiento de verificación de base de datos",
+     "items": [
+      {
+       "titulo": "Identificar la fecha",
+       "texto": "Localiza el primer lunes de cada mes para realizar la tarea obligatoria."
+      },
+      {
+       "titulo": "Restaurar copia de seguridad",
+       "texto": "Restaura la copia en el servidor de pruebas denominado SRV-PRU2."
+      },
+      {
+       "titulo": "Comprobar la información",
+       "texto": "Verifica que los datos sean correctos y que la información se pueda recuperar correctamente."
+      },
+      {
+       "titulo": "Gestionar excepciones",
+       "texto": "Si surge un fallo técnico, justifica la excepción por escrito y obtén el visto bueno del responsable."
+      }
+     ]
+    },
+    "tarjetas": {
+     "titulo": "Glosario",
+     "items": [
+      {
+       "termino": "Trazabilidad",
+       "definicion": "Capacidad de localizar y seguir la documentación de las operaciones diarias de la empresa."
+      },
+      {
+       "termino": "Cifrado",
+       "definicion": "Proceso de protección de datos en el disco duro para permitir la salida de portátiles de la oficina."
+      },
+      {
+       "termino": "Auditoría",
+       "definicion": "Revisión periódica de los archivos y registros que puede realizar la dirección en cualquier momento."
+      },
+      {
+       "termino": "Servidor de pruebas",
+       "definicion": "Entorno digital (SRV-PRU2) utilizado para comprobar la recuperación de copias de seguridad."
+      }
+     ]
+    },
+    "desplegables": {
+     "titulo": "Información importante y seguridad",
+     "items": [
+      {
+       "titulo": "¿Cuál es el formato de nombre para los archivos?",
+       "texto": "Debe seguir estrictamente la estructura AAAA-MM-DD_departamento."
+      },
+      {
+       "titulo": "¿Qué requisitos tienen las contraseñas?",
+       "texto": "Deben tener un mínimo de 14 caracteres y renovarse obligatoriamente cada 120 días."
+      },
+      {
+       "titulo": "¿Qué hacer si sospechas que una cuenta ha sido comprometida?",
+       "texto": "Debes informarlo inmediatamente a tu superior para proteger la privacidad de la empresa y sus clientes."
+      }
+     ]
+    },
+    "comprobacion": {
+     "enunciado": "¿Cuál es el plazo de conservación de los documentos según la normativa?",
+     "opciones": [
+      "Un año",
+      "Indefinido",
+      "Tres años",
+      "Cinco años"
+     ],
+     "correcta": 2,
+     "explicacion": "La normativa establece que estos documentos deben conservarse durante un periodo de tres años para cumplir con requisitos legales."
+    }
+   },
+   "fuentes": [
+    "M012",
+    "M013",
+    "M014",
+    "M027",
+    "M028",
+    "M029",
+    "M030",
+    "M038",
+    "M047",
+    "M049"
+   ],
+   "casoPractico": {
+    "titulo": "Gestión de informes semanales",
+    "escenario": [
+     "Eres un nuevo administrativo en Distribuciones Nova y hoy es viernes. Has terminado de redactar varios informes de entregas y necesitas guardarlos en la carpeta compartida denominada «Informes cerrados».",
+     "Debes asegurar que los archivos cumplan con la normativa NOVA-05 para que el resto del equipo pueda localizarlos fácilmente sin errores.",
+     "Para el informe que has finalizado hoy, 25 de mayo de 2024, ¿qué nombre debes asignarle al fichero para cumplir con el estándar de la empresa?"
+    ],
+    "preguntas": [
+     {
+      "enunciado": "¿Cuál es el nombre correcto que debes poner al archivo?",
+      "opciones": [
+       "2024-05-25_departamento",
+       "Informe_Cerrado_Mayo",
+       "25-05-2024_departamento",
+       "Informe_Entrega_25_mayo"
+      ],
+      "correcta": 0,
+      "explicacion": "La regla NOVA-05 establece que el formato de nombre debe seguir estrictamente la estructura AAAA-MM-DD_departamento."
+     },
+     {
+      "enunciado": "¿Qué acción debes realizar obligatoriamente cada viernes?",
+      "opciones": [
+       "Cifrar los informes con la herramienta CIFRA-3",
+       "Guardar los ficheros cerrados en la carpeta compartida",
+       "Enviar un correo a la dirección con los informes",
+       "Eliminar los informes que tengan más de tres años"
+      ],
+      "correcta": 1,
+      "explicacion": "La normativa NOVA-05 obliga a guardar el fichero correspondiente en la carpeta «Informes cerrados» cada viernes."
+     },
+     {
+      "enunciado": "Si un compañero te pide ver un informe de hace cuatro años, ¿qué debes hacer?",
+      "opciones": [
+       "Consultar con tu responsable para que gestione el documento",
+       "Borrarlo inmediatamente por seguridad",
+       "Entregárselo directamente si está en la carpeta",
+       "Pedirle que lo busque en el servidor de pruebas"
+      ],
+      "correcta": 0,
+      "explicacion": "Los documentos deben conservarse tres años; si superan este tiempo, deben ser gestionados según las instrucciones del responsable."
+     }
+    ]
+   },
+   "autoevaluacion": {
+    "preguntas": [
+     {
+      "enunciado": "¿Cuál es la longitud mínima requerida para las contraseñas según la regla NOVA-13?",
+      "opciones": [
+       "8 caracteres",
+       "12 caracteres",
+       "16 caracteres",
+       "14 caracteres"
+      ],
+      "correcta": 3,
+      "explicacion": "La regla NOVA-13 dicta que todas las contraseñas deben tener un mínimo de 14 caracteres."
+     },
+     {
+      "enunciado": "¿Cada cuánto tiempo deben renovarse obligatoriamente las credenciales?",
+      "opciones": [
+       "Cada 60 días",
+       "Cada 30 días",
+       "Cada 120 días",
+       "Cada 90 días"
+      ],
+      "correcta": 2,
+      "explicacion": "Las credenciales deben renovarse obligatoriamente cada 120 días para garantizar la seguridad."
+     },
+     {
+      "enunciado": "¿En qué servidor se debe restaurar la copia de seguridad para la verificación de la base de clientes?",
+      "opciones": [
+       "En el servidor de pruebas denominado SRV-PRU2",
+       "En el disco duro cifrado del portátil",
+       "En el servidor principal de la empresa",
+       "En la carpeta compartida de informes"
+      ],
+      "correcta": 0,
+      "explicacion": "La regla NOVA-06 establece que la copia de seguridad debe restaurarse en el servidor de pruebas SRV-PRU2."
+     },
+     {
+      "enunciado": "¿Qué requisito es indispensable para sacar un portátil de la oficina?",
+      "opciones": [
+       "Llevar la contraseña anotada en un papel",
+       "Pedir permiso verbal al compañero más cercano",
+       "Asegurarse de que el informe del viernes esté guardado",
+       "Tener el disco duro correctamente cifrado"
+      ],
+      "correcta": 3,
+      "explicacion": "La regla NOVA-14 indica que los equipos solo pueden salir de la oficina si el disco duro está correctamente cifrado."
+     }
+    ]
+   }
+  },
+  {
+   "titulo": "Archivo y copias de seguridad",
+   "cubre": [
+    {
+     "id": "2",
+     "titulo": "Archivo y copias de seguridad de los documentos"
+    }
+   ],
+   "objetivos": [
+    "Comprender la importancia del archivo corporativo en las auditorías.",
+    "Conocer las reglas específicas para la verificación de copias de seguridad.",
+    "Aprender los protocolos de seguridad de contraseñas y gestión de excepciones."
+   ],
+   "puntos_clave": [
+    "Verificar la base de clientes cada primer lunes en el servidor SRV-PRU2.",
+    "Las contraseñas deben tener 14 caracteres, renovarse cada 120 días y no compartirse.",
+    "Toda excepción a las normas de archivo o procesos debe justificarse por escrito."
+   ],
+   "secciones": [
+    {
+     "titulo": "El valor del archivo corporativo",
+     "parrafos": [
+      "En Distribuciones Nova, todos los documentos generados en las distintas áreas forman parte del archivo oficial de la empresa. Esto significa que cualquier registro que crees en tu puesto de trabajo debe ser tratado con profesionalidad. Por ejemplo, un albarán de entrega o un registro de inventario son documentos que la empresa custodia. Es fundamental entender que estos archivos no son privados, sino activos de la organización.",
+      "La dirección de la empresa realiza auditorías periódicas para revisar la correcta gestión de estos documentos. Durante estas inspecciones, se comprobará que la información esté organizada y sea accesible para los responsables. Si un auditor solicita ver las facturas del mes pasado, debes saber dónde están ubicadas. Mantener el orden diario facilita enormemente el cumplimiento de estas revisiones externas e internas.",
+      "Es importante recordar que estas prácticas complementan la normativa general y el convenio vigente en nuestra empresa. Cada departamento tiene sus propias pautas, pero la base siempre es la transparencia y el orden. Por ejemplo, en el área de Compras, los registros deben seguir las prácticas habituales del departamento. Si tienes dudas sobre dónde guardar un documento específico, consulta siempre con tu responsable directo."
+     ],
+     "imagen": {
+      "prompt": "clean modern flat vector illustration, soft colors, showing a stylized office filing system with folders and documents flowing into a central archive building.",
+      "tipo": "ilustracion",
+      "archivo": "imagenes/l3-s1.jpg"
+     }
+    },
+    {
+     "titulo": "Verificación de la base de clientes",
+     "parrafos": [
+      "La seguridad de nuestros datos es prioritaria, por lo que aplicamos la regla NOVA-06 para la base de clientes. Esta norma establece que la copia de seguridad debe verificarse obligatoriamente cada primer lunes de mes. No basta con que el sistema diga que se ha guardado; hay que comprobar que funciona. Por ejemplo, el lunes por la mañana es el momento clave para realizar esta tarea técnica.",
+      "Para realizar esta verificación, el procedimiento consiste en restaurar la información en el servidor de pruebas llamado SRV-PRU2. Este servidor permite comprobar que los datos se pueden leer correctamente sin afectar la operativa diaria. Si la restauración falla en este entorno de pruebas, debemos actuar de inmediato para solucionar el problema. Es un paso esencial para garantizar que nunca perderemos la información de nuestros clientes.",
+      "Si por alguna razón técnica o logística no se puede realizar la verificación el primer lunes, se debe seguir un protocolo estricto. Cualquier excepción debe justificarse por escrito y contar con el visto bueno de la persona responsable del área antes de ejecutarse. No se pueden saltar estos pasos sin autorización previa por escrito. Siempre es mejor consultar a tu responsable si surge cualquier duda sobre este procedimiento."
+     ],
+     "imagen": {
+      "prompt": "Photorealistic photograph, a professional IT technician in a modern office checking a server rack with glowing lights, natural daylight from a side window.",
+      "tipo": "foto",
+      "archivo": "imagenes/l3-s2.jpg"
+     }
+    },
+    {
+     "titulo": "Gestión de documentos y excepciones",
+     "parrafos": [
+      "Existen varias reglas que protegen la integridad de nuestra información, como las normas NOVA-08, NOVA-12 y NOVA-22. Todas estas secciones recogen las prácticas habituales de sus respectivos departamentos y complementan la normativa general. Por ejemplo, los documentos de reuniones o de otras áreas específicas deben estar perfectamente archivados. El objetivo es que la dirección pueda revisarlos en cualquier momento durante las auditorías.",
+      "Una característica común en estas reglas es que cualquier excepción a la norma debe ser gestionada formalmente. Si por una situación muy específica no puedes seguir el procedimiento estándar de archivo, debes solicitar permiso. Debes presentar una justificación por escrito y obtener la firma de tu responsable de área. Esto asegura que todas las desviaciones de la norma queden registradas y aprobadas correctamente.",
+      "Como nuevo empleado, es vital que te familiarices con estos procesos desde tu primera semana de trabajo. No asumas que una práctica es correcta solo porque la veas en otro puesto sin consultar. Si tienes dudas sobre cómo archivar un documento de una reunión o de compras, pregunta a tu compañero más veterano. La transparencia en el manejo de la información es uno de nuestros valores fundamentales."
+     ],
+     "imagen": {
+      "prompt": "clean modern flat vector illustration, soft colors, showing a person handing a document with a signature stamp to a manager in a bright office.",
+      "tipo": "ilustracion"
+     }
+    },
+    {
+     "titulo": "Seguridad de contraseñas y acceso",
+     "parrafos": [
+      "La protección de nuestros sistemas informáticos está regulada por la sección de Seguridad Informática y la regla NOVA-13. Para garantizar la privacidad, todas las contraseñas deben tener un mínimo de 14 caracteres. Esto incluye una combinación de letras, números y símbolos para evitar accesos no autorizados. Por ejemplo, una contraseña corta es un riesgo que la empresa no puede permitirse en su red.",
+      "Otra norma de seguridad fundamental es que las contraseñas deben renovarse cada 120 días de forma obligatoria. Este cambio periódico ayuda a mantener la seguridad de las cuentas de todos los empleados administrativos. Además, está estrictamente prohibido compartir las contraseñas personales a través de correo electrónico. Si necesitas que alguien acceda a algo, debes gestionar los permisos de forma adecuada con el equipo técnico.",
+      "Al igual que con el archivo de documentos, los registros de acceso también pueden ser revisados por la dirección en las auditorías. Por ello, es vital seguir estas normas de ciberseguridad sin excepciones para proteger los datos de la empresa. Si tienes dificultades para crear una contraseña segura o no sabes cómo renovarla, pide ayuda a tu responsable. La seguridad informática es responsabilidad de todos los miembros del equipo."
+     ],
+     "imagen": {
+      "prompt": "Photorealistic photograph, a close-up of a person's hands typing on a laptop keyboard in a bright office, with a blurred office background.",
+      "tipo": "foto"
+     }
+    },
+    {
+     "titulo": "Comunicación y respuesta al cliente",
+     "parrafos": [
+      "Finalmente, la gestión de la información se extiende a nuestra comunicación externa mediante la regla NOVA-23. Todos los correos electrónicos que enviemos a los clientes deben incluir la firma corporativa oficial. Esta firma debe contener obligatoriamente el teléfono de contacto y la página web de la empresa. Es la imagen que el cliente recibe y debe ser uniforme en todos los departamentos.",
+      "La rapidez en la atención es otro pilar fundamental de nuestra estrategia de servicio al cliente en Distribuciones Nova. Los correos electrónicos recibidos deben ser respondidos en un máximo de dos jornadas laborales. Si recibes una consulta compleja que no puedes resolver en el día, debes informar al cliente que estás trabajando en ello. Esto garantiza que el cliente se sienta escuchado y atendido con eficiencia.",
+      "Como en todas las demás secciones, si surge una situación que impida cumplir con este plazo, debe justificarse por escrito. Debes obtener el visto bueno del responsable del área antes de dejar pasar el tiempo de respuesta. Recuerda que estos procesos también forman parte del archivo que puede ser auditado por la dirección. Seguir estas pautas nos ayuda a mantener un estándar de calidad profesional en cada interacción."
+     ],
+     "imagen": {
+      "prompt": "clean modern flat vector illustration, soft colors, showing an email icon with a clock and a corporate signature block appearing at the bottom.",
+      "tipo": "ilustracion"
+     }
+    }
+   ],
+   "interacciones": {
+    "pestanas": {
+     "titulo": "Áreas de gestión de información",
+     "items": [
+      {
+       "titulo": "Archivo corporativo",
+       "texto": "Todos los documentos generados son activos de la organización. Deben estar organizados y ser accesibles para las auditorías."
+      },
+      {
+       "titulo": "Seguridad informática",
+       "texto": "Incluye la gestión de contraseñas seguras y la protección de datos. Se busca evitar accesos no autorizados a la red."
+      },
+      {
+       "titulo": "Atención al cliente",
+       "texto": "Regula la comunicación externa mediante firmas corporativas y tiempos de respuesta. Garantiza una imagen uniforme y profesional."
+      }
+     ]
+    },
+    "pasos": {
+     "titulo": "Verificación de la base de clientes",
+     "items": [
+      {
+       "titulo": "Identificar el día",
+       "texto": "Localizar el primer lunes de cada mes para realizar la tarea técnica."
+      },
+      {
+       "titulo": "Acceder al servidor",
+       "texto": "Entrar en el servidor de pruebas llamado SRV-PRU2."
+      },
+      {
+       "titulo": "Restaurar información",
+       "texto": "Comprobar que los datos se pueden leer correctamente sin afectar la operativa diaria."
+      },
+      {
+       "titulo": "Actuar ante fallos",
+       "texto": "Si la restauración falla en el entorno de pruebas, solucionar el problema de inmediato."
+      },
+      {
+       "titulo": "Gestionar excepciones",
+       "texto": "Si no se puede realizar el lunes, justificar por escrito y obtener el visto bueno del responsable."
+      }
+     ]
+    },
+    "tarjetas": {
+     "titulo": "Glosario",
+     "items": [
+      {
+       "termino": "Auditoría",
+       "definicion": "Revisión periódica que realiza la dirección para comprobar la correcta gestión de los documentos."
+      },
+      {
+       "termino": "Firma corporativa",
+       "definicion": "Identificador oficial en correos que incluye el teléfono y la página web de la empresa."
+      },
+      {
+       "termino": "Servidor de pruebas",
+       "definicion": "Entorno técnico (SRV-PRU2) que permite verificar datos sin alterar el trabajo diario."
+      },
+      {
+       "termino": "Justificación por escrito",
+       "definicion": "Documento necesario para solicitar permisos o explicar por qué no se cumple una norma estándar."
+      }
+     ]
+    },
+    "desplegables": {
+     "titulo": "Preguntas frecuentes sobre normas",
+     "items": [
+      {
+       "titulo": "¿Puedo compartir mi contraseña por correo?",
+       "texto": "No, está estrictamente prohibido compartir contraseñas personales por este medio."
+      },
+      {
+       "titulo": "¿Qué requisitos debe tener mi contraseña?",
+       "texto": "Debe tener un mínimo de 14 caracteres, incluyendo letras, números y símbolos."
+      },
+      {
+       "titulo": "¿Cuánto tiempo dura una contraseña?",
+       "texto": "Deben renovarse de forma obligatoria cada 120 días."
+      }
+     ]
+    },
+    "comprobacion": {
+     "enunciado": "¿Cuál es el plazo máximo para responder a un correo electrónico de un cliente?",
+     "opciones": [
+      "En un máximo de una jornada laboral",
+      "Solo cuando el responsable lo autorice",
+      "En menos de una hora",
+      "En tres días laborables"
+     ],
+     "correcta": 0,
+     "explicacion": "La rapidez en la atención es un pilar fundamental y se debe responder en un máximo de una jornada laboral."
+    }
+   },
+   "fuentes": [
+    "M004",
+    "M012",
+    "M014",
+    "M019",
+    "M027",
+    "M028",
+    "M029",
+    "M044",
+    "M047",
+    "M049"
+   ],
+   "casoPractico": {
+    "titulo": "Gestión de archivos y seguridad en el departamento de Compras",
+    "escenario": [
+     "Eres un nuevo administrativo en el departamento de Compras de Distribuciones Nova. Durante tu primera semana, tu responsable te pide que organices las facturas del mes pasado para una auditoría interna que realizará la dirección.",
+     "Mientras organizas los documentos, un compañero te comenta que, como hay mucha prisa, puedes guardar algunas facturas en una carpeta compartida sin seguir el orden habitual del departamento. Además, te pide que le facilites tu contraseña de acceso para que él pueda revisar unos datos rápidamente desde su puesto."
+    ],
+    "preguntas": [
+     {
+      "enunciado": "¿Cómo debes proceder con la organización de las facturas para la auditoría?",
+      "opciones": [
+       "Guardarlas en cualquier lugar, ya que los documentos son solo para uso interno y no necesitan orden.",
+       "Seguir las prácticas habituales del departamento de Compras, ya que el orden es la base de la transparencia.",
+       "Pedirle al compañero que decida dónde ponerlas para evitar responsabilidades.",
+       "Guardarlas en la carpeta compartida para ahorrar tiempo y cumplir con la prisa del compañero."
+      ],
+      "correcta": 1,
+      "explicacion": "El texto indica que cada departamento tiene sus pautas y que la base siempre es la transparencia y el orden."
+     },
+     {
+      "enunciado": "¿Qué debes hacer ante la petición de tu compañero sobre tu contraseña?",
+      "opciones": [
+       "Cambiar tu contraseña inmediatamente y darle la nueva.",
+       "Negarte a compartirla y explicarle que está prohibido compartir contraseñas personales.",
+       "Entregársela por correo electrónico para que pueda trabajar más rápido.",
+       "Facultarle el acceso solo por hoy, ya que es un compañero de confianza."
+      ],
+      "correcta": 1,
+      "explicacion": "Está estrictamente prohibido compartir las contraseñas personales a través de correo electrónico y se debe gestionar los permisos con el equipo técnico."
+     },
+     {
+      "enunciado": "Si encuentras un documento que no sabes exactamente dónde archivar, ¿cuál es el procedimiento correcto?",
+      "opciones": [
+       "Preguntarle a cualquier otro compañero que veas por la oficina.",
+       "Esperar a que el auditor te diga dónde ponerlo.",
+       "Archivarlo en la carpeta más cercana para no retrasar el trabajo.",
+       "Consultar siempre con tu responsable directo."
+      ],
+      "correcta": 3,
+      "explicacion": "El texto especifica que ante dudas sobre dónde guardar un documento específico, se debe consultar siempre con el responsable directo."
+     }
+    ]
+   },
+   "autoevaluacion": {
+    "preguntas": [
+     {
+      "enunciado": "¿Cuándo se debe realizar obligatoriamente la verificación de la copia de seguridad de la base de clientes?",
+      "opciones": [
+       "Solo cuando la dirección lo solicite expresamente.",
+       "Cada viernes al finalizar la jornada laboral.",
+       "Cada primer lunes de mes.",
+       "Cada vez que el sistema indique que se ha guardado la información."
+      ],
+      "correcta": 2,
+      "explicacion": "La norma NOVA-06 establece que la verificación debe hacerse obligatoriamente cada primer lunes de mes."
+     },
+     {
+      "enunciado": "¿Cuál es el procedimiento para verificar que la copia de seguridad funciona correctamente?",
+      "opciones": [
+       "Borrar los datos antiguos y cargar los nuevos en el servidor principal.",
+       "Restaurar la información en el servidor de pruebas SRV-PRU2.",
+       "Simplemente revisar que el indicador de guardado esté en verde.",
+       "Enviar un correo electrónico a la dirección confirmando el estado."
+      ],
+      "correcta": 1,
+      "explicacion": "El procedimiento consiste en restaurar la información en el servidor de pruebas SRV-PRU2 para no afectar la operativa diaria."
+     },
+     {
+      "enunciado": "¿Qué requisitos debe cumplir una contraseña según la regla NOVA-13?",
+      "opciones": [
+       "Cualquier combinación de 10 caracteres que sea fácil de recordar.",
+       "Un mínimo de 8 caracteres y solo letras.",
+       "Un mínimo de 14 caracteres incluyendo letras, números y símbolos.",
+       "Un mínimo de 12 caracteres con símbolos obligatorios."
+      ],
+      "correcta": 2,
+      "explicacion": "Para garantizar la privacidad, todas las contraseñas deben tener un mínimo de 14 caracteres con combinación de letras, números y símbolos."
+     },
+     {
+      "enunciado": "¿Cuál es el plazo máximo para responder a los correos electrónicos de los clientes?",
+      "opciones": [
+       "No hay plazo, siempre que se responda antes de que el cliente reclame.",
+       "En un máximo de dos horas.",
+       "En un máximo de 48 horas.",
+       "En un máximo de una jornada laboral."
+      ],
+      "correcta": 3,
+      "explicacion": "Los correos electrónicos recibidos deben ser respondidos en un máximo de una jornada laboral."
+     }
+    ]
+   }
+  },
+  {
+   "titulo": "Atención telefónica a clientes",
+   "cubre": [
+    {
+     "id": "3",
+     "titulo": "Atención telefónica a clientes"
+    }
+   ],
+   "objetivos": [
+    "Aprender el protocolo de saludo y respuesta telefónica de Distribuciones Nova.",
+    "Conocer el procedimiento correcto para la transferencia de llamadas entre departamentos.",
+    "Dominar los plazos y formatos de respuesta para reclamaciones y correos electrónicos."
+   ],
+   "puntos_clave": [
+    "Atender antes del cuarto tono con el saludo oficial y nombre propio.",
+    "Transferir llamadas siempre con aviso previo y presentación al compañero.",
+    "Responder reclamaciones en 48 horas usando el código REC-año-número."
+   ],
+   "secciones": [
+    {
+     "titulo": "Cultura de atención al cliente",
+     "parrafos": [
+      "En Distribuciones Nova, la atención telefónica es una pieza clave de nuestra imagen profesional. Buscamos siempre ofrecer un trato amable y eficiente a todos nuestros clientes. El objetivo es que cada persona que llame se sienta escuchada y bien atendida. Por ello, es fundamental mantener un tono de voz adecuado y una actitud colaborativa.",
+      "La empresa promueve un entorno de trabajo basado en el respeto mutuo y el orden. Estas normas no son solo reglas rígidas, sino una guía para trabajar con criterio profesional. Esperamos que el personal actúe siempre con buena fe en cada interacción. Un ambiente de trabajo positivo se refleja directamente en la calidad del servicio.",
+      "Es importante entender que estas prácticas complementan la normativa general y el convenio vigente. Todos los registros derivados de estas comunicaciones forman parte del archivo oficial de la empresa. La dirección puede revisar estos documentos durante las auditorías periódicas para asegurar la calidad. Debes sentirte seguro siguiendo estos pasos para garantizar la excelencia en el servicio."
+     ],
+     "imagen": {
+      "prompt": "clean modern flat vector illustration, soft colors, showing a group of diverse office workers collaborating in a bright, organized workspace with friendly expressions.",
+      "tipo": "ilustracion",
+      "archivo": "imagenes/l4-s1.jpg"
+     }
+    },
+    {
+     "titulo": "Protocolo de saludo y recepción",
+     "parrafos": [
+      "La primera impresión es vital cuando un cliente llama a nuestra centralita. Según la regla NOVA-07, debemos atender la llamada antes de que suene el cuarto tono. Esto demuestra que estamos atentos y listos para ayudar de inmediato. Un saludo rápido y profesional marca la diferencia en la experiencia del usuario.",
+      "El saludo oficial debe comenzar siempre con la frase «Distribuciones Nova, le atiende» seguida de tu nombre propio. Por ejemplo, si te llamas Juan, deberás decir: «Distribuciones Nova, le atiende Juan». Este formato unifica nuestra identidad corporativa y facilita la identificación del interlocutor. Es una norma básica que todos debemos aplicar con precisión.",
+      "Si por alguna razón técnica o de emergencia necesitas variar este procedimiento, debes justificarlo por escrito. Esta excepción requiere obligatoriamente el visto bueno de la persona responsable de tu área. En caso de duda sobre una situación específica, consulta siempre a tu responsable directo. El objetivo es mantener la coherencia en la comunicación con nuestros clientes."
+     ],
+     "imagen": {
+      "prompt": "Photorealistic photograph, a friendly office worker with a headset smiling while talking on a phone in a modern office with natural light.",
+      "tipo": "foto",
+      "archivo": "imagenes/l4-s2.jpg"
+     }
+    },
+    {
+     "titulo": "Transferencias de llamadas efectivas",
+     "parrafos": [
+      "A veces, la consulta de un cliente requiere la intervención de otro departamento especializado. En estos casos, es fundamental seguir el procedimiento de transferencia establecido en la regla NOVA-08. Nunca debemos pasar una llamada directamente sin hablar con el cliente primero. Esta práctica evita que el usuario se sienta ignorado o confundido.",
+      "Antes de realizar la transferencia, debes avisar claramente al cliente sobre el paso que vas a dar. Explica quién le va a atender y por qué es necesario el cambio de departamento. Por ejemplo, puedes decir: «Voy a pasarle con el departamento de logística para que le den más detalles». Esto genera confianza y transparencia en el proceso.",
+      "Una vez avisado, realiza la transferencia con una presentación previa al compañero que recibe la llamada. No se permiten las llamadas en frío donde el cliente es soltado sin contexto. Asegúrate de que el compañero sepa de qué trata la consulta antes de que el cliente hable. Esto garantiza una atención fluida y profesional en toda la cadena."
+     ],
+     "imagen": {
+      "prompt": "clean modern flat vector illustration, soft colors, showing a flow chart of a phone call moving from one office department to another with icons.",
+      "tipo": "ilustracion"
+     }
+    },
+    {
+     "titulo": "Gestión de reclamaciones y plazos",
+     "parrafos": [
+      "Las reclamaciones de los clientes son situaciones delicadas que requieren una respuesta rápida y organizada. Según la regla NOVA-19, tenemos un plazo máximo de 48 horas para responder a estas solicitudes. Cumplir con este tiempo es esencial para mantener la satisfacción y fidelidad del cliente. Debemos priorizar estas tareas para evitar retrasos en la resolución.",
+      "Cada reclamación debe quedar debidamente registrada en nuestro sistema interno de gestión. Para ello, utilizaremos un identificador específico con el formato REC-número-año. Por ejemplo, una reclamación recibida en 2024 sería la REC-2024-001. Este sistema nos permite localizar la información rápidamente en cualquier momento del proceso.",
+      "Es vital que el registro sea preciso y contenga todos los datos relevantes del caso. Una gestión ordenada facilita que otros compañeros puedan dar seguimiento si es necesario. Recuerda que estos documentos son auditables y deben reflejar la realidad de la atención prestada. La trazabilidad es la clave para una gestión de calidad en Distribuciones Nova."
+     ],
+     "imagen": {
+      "prompt": "Photorealistic photograph, a close-up of a hand typing on a computer keyboard with a professional office environment in the background.",
+      "tipo": "foto"
+     }
+    },
+    {
+     "titulo": "Comunicación por correo electrónico",
+     "parrafos": [
+      "La atención al cliente no se limita solo a las llamadas, también incluye la gestión del correo electrónico. La regla NOVA-23 establece que debemos responder a los clientes en un máximo de una jornada laboral. Esto significa que si recibes un correo por la mañana, debes contestar ese mismo día. La rapidez en la respuesta es un pilar de nuestro servicio. Las respuestas a clientes de más de 5.000 euros deben copiarse siempre al director comercial.",
+      "Todos los correos enviados a clientes deben incluir obligatoriamente la firma corporativa de la empresa. Esta firma debe contener tanto el nombre del responsable como su cargo. Es una forma sencilla de proporcionar canales de contacto adicionales al usuario. Asegúrate de que tu firma esté siempre actualizada antes de enviar cualquier mensaje.",
+      "Si surge alguna situación excepcional que impida cumplir con este plazo, es necesario solicitar una autorización previa. Cualquier desviación de la norma debe justificarse por escrito y contar con el visto bueno del responsable. Como en otros procesos, si tienes dudas sobre cómo proceder, consulta con tu superior directo. Mantener la coherencia en todos los canales es nuestra prioridad."
+     ],
+     "imagen": {
+      "prompt": "clean modern flat vector illustration, soft colors, showing an envelope icon with a checkmark and a digital communication flow.",
+      "tipo": "ilustracion"
+     }
+    }
+   ],
+   "interacciones": {
+    "pestanas": {
+     "titulo": "Canales de atención en Distribuciones Nova",
+     "items": [
+      {
+       "titulo": "Atención telefónica",
+       "texto": "Es la pieza clave de nuestra imagen profesional. El objetivo es que el cliente se sienta escuchado y bien atendido con un tono amable."
+      },
+      {
+       "titulo": "Correo electrónico",
+       "texto": "Requiere una respuesta en un máximo de una jornada laboral. Es obligatorio incluir siempre la firma corporativa con teléfono y web."
+      },
+      {
+       "titulo": "Gestión de reclamaciones",
+       "texto": "Deben resolverse en un plazo máximo de 48 horas. Cada caso debe quedar registrado con un identificador específico en el sistema."
+      }
+     ]
+    },
+    "pasos": {
+     "titulo": "Procedimiento para transferir una llamada",
+     "items": [
+      {
+       "titulo": "Aviso previo",
+       "texto": "Informa claramente al cliente que vas a pasarle con otro departamento y explica el motivo."
+      },
+      {
+       "titulo": "Identificación del destino",
+       "texto": "Indica al cliente con quién va a hablar específicamente para generar confianza."
+      },
+      {
+       "titulo": "Presentación al compañero",
+       "texto": "Realiza una presentación previa al compañero que recibe la llamada para darle contexto."
+      },
+      {
+       "titulo": "Transferencia final",
+       "texto": "Pasa la llamada una vez que el compañero esté preparado para atender al cliente."
+      }
+     ]
+    },
+    "tarjetas": {
+     "titulo": "Glosario de términos",
+     "items": [
+      {
+       "termino": "Identidad corporativa",
+       "definicion": "Unidad de imagen que se mantiene mediante el uso de saludos y formatos oficiales."
+      },
+      {
+       "termino": "Trazabilidad",
+       "definicion": "Capacidad de seguir el historial de una gestión de calidad a través de registros precisos."
+      },
+      {
+       "termino": "Auditoría",
+       "definicion": "Revisión periódica de los documentos y registros por parte de la dirección para asegurar la calidad."
+      },
+      {
+       "termino": "Firma corporativa",
+       "definicion": "Bloque de datos obligatorio en correos que incluye el teléfono y la página web de la empresa."
+      }
+     ]
+    },
+    "desplegables": {
+     "titulo": "Dudas frecuentes y normas",
+     "items": [
+      {
+       "titulo": "¿Qué hacer si hay una emergencia técnica que impida seguir el protocolo?",
+       "texto": "Debes justificarlo por escrito y obtener obligatoriamente el visto bueno de la persona responsable de tu área."
+      },
+      {
+       "titulo": "¿Cuál es el formato correcto para registrar una reclamación?",
+       "texto": "Se debe utilizar el identificador REC-año-número (por ejemplo, REC-2024-001)."
+      },
+      {
+       "titulo": "¿Por qué no se deben hacer llamadas en frío al transferir?",
+       "texto": "Para evitar que el usuario se sienta ignorado o confundido al ser 'soltado' sin contexto por el compañero."
+      }
+     ]
+    },
+    "comprobacion": {
+     "enunciado": "¿Cuál es el plazo máximo para responder a una reclamación de un cliente?",
+     "opciones": [
+      "Una jornada laboral",
+      "48 horas",
+      "24 horas",
+      "72 horas"
+     ],
+     "correcta": 1,
+     "explicacion": "Según la regla NOVA-19, el plazo máximo para responder a las reclamaciones es de 48 horas."
+    }
+   },
+   "fuentes": [
+    "M014",
+    "M016",
+    "M017",
+    "M018",
+    "M021",
+    "M024",
+    "M041",
+    "M045",
+    "M046",
+    "M049"
+   ],
+   "casoPractico": {
+    "titulo": "Gestión de una llamada compleja",
+    "escenario": [
+     "Eres un nuevo administrativo en la centralita de Distribuciones Nova. Suena el teléfono y, tras esperar dos tonos, te identificas correctamente con el cliente. Un usuario te llama porque tiene un problema urgente con el envío de su pedido y necesita hablar con el equipo de logística.",
+     "Para resolver su duda, necesitas trasladar la llamada al departamento correspondiente. Sin embargo, no sabes exactamente qué información necesita el compañero de logística para darle una respuesta rápida y el cliente parece bastante impaciente."
+    ],
+    "preguntas": [
+     {
+      "enunciado": "¿Cómo debes proceder para trasladar la llamada al departamento de logística?",
+      "opciones": [
+       "Pasar la llamada directamente para que el cliente explique su problema al compañero.",
+       "Avisar al cliente que vas a pasarle con logística y explicarle por qué es necesario el cambio.",
+       "Transferir la llamada inmediatamente sin hablar con el cliente para ahorrar tiempo.",
+       "Pedirle al cliente que cuelgue y vuelva a llamar más tarde para que logística le atienda."
+      ],
+      "correcta": 1,
+      "explicacion": "Según la regla NOVA-08, nunca se debe pasar una llamada sin hablar con el cliente primero para evitar que se sienta ignorado."
+     },
+     {
+      "enunciado": "¿Qué debes hacer antes de que el compañero de logística reciba la llamada?",
+      "opciones": [
+       "Asegurarte de que el compañero sepa de qué trata la consulta antes de que el cliente hable.",
+       "Simplemente marcar el número interno y dejar que el cliente hable.",
+       "Enviar un correo electrónico al compañero con los datos del cliente.",
+       "Pedirle al cliente que espere en silencio hasta que el compañero conteste."
+      ],
+      "correcta": 0,
+      "explicacion": "La normativa prohíbe las llamadas en frío; el compañero debe conocer el contexto antes de que el cliente hable."
+     },
+     {
+      "enunciado": "Si por alguna razón técnica no pudieras seguir el protocolo de saludo estándar, ¿qué deberías hacer?",
+      "opciones": [
+       "Seguir usando el saludo oficial aunque la tecnología falle.",
+       "Pedirle al cliente que llame a otro número de la empresa.",
+       "Inventar un saludo diferente que suene profesional.",
+       "Justificarlo por escrito y obtener el visto bueno de la persona responsable de tu área."
+      ],
+      "correcta": 3,
+      "explicacion": "Cualquier variación del procedimiento oficial por razones técnicas o de emergencia requiere justificación escrita y autorización del responsable."
+     }
+    ]
+   },
+   "autoevaluacion": {
+    "preguntas": [
+     {
+      "enunciado": "¿Cuál es el plazo máximo para responder a una reclamación de un cliente?",
+      "opciones": [
+       "48 horas",
+       "24 horas",
+       "Una jornada laboral",
+       "72 horas"
+      ],
+      "correcta": 0,
+      "explicacion": "La regla NOVA-19 establece un plazo máximo de 48 horas para responder a las reclamaciones."
+     },
+     {
+      "enunciado": "¿Qué elementos debe incluir obligatoriamente la firma corporativa en los correos electrónicos?",
+      "opciones": [
+       "El nombre de la empresa, el teléfono y la dirección web.",
+       "Solo la dirección de la página web.",
+       "El cargo del empleado y el departamento.",
+       "Solo el nombre del empleado."
+      ],
+      "correcta": 0,
+      "explicacion": "La firma debe contener obligatoriamente el número de teléfono y la dirección de la página web."
+     },
+     {
+      "enunciado": "¿Cómo debe ser el saludo oficial en Distribuciones Nova?",
+      "opciones": [
+       "Bienvenido a Distribuciones Nova, dígame.",
+       "Distribuciones Nova, ¿en qué puedo ayudarle?",
+       "Distribuciones Nova, le atiende [tu nombre propio].",
+       "Hola, habla con el departamento de atención."
+      ],
+      "correcta": 2,
+      "explicacion": "El saludo oficial debe comenzar con la frase «Distribuciones Nova, le atiende» seguida del nombre propio."
+     },
+     {
+      "enunciado": "¿Cuál es el formato correcto para registrar una reclamación en el sistema interno?",
+      "opciones": [
+       "RECL-año-número",
+       "ID-año-número",
+       "NOVA-año-número",
+       "REC-año-número"
+      ],
+      "correcta": 3,
+      "explicacion": "El sistema utiliza el identificador específico con el formato REC-año-número."
+     }
+    ]
+   }
+  }
+ ],
+ "cuestionario": {
+  "titulo": "Cuestionario final",
+  "aprobado": 70,
+  "preguntas": [
+   {
+    "enunciado": "¿Cuál es el color que se debe utilizar siempre para la serie principal en los gráficos de columnas?",
+    "opciones": [
+     "Verde menta",
+     "Azul marino",
+     "Rojo intenso",
+     "Gris oscuro"
+    ],
+    "correcta": 0,
+    "explicacion": "La normativa de Distribuciones Nova establece el uso del color verde menta para la serie principal de los gráficos de columnas."
+   },
+   {
+    "enunciado": "¿Cuál es la estructura correcta para titular un gráfico si trabajas en el departamento de Compras?",
+    "opciones": [
+     "Gasto por proveedor (Compras)",
+     "Informe de Compras - Gasto",
+     "Gráfico de gasto por proveedor",
+     "Compras: gasto por proveedor"
+    ],
+    "correcta": 3,
+    "explicacion": "Los títulos deben empezar siempre con el nombre del departamento seguido de dos puntos."
+   },
+   {
+    "enunciado": "¿En qué día de la semana se deben guardar los informes en la carpeta compartida «Informes cerrados»?",
+    "opciones": [
+     "Viernes",
+     "Sábado",
+     "Miércoles",
+     "Lunes"
+    ],
+    "correcta": 0,
+    "explicacion": "El proceso de guardado de los informes semanales debe realizarse estrictamente todos los viernes."
+   },
+   {
+    "enunciado": "¿Cuál es el formato correcto para nombrar un archivo generado el 25 de mayo de 2024?",
+    "opciones": [
+     "2024-05-25_Departamento",
+     "25-05-2024_Departamento",
+     "Informe_250524",
+     "Archivo_Departamento_2024"
+    ],
+    "correcta": 0,
+    "explicacion": "La nomenclatura obligatoria es AAAA-MM-DD_departamento."
+   },
+   {
+    "enunciado": "¿Cuál es el requisito mínimo de caracteres para las contraseñas de la empresa?",
+    "opciones": [
+     "8 caracteres",
+     "14 caracteres",
+     "10 caracteres",
+     "12 caracteres"
+    ],
+    "correcta": 1,
+    "explicacion": "Cada contraseña debe tener un mínimo de 14 caracteres y renovarse cada 120 días."
+   },
+   {
+    "enunciado": "¿Qué condición es imprescindible para sacar un portátil de la oficina?",
+    "opciones": [
+     "Que el usuario lleve el manual de procedimientos",
+     "Que el equipo esté conectado a la red Wi-Fi",
+     "Que el disco duro esté correctamente cifrado",
+     "Que el usuario tenga la llave del edificio"
+    ],
+    "correcta": 2,
+    "explicacion": "Los equipos solo pueden salir de la oficina si el disco duro está correctamente cifrado mediante la herramienta CIFRA-3."
+   },
+   {
+    "enunciado": "¿Cuál es el procedimiento correcto para verificar la copia de seguridad de la base de clientes?",
+    "opciones": [
+     "Restaurar la información en el servidor de pruebas SRV-PRU2 el primer lunes de mes",
+     "Enviar un correo electrónico al equipo técnico confirmando que el sistema funciona",
+     "Verificar el sistema automáticamente cada viernes",
+     "Pedir permiso por escrito para saltarse la verificación mensual"
+    ],
+    "correcta": 0,
+    "explicacion": "La norma NOVA-06 establece que la verificación debe hacerse el primer lunes de mes restaurando los datos en el servidor de pruebas SRV-PRU2."
+   },
+   {
+    "enunciado": "¿Qué requisitos deben cumplir las contraseñas según la regla de Seguridad Informática?",
+    "opciones": [
+     "Mínimo de 14 caracteres y renovación cada 120 días",
+     "Mínimo de 10 caracteres y cambio solo cuando se pierda el acceso",
+     "Mínimo de 8 caracteres y cambio cada 6 meses",
+     "Mínimo de 14 caracteres y cambio cada 30 días"
+    ],
+    "correcta": 0,
+    "explicacion": "La regla NOVA-13 exige un mínimo de 14 caracteres y una renovación obligatoria cada 120 días."
+   },
+   {
+    "enunciado": "¿Cómo debe ser el saludo oficial al atender una llamada en la centralita?",
+    "opciones": [
+     "Hola, bienvenido a Distribuciones Nova",
+     "Buenos días, habla el departamento de atención al cliente",
+     "Distribuciones Nova, ¿en qué puedo ayudarle?",
+     "Distribuciones Nova, le atiende seguido de tu nombre propio"
+    ],
+    "correcta": 3,
+    "explicacion": "Según la regla NOVA-07, el saludo debe comenzar con la frase «Distribuciones Nova, le atiende» seguida del nombre del empleado."
+   },
+   {
+    "enunciado": "¿Cuál es el plazo máximo para responder a una reclamación de un cliente?",
+    "opciones": [
+     "Un máximo de 48 horas",
+     "Un máximo de 24 horas",
+     "Tres días hábiles",
+     "Un máximo de una jornada laboral"
+    ],
+    "correcta": 0,
+    "explicacion": "La regla NOVA-19 establece que el plazo máximo para responder a las reclamaciones es de 48 horas."
+   },
+   {
+    "enunciado": "¿Qué procedimiento se debe seguir si no se puede cumplir con un plazo de respuesta por una situación excepcional?",
+    "opciones": [
+     "Responder el correo con una disculpa pero sin firma corporativa",
+     "Justificarlo por escrito y obtener el visto bueno del responsable del área",
+     "Pedirle al compañero más veterano que responda por ti",
+     "Informar al cliente que no se podrá responder hasta la siguiente semana"
+    ],
+    "correcta": 1,
+    "explicacion": "Cualquier excepción a las normas de respuesta debe ser justificada por escrito y contar con la autorización del responsable."
+   },
+   {
+    "enunciado": "¿Qué debe incluir obligatoriamente la firma corporativa en los correos electrónicos a clientes?",
+    "opciones": [
+     "El logotipo de la empresa y el correo electrónico personal",
+     "El nombre del departamento y el cargo del empleado",
+     "El teléfono de contacto y la página web de la empresa",
+     "La dirección física de la oficina y el horario comercial"
+    ],
+    "correcta": 2,
+    "explicacion": "La regla NOVA-23 indica que la firma debe contener obligatoriamente el teléfono de contacto y la página web de la empresa."
+   }
+  ]
+ },
+ "horas": 2,
+ "imagenesPorLeccion": 2,
+ "generacion": {
+  "modelo": "gemma4:12b-it-qat",
+  "respaldo": "qwen3:14b",
+  "perfil": "Público destinatario: Personal administrativo nuevo sin experiencia. Nivel: introductorio. Tono: cercano y práctico.",
+  "fuente": "manual-nova.md",
+  "indiceMaterial": "data/material/manual-nova.index.json"
+ }
+}

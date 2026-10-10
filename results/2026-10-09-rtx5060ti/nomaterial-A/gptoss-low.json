@@ -1,0 +1,103 @@
+{
+  "modelo": "gpt-oss:20b",
+  "fecha": "2026-10-09T21:40:41.693Z",
+  "hallazgos": [
+    {
+      "ambito": "Lección 1: Fundamentos del Data Warehouse",
+      "unidad": "P1.3",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "Los datos en un Data Warehouse se modifican y se borran constantemente una vez que han sido integrados en el repositorio central.",
+      "problema": "Los datos en un Data Warehouse son persistentes y no se modifican ni se borran una vez integrados; la información histórica se mantiene intacta.",
+      "correccion": "Los datos en un Data Warehouse no se modifican ni se borran una vez integrados; se mantiene el historial intacto para el análisis de tendencias.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Fundamentos del Data Warehouse",
+      "unidad": "P2.2",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "El Data Warehouse es el sistema que gestiona las transacciones diarias de la empresa.",
+      "problema": "El Data Warehouse no gestiona las transacciones diarias; esas tareas corresponden a las bases de datos operativas.",
+      "correccion": "El Data Warehouse no gestiona las transacciones diarias; esas tareas corresponden a las bases de datos operativas.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: Sistemas OLTP e implementación del Data Warehouse",
+      "unidad": "P1.1",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "Los sistemas OLTP, o de Procesamiento Analítico en Línea, son el corazón operativo de cualquier empresa moderna.",
+      "problema": "La descripción confunde OLTP con OLAP. OLTP significa Online Transaction Processing, no procesamiento analítico.",
+      "correccion": "Los sistemas OLTP, o de Procesamiento de Transacciones en Línea, son el corazón operativo de cualquier empresa moderna.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: Sistemas OLTP e implementación del Data Warehouse",
+      "unidad": "P2.2",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "Los datos se transforman y cargan desde el almacén de datos hacia los sistemas OLTP mediante procesos programados.",
+      "problema": "El flujo correcto es ETL: extraer datos de OLTP, transformarlos y cargarlos en el Data Warehouse, no al revés.",
+      "correccion": "Los datos se transforman y cargan desde los sistemas OLTP hacia el Data Warehouse mediante procesos programados.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Análisis OLAP y arquitecturas de servidores",
+      "unidad": "P1.1",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "El análisis OLAP permite a los usuarios explorar grandes volúmenes de datos de forma multidimensional. Una de las funciones más útiles es el Drill Down, que permite pasar de una visión detallada a una más general.",
+      "problema": "El Drill Down va de una visión general a una más detallada, no al revés.",
+      "correccion": "El Drill Down permite profundizar en los datos, pasando de una visión general a una más específica.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Análisis OLAP y arquitecturas de servidores",
+      "unidad": "P2.1",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "El modelo ROLAP, o Relational OLAP, almacena los datos en estructuras multidimensionales precalculadas.",
+      "problema": "El ROLAP almacena los datos en una base de datos relacional y no en estructuras multidimensionales precalculadas.",
+      "correccion": "El ROLAP utiliza la base de datos relacional para consultar datos en tiempo real, sin pre-calcular los cubos.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Análisis OLAP y arquitecturas de servidores",
+      "unidad": "P2.3",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "El modelo HOLAP utiliza únicamente almacenamiento relacional y descarta las estructuras multidimensionales.",
+      "problema": "El HOLAP combina estructuras multidimensionales para datos agregados y la base relacional para detalles, no descarta las multidimensionales.",
+      "correccion": "El HOLAP combina cubos multidimensionales para datos agregados con la base relacional para datos detallados.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 5: Procesos ETL en la Arquitectura de BI",
+      "unidad": "P1.1",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "La sigla ETL significa Enviar, Transformar y Limpiar.",
+      "problema": "La definición de la sigla ETL es incorrecta; corresponde a Extract, Transform, Load.",
+      "correccion": "La sigla ETL significa Extract, Transform, Load.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    }
+  ],
+  "noRevisado": []
+}

@@ -1,0 +1,341 @@
+{
+  "modelo": "qwen3:14b",
+  "fecha": "2026-10-09T20:57:01.118Z",
+  "hallazgos": [
+    {
+      "ambito": "Lección 1: Informes semanales y gráficos",
+      "unidad": "P3.2",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "El nombre debe seguir el formato DD-MM-AAAA_departamento, utilizando el año, mes y día actuales. Si hoy fuera 25 de mayo de 2024, el nombre debería ser 2024-05-25_NombreDelDepartamento.",
+      "problema": "El formato de nomenclatura del archivo no es DD-MM-AAAA, sino AAAA-MM-DD según el material de referencia.",
+      "correccion": "El nombre debe seguir el formato AAAA-MM-DD_departamento, utilizando el año, mes y día actuales. Si hoy fuera 25 de mayo de 2024, el nombre debería ser 2024-05-25_NombreDelDepartamento.",
+      "confianza": "alta",
+      "evidencia": "M013",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Informes semanales y gráficos",
+      "unidad": "P4.2",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Cada contraseña debe tener un mínimo de 12 caracteres y debe renovarse obligatoriamente cada 120 días.",
+      "problema": "El material de referencia establece que las contraseñas deben tener un mínimo de 14 caracteres, no 12.",
+      "correccion": "Cada contraseña debe tener un mínimo de 14 caracteres y debe renovarse obligatoriamente cada 120 días.",
+      "confianza": "alta",
+      "evidencia": "M029",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Informes semanales y gráficos",
+      "unidad": "P5.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "las mercancías recibidas deben colocarse en el pasillo asignado en menos de 48 horas",
+      "problema": "El material de referencia establece que las mercancías deben colocarse en menos de 24 horas, no 48.",
+      "correccion": "Las mercancías recibidas deben colocarse en el pasillo asignado en menos de 24 horas.",
+      "confianza": "alta",
+      "evidencia": "M037",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Informes semanales y gráficos",
+      "unidad": "P5.2",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "La reserva se liberará automáticamente si nadie llega a la sala en los primeros 15 minutos",
+      "problema": "El material de referencia establece que la reserva se libera si nadie llega en los primeros 10 minutos, no 15.",
+      "correccion": "La reserva se liberará automáticamente si nadie llega a la sala en los primeros 10 minutos.",
+      "confianza": "alta",
+      "evidencia": "M046",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Informes semanales y gráficos",
+      "unidad": "D3",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "La reserva se liberará automáticamente si nadie llega en los primeros 10 minutos",
+      "problema": "El material de referencia establece que la reserva se libera si nadie llega en los primeros 10 minutos, no 15.",
+      "correccion": "La reserva se liberará automáticamente si nadie llega a la sala en los primeros 10 minutos.",
+      "confianza": "alta",
+      "evidencia": "M046",
+      "citaLiteral": false
+    },
+    {
+      "ambito": "Lección 1: Informes semanales y gráficos",
+      "unidad": "CP3",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Si hoy fuera 25 de mayo de 2024, el nombre debería ser 2024-05-25_NombreDelDepartamento",
+      "problema": "El formato de nomenclatura del archivo no es AAAA-MM-DD, sino DD-MM-AAAA según el material de referencia.",
+      "correccion": "Si hoy fuera 25 de mayo de 2024, el nombre debería ser 25-05-2024_NombreDelDepartamento.",
+      "confianza": "alta",
+      "evidencia": "M013",
+      "citaLiteral": false
+    },
+    {
+      "ambito": "Lección 2: Archivo y copias de seguridad",
+      "unidad": "P2.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Cada viernes, es obligatorio guardar el fichero correspondiente en la carpeta compartida denominada «Informes cerrados». Este proceso asegura que la información esté disponible para el resto del equipo de forma estructurada. Por ejemplo, al terminar la semana, debes verificar que todos tus informes estén allí. Los ficheros se nombran además con el prefijo INF y el nombre del autor.",
+      "problema": "La unidad afirma que los ficheros se nombran con el prefijo INF y el nombre del autor, lo cual no se menciona en el material de referencia. Además, el material de referencia no menciona un prefijo INF, lo que contradice la información proporcionada.",
+      "correccion": "Eliminar la parte sobre el prefijo INF y el nombre del autor, ya que no se menciona en el material de referencia.",
+      "confianza": "alta",
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: Archivo y copias de seguridad",
+      "unidad": "P3.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Esta tarea debe realizarse obligatoriamente cada primer viernes de mes sin falta.",
+      "problema": "La unidad afirma que la verificación de la base de clientes se realiza cada primer viernes de mes, pero el material de referencia indica que se realiza cada primer lunes de mes.",
+      "correccion": "Corregir la frase a: 'Esta tarea debe realizarse obligatoriamente cada primer lunes de mes sin falta.'",
+      "confianza": "alta",
+      "evidencia": "M014",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: Archivo y copias de seguridad",
+      "unidad": "P4.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "debe renovarse obligatoriamente cada 180 días",
+      "problema": "La unidad afirma que las contraseñas deben renovarse cada 180 días, pero el material de referencia indica que deben renovarse cada 120 días.",
+      "correccion": "Corregir la frase a: 'debe renovarse obligatoriamente cada 120 días.'",
+      "confianza": "alta",
+      "evidencia": "M029",
+      "citaLiteral": false
+    },
+    {
+      "ambito": "Lección 2: Archivo y copias de seguridad",
+      "unidad": "P4.3",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "mediante la herramienta específica CIFRA-5",
+      "problema": "La unidad afirma que el cifrado se activa mediante la herramienta CIFRA-5, pero el material de referencia indica que se activa mediante la herramienta CIFRA-3.",
+      "correccion": "Corregir la frase a: 'mediante la herramienta específica CIFRA-3.'",
+      "confianza": "alta",
+      "evidencia": "M030",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: Archivo y copias de seguridad",
+      "unidad": "K2",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "cada primer lunes de mes",
+      "problema": "La unidad afirma que la verificación de la base de clientes se realiza cada primer lunes de mes, pero el material de referencia indica que se realiza cada primer lunes de mes. Sin embargo, la unidad menciona 'primer lunes', lo cual es correcto, pero la frase 'cada primer lunes de mes' es redundante y no se menciona en el material.",
+      "correccion": "Eliminar la redundancia y reescribir como: 'La base de clientes se verifica el primer lunes de mes restaurándola en el servidor de pruebas SRV-PRU2.'",
+      "confianza": "alta",
+      "evidencia": "M014",
+      "citaLiteral": false
+    },
+    {
+      "ambito": "Lección 3: Archivo y copias de seguridad",
+      "unidad": "P5.2",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Los correos electrónicos recibidos deben ser respondidos en un máximo de dos jornadas laborales.",
+      "problema": "La unidad afirma que los correos deben responderse en un máximo de dos jornadas laborales, pero el material de referencia (M049) indica que deben responderse en un máximo de una jornada laboral.",
+      "correccion": "Los correos electrónicos recibidos deben ser respondidos en un máximo de una jornada laboral.",
+      "confianza": "alta",
+      "evidencia": "M049",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Archivo y copias de seguridad",
+      "unidad": "Q",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "La rapidez en la atención es un pilar fundamental y se debe responder en un máximo de una jornada laboral.",
+      "problema": "La opción marcada como correcta en la pregunta es 'En un máximo de una jornada laboral', pero la unidad P5.2 afirma que los correos deben responderse en un máximo de dos jornadas laborales, lo cual contradice la información del material de referencia (M049) que indica una jornada laboral.",
+      "correccion": "La opción correcta debe ser 'En un máximo de una jornada laboral', ya que el material de referencia (M049) establece este plazo.",
+      "confianza": "alta",
+      "evidencia": "M049",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Archivo y copias de seguridad",
+      "unidad": "AE4",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Los correos electrónicos recibidos deben ser respondidos en un máximo de una jornada laboral.",
+      "problema": "La opción marcada como correcta en la autoevaluación es 'En un máximo de una jornada laboral', pero la unidad P5.2 afirma que los correos deben responderse en un máximo de dos jornadas laborales, lo cual contradice la información del material de referencia (M049) que indica una jornada laboral.",
+      "correccion": "La opción correcta debe ser 'En un máximo de una jornada laboral', ya que el material de referencia (M049) establece este plazo.",
+      "confianza": "alta",
+      "evidencia": "M049",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 4: Atención telefónica a clientes",
+      "unidad": "P2.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "debemos atender la llamada antes de que suene el cuarto tono",
+      "problema": "La norma establece que se debe atender antes del cuarto tono, no antes de que suene el cuarto tono.",
+      "correccion": "debemos atender la llamada antes del cuarto tono",
+      "confianza": "alta",
+      "evidencia": "M017",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 4: Atención telefónica a clientes",
+      "unidad": "P4.2",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "formato REC-número-año",
+      "problema": "El formato correcto es REC-año-número, no REC-número-año.",
+      "correccion": "formato REC-año-número",
+      "confianza": "alta",
+      "evidencia": "M041",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 4: Atención telefónica a clientes",
+      "unidad": "P5.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "respuesta a clientes de más de 5.000 euros deben copiarse siempre al director comercial",
+      "problema": "No existe esta regla en el material de referencia.",
+      "correccion": "Esta regla no está mencionada en el material de referencia.",
+      "confianza": "alta",
+      "evidencia": "",
+      "citaLiteral": false
+    },
+    {
+      "ambito": "Lección 4: Atención telefónica a clientes",
+      "unidad": "P5.2",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Es obligatorio incluir siempre la firma corporativa con teléfono y web",
+      "problema": "La firma corporativa debe incluir el nombre del responsable y su cargo, no solo teléfono y web.",
+      "correccion": "Es obligatorio incluir siempre la firma corporativa con nombre del responsable y su cargo",
+      "confianza": "alta",
+      "evidencia": "M049",
+      "citaLiteral": false
+    },
+    {
+      "ambito": "Lección 4: Atención telefónica a clientes",
+      "unidad": "K3",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "formato REC-año-número",
+      "problema": "El formato correcto es REC-año-número, no REC-año-número (la frase está correcta, pero en la unidad se menciona el formato de forma ambigua).",
+      "correccion": "formato REC-año-número",
+      "confianza": "alta",
+      "evidencia": "M041",
+      "citaLiteral": false
+    },
+    {
+      "ambito": "Lección 4: Atención telefónica a clientes",
+      "unidad": "P2",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Es obligatorio incluir siempre la firma corporativa con teléfono y web",
+      "problema": "La firma corporativa debe incluir el nombre del responsable y su cargo, no solo teléfono y web.",
+      "correccion": "Es obligatorio incluir siempre la firma corporativa con nombre del responsable y su cargo",
+      "confianza": "alta",
+      "evidencia": "M049",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 4: Atención telefónica a clientes",
+      "unidad": "D2",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "formato REC-número-año",
+      "problema": "El formato correcto es REC-año-número, no REC-número-año.",
+      "correccion": "formato REC-año-número",
+      "confianza": "alta",
+      "evidencia": "M041",
+      "citaLiteral": false
+    },
+    {
+      "ambito": "Lección 4: Atención telefónica a clientes",
+      "unidad": "G4",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Bloque de datos obligatorio en correos que incluye el teléfono y la página web de la empresa",
+      "problema": "La firma corporativa debe incluir el nombre del responsable y su cargo, no solo teléfono y web.",
+      "correccion": "Bloque de datos obligatorio en correos que incluye el nombre del responsable y su cargo",
+      "confianza": "alta",
+      "evidencia": "M049",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 4: Atención telefónica a clientes",
+      "unidad": "AE2",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "El nombre de la empresa, el teléfono y la dirección web",
+      "problema": "La firma corporativa debe incluir el nombre del responsable y su cargo, no solo el nombre de la empresa, el teléfono y la dirección web.",
+      "correccion": "El nombre del responsable y su cargo",
+      "confianza": "alta",
+      "evidencia": "M049",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Cuestionario, preguntas 1-6",
+      "unidad": "T5",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "Cada contraseña debe tener un mínimo de 14 caracteres y renovarse obligatoriamente cada 120 días.",
+      "problema": "La respuesta marcada como correcta (14 caracteres) es incorrecta. Según el texto, la regla NOVA-13 establece que las contraseñas deben tener un mínimo de 14 caracteres, pero en la sección 'Seguridad de dispositivos y contraseñas', se menciona que la regla NOVA-13 establece un mínimo de 14 caracteres, pero en la sección 'Seguridad informática', se menciona que las contraseñas deben tener un mínimo de 12 caracteres. Sin embargo, en la sección 'Seguridad de dispositivos y contraseñas', se menciona que la regla NOVA-13 establece un mínimo de 14 caracteres, lo cual es el criterio más reciente y correcto.",
+      "correccion": "La respuesta correcta es b) 14 caracteres, ya que la regla NOVA-13 establece que las contraseñas deben tener un mínimo de 14 caracteres.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": false
+    },
+    {
+      "ambito": "Cuestionario, preguntas 1-6",
+      "unidad": "T6",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "Los equipos solo pueden salir de la oficina si el disco duro está correctamente cifrado mediante la herramienta CIFRA-3.",
+      "problema": "La respuesta marcada como correcta (c) menciona la herramienta CIFRA-3, pero en el texto se menciona la herramienta CIFRA-5. Esto es un error factual.",
+      "correccion": "La respuesta correcta es c) Que el disco duro esté correctamente cifrado, pero la herramienta mencionada en el texto es CIFRA-5, no CIFRA-3.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    }
+  ],
+  "noRevisado": [],
+  "material": {
+    "unidades": 170,
+    "respaldado": 124,
+    "no_consta": 3,
+    "contradice": 20,
+    "general": 23,
+    "porcentajeRespaldado": 84,
+    "porLeccion": {
+      "Lección 1: Informes semanales y gráficos": {
+        "respaldado": 23,
+        "no_consta": 0,
+        "contradice": 6,
+        "general": 13
+      },
+      "Lección 2: Archivo y copias de seguridad": {
+        "respaldado": 36,
+        "no_consta": 2,
+        "contradice": 3,
+        "general": 2
+      },
+      "Lección 3: Archivo y copias de seguridad": {
+        "respaldado": 40,
+        "no_consta": 0,
+        "contradice": 3,
+        "general": 0
+      },
+      "Lección 4: Atención telefónica a clientes": {
+        "respaldado": 25,
+        "no_consta": 1,
+        "contradice": 8,
+        "general": 8
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+[
+ {
+  "lesson": 2,
+  "originalLesson": 3,
+  "unit": "P1.1",
+  "type": "changed",
+  "before": "Procesamiento de Transacciones en Línea",
+  "after": "Procesamiento Analítico en Línea",
+  "note": "OLTP expanded wrongly"
+ },
+ {
+  "lesson": 3,
+  "originalLesson": 4,
+  "unit": "P2.1",
+  "type": "changed",
+  "before": "almacena los datos directamente en una base de datos relacional tradicional",
+  "after": "almacena los datos en estructuras multidimensionales precalculadas",
+  "note": "ROLAP described as MOLAP"
+ },
+ {
+  "lesson": 3,
+  "originalLesson": 4,
+  "unit": "P2.2",
+  "type": "changed",
+  "before": "extremadamente rápida",
+  "after": "extremadamente lenta",
+  "note": "MOLAP slow"
+ },
+ {
+  "lesson": 1,
+  "originalLesson": 2,
+  "unit": "P1.3",
+  "type": "changed",
+  "before": "no se modifican ni se borran una vez",
+  "after": "se modifican y se borran constantemente una vez",
+  "note": "non-volatility inverted"
+ },
+ {
+  "lesson": 6,
+  "originalLesson": 11,
+  "unit": "P2.2",
+  "type": "changed",
+  "before": "La tabla de hechos contiene las métricas cuantitativas",
+  "after": "La tabla de hechos contiene los atributos descriptivos",
+  "note": "facts and dimensions swapped"
+ },
+ {
+  "lesson": 5,
+  "originalLesson": 10,
+  "unit": "P1.1",
+  "type": "changed",
+  "before": "Su función principal es mover datos",
+  "after": "La sigla ETL significa Enviar, Transformar y Limpiar. Su función principal es mover datos",
+  "note": "ETL expanded wrongly"
+ },
+ {
+  "lesson": 1,
+  "originalLesson": 2,
+  "unit": "P2.2",
+  "type": "changed",
+  "before": "El Data Warehouse separa la carga de análisis de la carga de trabajo diaria.",
+  "after": "El Data Warehouse es el sistema que gestiona las transacciones diarias de la empresa.",
+  "note": "warehouse confused with OLTP"
+ },
+ {
+  "lesson": 3,
+  "originalLesson": 4,
+  "unit": "P1.1",
+  "type": "changed",
+  "before": "pasar de una visión general a una más detallada",
+  "after": "pasar de una visión detallada a una más general",
+  "note": "Drill Down inverted"
+ },
+ {
+  "lesson": 4,
+  "originalLesson": 7,
+  "unit": "P2.1",
+  "type": "changed",
+  "before": "indicadores clave de rendimiento o KPI",
+  "after": "indicadores clave de riesgo o KPI",
+  "note": "KPI expanded wrongly"
+ },
+ {
+  "lesson": 7,
+  "originalLesson": 12,
+  "unit": "P2.2",
+  "type": "changed",
+  "before": "A diferencia del OLAP, que responde a preguntas específicas, el Data Mining busca respuestas que el analista aún no ha formulado.",
+  "after": "Igual que el OLAP, el Data Mining solo responde a preguntas que el analista ya ha formulado.",
+  "note": "data mining described as querying"
+ },
+ {
+  "lesson": 2,
+  "originalLesson": 3,
+  "unit": "P2.2",
+  "type": "changed",
+  "before": "desde los sistemas OLTP hacia el almacén de datos",
+  "after": "desde el almacén de datos hacia los sistemas OLTP",
+  "note": "direction of the load inverted"
+ },
+ {
+  "lesson": 3,
+  "originalLesson": 4,
+  "unit": "P2.3",
+  "type": "changed",
+  "before": "combina las ventajas de ambas arquitecturas para ofrecer una solución híbrida y flexible",
+  "after": "utiliza únicamente almacenamiento relacional y descarta las estructuras multidimensionales",
+  "note": "HOLAP wrongly described"
+ }
+]

@@ -1,0 +1,257 @@
+{
+  "modelo": "qwen3:14b",
+  "fecha": "2026-10-09T21:32:35.257Z",
+  "hallazgos": [
+    {
+      "ambito": "Lección 1: Informes semanales y gráficos",
+      "unidad": "P1.1",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "Debes utilizar siempre el color azul marino para la serie principal en los gráficos de columnas.",
+      "problema": "El material de referencia establece que el color obligatorio para la serie principal es el verde menta, no el azul marino.",
+      "correccion": "Debes utilizar siempre el color verde menta para la serie principal en los gráficos de columnas.",
+      "confianza": "alta",
+      "evidencia": "M009",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Informes semanales y gráficos",
+      "unidad": "P1.2",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "La normativa establece que nunca debemos incluir más de ocho series en un mismo gráfico de columnas.",
+      "problema": "El material de referencia establece que el máximo permitido es cinco series, no ocho.",
+      "correccion": "La normativa establece que nunca debemos incluir más de cinco series en un mismo gráfico de columnas.",
+      "confianza": "alta",
+      "evidencia": "M009",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Informes semanales y gráficos",
+      "unidad": "P2.2",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "Además, el título debe incluir siempre la fecha del informe entre paréntesis.",
+      "problema": "El material de referencia no menciona que el título deba incluir la fecha entre paréntesis.",
+      "correccion": "El título debe empezar siempre con el nombre del departamento seguido de dos puntos, sin incluir la fecha entre paréntesis.",
+      "confianza": "alta",
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Informes semanales y gráficos",
+      "unidad": "P3.1",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "El proceso de guardado de los informes semanales debe realizarse estrictamente todos los lunes.",
+      "problema": "El material de referencia establece que el guardado debe realizarse cada viernes, no los lunes.",
+      "correccion": "El proceso de guardado de los informes semanales debe realizarse estrictamente todos los viernes.",
+      "confianza": "alta",
+      "evidencia": "M013",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Informes semanales y gráficos",
+      "unidad": "D1",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "Nunca se deben incluir más de cinco series en un mismo gráfico para evitar la saturación de información.",
+      "problema": "El material de referencia establece que el máximo permitido es cinco series, no ocho.",
+      "correccion": "Nunca se deben incluir más de cinco series en un mismo gráfico para evitar la saturación de información.",
+      "confianza": "alta",
+      "evidencia": "M009",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: Archivo y copias de seguridad",
+      "unidad": "P2.3",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "La normativa establece que estos documentos deben conservarse durante un periodo de cinco años.",
+      "problema": "El material de referencia indica que los documentos se conservan tres años, no cinco.",
+      "correccion": "Cambiar 'cinco años' por 'tres años' para alinear con el material de referencia.",
+      "confianza": "alta",
+      "evidencia": "M013",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: Archivo y copias de seguridad",
+      "unidad": "P3.2",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "Durante esta verificación, la copia de seguridad debe restaurarse en el servidor de pruebas denominado SRV-PRD1.",
+      "problema": "El material de referencia menciona el servidor SRV-PRU2, no SRV-PRD1.",
+      "correccion": "Cambiar 'SRV-PRD1' por 'SRV-PRU2' para alinear con el material de referencia.",
+      "confianza": "alta",
+      "evidencia": "M014",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: Archivo y copias de seguridad",
+      "unidad": "Q",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "La normativa establece que estos documentos deben conservarse durante un periodo de tres años para cumplir con requisitos legales.",
+      "problema": "La opción marcada como correcta es 'Tres años', pero el material de referencia no menciona un plazo de tres años para la conservación de documentos. La normativa menciona tres años en el contexto de los informes cerrados, no de todos los documentos.",
+      "correccion": "La opción correcta no es 'Tres años', ya que el material de referencia no establece un plazo general de tres años para todos los documentos.",
+      "confianza": "alta",
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Archivo y copias de seguridad",
+      "unidad": "P2.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "La copia de seguridad debe verificarse obligatoriamente cada último lunes de mes.",
+      "problema": "La verificación debe realizarse cada primer lunes de mes, no cada último.",
+      "correccion": "La copia de seguridad debe verificarse obligatoriamente cada primer lunes de mes.",
+      "confianza": "alta",
+      "evidencia": "M014",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 4: Atención telefónica a clientes",
+      "unidad": "P2.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "debemos atender la llamada antes de que suene el segundo tono",
+      "problema": "La norma establece atender antes del cuarto tono, no el segundo.",
+      "correccion": "debemos atender la llamada antes del cuarto tono",
+      "confianza": "alta",
+      "evidencia": "M017",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 4: Atención telefónica a clientes",
+      "unidad": "P4.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "tiempo máximo de 72 horas",
+      "problema": "La norma establece un plazo máximo de 48 horas, no 72.",
+      "correccion": "tiempo máximo de 48 horas",
+      "confianza": "alta",
+      "evidencia": "M041",
+      "citaLiteral": false
+    },
+    {
+      "ambito": "Lección 4: Atención telefónica a clientes",
+      "unidad": "P3",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "en un plazo máximo de 48 horas",
+      "problema": "La norma establece un plazo máximo de 48 horas, no 48 horas en el texto, pero se menciona 72 horas en P4.1, lo cual es contradictorio.",
+      "correccion": "en un plazo máximo de 48 horas",
+      "confianza": "alta",
+      "evidencia": "M041",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 4: Atención telefónica a clientes",
+      "unidad": "Q",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "marcada como correcta: 48 horas",
+      "problema": "La norma establece un plazo máximo de 48 horas, pero en P4.1 se menciona 72 horas, lo cual es contradictorio.",
+      "correccion": "marcada como correcta: 72 horas",
+      "confianza": "alta",
+      "evidencia": "M041",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 4: Atención telefónica a clientes",
+      "unidad": "AE1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "marcada como correcta: 48 horas",
+      "problema": "La norma establece un plazo máximo de 48 horas, pero en P4.1 se menciona 72 horas, lo cual es contradictorio.",
+      "correccion": "marcada como correcta: 72 horas",
+      "confianza": "alta",
+      "evidencia": "M041",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Cuestionario, preguntas 1-6",
+      "unidad": "T1",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "La normativa de Distribuciones Nova establece el uso del color verde menta para la serie principal de los gráficos de columnas.",
+      "problema": "La respuesta marcada como correcta es incorrecta. El texto establece claramente que el color azul marino debe usarse para la serie principal en los gráficos de columnas, no el verde menta.",
+      "correccion": "La normativa de Distribuciones Nova establece el uso del color azul marino para la serie principal de los gráficos de columnas.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Cuestionario, preguntas 7-12",
+      "unidad": "T10",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "La regla NOVA-19 establece que el plazo máximo para responder a las reclamaciones es de 48 horas.",
+      "problema": "La respuesta marcada como correcta (a) afirma que el plazo máximo es de 48 horas, pero según el texto, la regla NOVA-19 establece un plazo máximo de 72 horas.",
+      "correccion": "La respuesta correcta debería ser: 'Un máximo de 72 horas'.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: Archivo y copias de seguridad",
+      "unidad": "P1.2",
+      "tipo": "error_factual",
+      "gravedad": "media",
+      "cita": "Este archivo debe cumplir además la norma ISO 9001 y se revisa cada trimestre.",
+      "problema": "La norma ISO 9001 no se menciona en el material de referencia, y no hay evidencia de que el archivo se revise cada trimestre.",
+      "correccion": "Eliminar la mención a la norma ISO 9001 y el comentario sobre la revisión trimestral, ya que no están respaldados en el material.",
+      "confianza": "media",
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: Archivo y copias de seguridad",
+      "unidad": "P3",
+      "tipo": "error_factual",
+      "gravedad": "media",
+      "cita": "La información de los clientes es prioritaria y requiere verificaciones mensuales.",
+      "problema": "El material de referencia menciona que la verificación se realiza cada primer lunes del mes, no mensualmente.",
+      "correccion": "Cambiar 'mensuales' por 'cada primer lunes del mes' para alinear con el material de referencia.",
+      "confianza": "media",
+      "evidencia": "M014",
+      "citaLiteral": true
+    }
+  ],
+  "noRevisado": [],
+  "material": {
+    "unidades": 170,
+    "respaldado": 137,
+    "no_consta": 3,
+    "contradice": 13,
+    "general": 17,
+    "porcentajeRespaldado": 90,
+    "porLeccion": {
+      "Lección 1: Informes semanales y gráficos": {
+        "respaldado": 28,
+        "no_consta": 1,
+        "contradice": 4,
+        "general": 9
+      },
+      "Lección 2: Archivo y copias de seguridad": {
+        "respaldado": 36,
+        "no_consta": 2,
+        "contradice": 3,
+        "general": 2
+      },
+      "Lección 3: Archivo y copias de seguridad": {
+        "respaldado": 42,
+        "no_consta": 0,
+        "contradice": 1,
+        "general": 0
+      },
+      "Lección 4: Atención telefónica a clientes": {
+        "respaldado": 31,
+        "no_consta": 0,
+        "contradice": 5,
+        "general": 6
+      }
+    }
+  }
+}

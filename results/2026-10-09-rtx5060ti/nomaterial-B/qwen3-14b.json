@@ -1,0 +1,127 @@
+{
+  "modelo": "qwen3:14b",
+  "fecha": "2026-10-09T21:35:05.175Z",
+  "hallazgos": [
+    {
+      "ambito": "Lección 1: Conceptos y categorías de la Minería de Datos",
+      "unidad": "P2.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Una de las categorías más comunes es la clasificación, que consiste en descubrir grupos naturales en los datos sin categorías previas.",
+      "problema": "La definición de clasificación es incorrecta. La clasificación asigna elementos a categorías predefinidas, mientras que el agrupamiento (clustering) descubre grupos naturales sin categorías previas.",
+      "correccion": "Una de las categorías más comunes es la clasificación, que consiste en asignar elementos a categorías predefinidas según sus características comunes.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Conceptos y categorías de la Minería de Datos",
+      "unidad": "P2.2",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Otra categoría esencial es el agrupamiento o clustering, donde el objetivo es asignar cada dato a categorías predefinidas por el analista.",
+      "problema": "La definición de agrupamiento es incorrecta. El agrupamiento identifica grupos naturales sin categorías previas, mientras que la clasificación asigna datos a categorías predefinidas.",
+      "correccion": "Otra categoría esencial es el agrupamiento o clustering, donde el objetivo es identificar grupos naturales en los datos sin categorías previas definidas.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Conceptos y categorías de la Minería de Datos",
+      "unidad": "P2.3",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "los modelos de predicción ayudan a las empresas a estimar cuántas ventas realizarán el próximo mes basándose únicamente en la opinión de los directivos.",
+      "problema": "La afirmación es incorrecta. Los modelos de predicción se basan en datos históricos, no en la opinión de los directivos.",
+      "correccion": "los modelos de predicción ayudan a las empresas a estimar cuántas ventas realizarán el próximo mes basándose en datos históricos verificables.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: El proceso y la metodología de minería de datos",
+      "unidad": "P1.2",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Una vez definido el objetivo, se procede directamente a la modelización sin limpiar las fuentes de datos disponibles.",
+      "problema": "La frase contradice el proceso estándar de minería de datos, donde la limpieza de datos es un paso obligatorio antes de la modelización.",
+      "correccion": "Una vez definido el objetivo, se procede a la limpieza de las fuentes de datos disponibles antes de la modelización.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: El proceso y la metodología de minería de datos",
+      "unidad": "P2.3",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Si el objetivo es predecir ventas futuras, se utilizarán métodos de agrupamiento o clustering en el análisis. Si se busca segmentar clientes por comportamiento, se aplicarán técnicas de agrupamiento o clustering.",
+      "problema": "La frase es contradictoria: el clustering se usa para segmentar clientes, no para predecir ventas futuras. La regresión es la técnica adecuada para predecir ventas.",
+      "correccion": "Si el objetivo es predecir ventas futuras, se utilizarán métodos de regresión en el análisis. Si se busca segmentar clientes por comportamiento, se aplicarán técnicas de agrupamiento o clustering.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Análisis y pronósticos en Business Intelligence",
+      "unidad": "P1.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Esta etapa busca responder qué va a suceder en el futuro mediante la recopilación de métricas clave.",
+      "problema": "La frase afirma que el análisis descriptivo responde qué va a suceder en el futuro, lo cual es incorrecto, ya que el análisis descriptivo se enfoca en el pasado, no en el futuro.",
+      "correccion": "Esta etapa busca responder qué ha sucedido en el pasado mediante la recopilación de métricas clave.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Análisis y pronósticos en Business Intelligence",
+      "unidad": "P1.2",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "A medida que avanzamos en la madurez de los datos, pasamos al análisis diagnóstico para anticipar qué podría ocurrir.",
+      "problema": "El análisis diagnóstico no se menciona en la lección, y el análisis predictivo es el que anticipa qué podría ocurrir, no el diagnóstico.",
+      "correccion": "A medida que avanzamos en la madurez de los datos, pasamos al análisis predictivo para anticipar qué podría ocurrir.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Análisis y pronósticos en Business Intelligence",
+      "unidad": "P2.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Estas analizan datos sin orden temporal para detectar estacionalidades, como el aumento de ventas en Navidad.",
+      "problema": "Las series temporales analizan datos ordenados cronológicamente, no sin orden temporal.",
+      "correccion": "Estas analizan datos ordenados cronológicamente para detectar estacionalidades, como el aumento de ventas en Navidad.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Análisis y pronósticos en Business Intelligence",
+      "unidad": "P2.3",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Finalmente, es importante considerar que los pronósticos de Business Intelligence son siempre exactos al cien por ciento debido a las variables externas.",
+      "problema": "La frase afirma que los pronósticos son siempre exactos al cien por ciento, lo cual es falso. Las variables externas impiden la exactitud del cien por ciento.",
+      "correccion": "Finalmente, es importante considerar que los pronósticos de Business Intelligence no son nunca exactos al cien por ciento debido a las variables externas.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 4: Gestión de proyectos de Business Intelligence",
+      "unidad": "P1.1",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "Es fundamental seleccionar la tecnología antes de definir los objetivos de negocio de almacenamiento de datos.",
+      "problema": "La frase afirma que se debe seleccionar la tecnología antes de definir los objetivos de negocio, lo cual contradice el conocimiento estándar en gestión de proyectos de BI, donde los objetivos de negocio deben definirse primero.",
+      "correccion": "Es fundamental definir los objetivos de negocio antes de seleccionar la tecnología.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    }
+  ],
+  "noRevisado": []
+}

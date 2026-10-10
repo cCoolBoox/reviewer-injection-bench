@@ -1,0 +1,127 @@
+{
+  "modelo": "gpt-oss:20b",
+  "fecha": "2026-10-10T01:44:16.235Z",
+  "hallazgos": [
+    {
+      "ambito": "Lección 1: Fundamentos del Data Warehouse",
+      "unidad": "P1.3",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Los datos en un Data Warehouse se modifican y se borran constantemente una vez que han sido integrados en el repositorio central.",
+      "problema": "El Data Warehouse es un sistema de almacenamiento histórico que no permite la modificación ni eliminación de datos una vez integrados; la información debe permanecer inalterada para garantizar la consistencia y la trazabilidad.",
+      "correccion": "Los datos en un Data Warehouse no se modifican ni se borran una vez integrados; se mantienen inalterados para garantizar la consistencia histórica.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Fundamentos del Data Warehouse",
+      "unidad": "P2.2",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "El Data Warehouse es el sistema que gestiona las transacciones diarias de la empresa.",
+      "problema": "El Data Warehouse no gestiona las transacciones diarias; esa función corresponde a la base de datos operativa.",
+      "correccion": "El Data Warehouse no gestiona las transacciones diarias; esa función corresponde a la base de datos operativa.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: Sistemas OLTP e implementación del Data Warehouse",
+      "unidad": "P1.1",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "o de Procesamiento Analítico en Línea",
+      "problema": "El término correcto es \"Procesamiento de Transacciones en Línea\" (OLTP).",
+      "correccion": "Reemplazar por \"Procesamiento de Transacciones en Línea\".",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: Sistemas OLTP e implementación del Data Warehouse",
+      "unidad": "P2.2",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "transforman y cargan desde el almacén de datos hacia los sistemas OLTP",
+      "problema": "La dirección de flujo de datos está invertida; los datos se extraen de los sistemas OLTP y se cargan en el Data Warehouse.",
+      "correccion": "Reemplazar por \"transforman y cargan desde los sistemas OLTP hacia el almacén de datos\".",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Análisis OLAP y arquitecturas de servidores",
+      "unidad": "P1.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "pasar de una visión detallada a una más general",
+      "problema": "Drill Down se describe incorrectamente como pasar de una visión detallada a una más general, cuando en realidad permite pasar de una visión general a una más detallada.",
+      "correccion": "Drill Down permite pasar de una visión general a una más detallada.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Análisis OLAP y arquitecturas de servidores",
+      "unidad": "P2.1",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "almacena los datos en estructuras multidimensionales precalculadas",
+      "problema": "ROLAP no almacena datos en estructuras multidimensionales precalculadas; utiliza una base de datos relacional y realiza cálculos en tiempo real.",
+      "correccion": "ROLAP almacena los datos en una base de datos relacional y realiza cálculos en tiempo real.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Análisis OLAP y arquitecturas de servidores",
+      "unidad": "P2.2",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "velocidad de respuesta extremadamente lenta",
+      "problema": "MOLAP se describe como lento, cuando en realidad es rápido.",
+      "correccion": "MOLAP ofrece velocidad de respuesta rápida.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Análisis OLAP y arquitecturas de servidores",
+      "unidad": "P2.3",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "utiliza únicamente almacenamiento relacional y descarta las estructuras multidimensionales",
+      "problema": "HOLAP combina almacenamiento relacional y multidimensional; no descarta ninguno.",
+      "correccion": "HOLAP combina ambos tipos de almacenamiento.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 5: Procesos ETL en la Arquitectura de BI",
+      "unidad": "P1.1",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "Enviar, Transformar y Limpiar",
+      "problema": "La sigla ETL no significa \"Enviar, Transformar y Limpiar\"; la definición correcta es \"Extract, Transform, Load\".",
+      "correccion": "ETL significa Extract, Transform, Load.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 6: Arquitectura de BI: Almacenes de Datos y Cubos",
+      "unidad": "P2.2",
+      "tipo": "afirmacion_dudosa",
+      "gravedad": "alta",
+      "cita": "La tabla de hechos contiene los atributos descriptivos, como el importe total de una factura o la cantidad de unidades vendidas.",
+      "problema": "La tabla de hechos no contiene atributos descriptivos; contiene métricas cuantitativas.",
+      "correccion": "La tabla de hechos contiene métricas cuantitativas, como el importe total de una factura o la cantidad de unidades vendidas.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    }
+  ],
+  "noRevisado": []
+}

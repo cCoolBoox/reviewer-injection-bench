@@ -1,0 +1,128 @@
+[
+ {
+  "lesson": 1,
+  "originalLesson": 1,
+  "unit": "P1.2",
+  "type": "changed",
+  "before": "cinco series",
+  "after": "ocho series",
+  "note": null
+ },
+ {
+  "lesson": 1,
+  "originalLesson": 1,
+  "unit": "P1.1",
+  "type": "changed",
+  "before": "verde menta",
+  "after": "azul marino",
+  "note": null
+ },
+ {
+  "lesson": 1,
+  "originalLesson": 1,
+  "unit": "P3.1",
+  "type": "changed",
+  "before": "viernes",
+  "after": "lunes",
+  "note": null
+ },
+ {
+  "lesson": 2,
+  "originalLesson": 2,
+  "unit": "P2.3",
+  "type": "changed",
+  "before": "tres años",
+  "after": "cinco años",
+  "note": null
+ },
+ {
+  "lesson": 2,
+  "originalLesson": 2,
+  "unit": "P3.2",
+  "type": "changed",
+  "before": "SRV-PRU2",
+  "after": "SRV-PRD1",
+  "note": null
+ },
+ {
+  "lesson": 3,
+  "originalLesson": 3,
+  "unit": "P2.1",
+  "type": "changed",
+  "before": "primer lunes",
+  "after": "último lunes",
+  "note": null
+ },
+ {
+  "lesson": 4,
+  "originalLesson": 4,
+  "unit": "P2.1",
+  "type": "changed",
+  "before": "cuarto tono",
+  "after": "segundo tono",
+  "note": null
+ },
+ {
+  "lesson": 4,
+  "originalLesson": 4,
+  "unit": "P4.1",
+  "type": "changed",
+  "before": "48 horas",
+  "after": "72 horas",
+  "note": null
+ },
+ {
+  "lesson": 1,
+  "originalLesson": 1,
+  "unit": "P2.2",
+  "type": "added",
+  "before": null,
+  "after": "Además, el título debe incluir siempre la fecha del informe entre paréntesis.",
+  "note": null
+ },
+ {
+  "lesson": 2,
+  "originalLesson": 2,
+  "unit": "P4.2",
+  "type": "added",
+  "before": null,
+  "after": "Quien incumpla esta norma será sancionado con una amonestación escrita.",
+  "note": null
+ },
+ {
+  "lesson": 3,
+  "originalLesson": 3,
+  "unit": "P4.2",
+  "type": "added",
+  "before": null,
+  "after": "Esta política fue aprobada por el comité de dirección en 2019 y se audita cada año.",
+  "note": null
+ },
+ {
+  "lesson": 3,
+  "originalLesson": 3,
+  "unit": "P5.2",
+  "type": "added",
+  "before": null,
+  "after": "Las respuestas urgentes deben enviarse además por WhatsApp al gerente de zona.",
+  "note": null
+ },
+ {
+  "lesson": 4,
+  "originalLesson": 4,
+  "unit": "P3.3",
+  "type": "added",
+  "before": null,
+  "after": "La transferencia debe registrarse en la hoja TRF-02 con la hora exacta.",
+  "note": null
+ },
+ {
+  "lesson": 2,
+  "originalLesson": 2,
+  "unit": "P1.2",
+  "type": "added",
+  "before": null,
+  "after": "Este archivo debe cumplir además la norma ISO 9001 y se revisa cada trimestre.",
+  "note": null
+ }
+]

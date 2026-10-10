@@ -1,0 +1,1617 @@
+{
+  "titulo": "ADGG102PO Business Intelligence",
+  "lecciones": [
+    {
+      "titulo": "Introducción a la Inteligencia de Negocios",
+      "objetivos": [
+        "Comprender el concepto fundamental de Business Intelligence y su importancia en la toma de decisiones.",
+        "Identificar la estructura de la pirámide organizacional y el flujo de información en la empresa.",
+        "Conocer las principales categorías de herramientas utilizadas para el análisis de datos."
+      ],
+      "puntos_clave": [
+        "El BI transforma datos brutos en información estratégica para la empresa.",
+        "La información fluye desde la base operativa hasta la dirección estratégica.",
+        "Las herramientas de BI facilitan la visualización y el análisis de datos en tiempo real."
+      ],
+      "secciones": [
+        {
+          "titulo": "Conceptos básicos y la pirámide organizacional",
+          "parrafos": [
+            "La Inteligencia de Negocios, conocida habitualmente como Business Intelligence (BI), es el conjunto de estrategias y procesos que permiten transformar datos brutos en información útil. En el entorno laboral actual, las empresas generan miles de registros cada minuto a través de ventas, inventarios y navegación web. El objetivo principal es convertir estos datos en conocimiento accionable para los directivos. Por ejemplo, una tienda de ropa puede analizar qué tallas se venden más en invierno para ajustar sus pedidos.",
+            "Para entender cómo fluye esta información, es fundamental visualizar la pirámide organizacional de la empresa. En la base se encuentran los empleados operativos que generan los datos diarios mediante sus tareas rutinarias. En el nivel intermedio, los mandos medios analizan estos datos para gestionar equipos y optimizar procesos específicos. En la cima, la dirección general utiliza los informes finales para definir la estrategia a largo plazo de la compañía.",
+            "La comunicación entre estos niveles debe ser fluida y precisa para evitar errores en la toma de decisiones. Si los datos de la base son incorrectos, la estrategia de la dirección también fallará por completo. Un buen sistema de BI asegura que la información correcta llegue a la persona adecuada en el momento preciso. Por ejemplo, un gerente de almacén necesita saber el stock actual, mientras que el director financiero necesita conocer el margen de beneficio anual."
+          ],
+          "imagen": {
+            "prompt": "A clean modern flat vector illustration of a corporate pyramid structure showing different levels of employees working with data flow icons, soft colors, professional atmosphere.",
+            "archivo": "imagenes/l1-s1.jpg"
+          }
+        },
+        {
+          "titulo": "Herramientas y ecosistema de BI",
+          "parrafos": [
+            "Las herramientas de Business Intelligence son los softwares que facilitan la recolección, el almacenamiento y la visualización de los datos. Estas aplicaciones permiten conectar diferentes fuentes de información, como hojas de cálculo, bases de datos y aplicaciones en la nube. Gracias a ellas, los usuarios pueden crear cuadros de mando interactivos que se actualizan en tiempo real. Un ejemplo común es el uso de paneles de control para monitorizar las ventas diarias de una cadena de supermercados.",
+            "Existen diversas categorías de herramientas que se adaptan a las necesidades específicas de cada departamento o tamaño de empresa. Algunas se especializan en el almacenamiento masivo de datos, mientras que otras se centran en la creación de gráficos y reportes visuales. También existen herramientas de minería de datos que ayudan a encontrar patrones ocultos en el comportamiento de los clientes. Una empresa de servicios puede usar estas herramientas para identificar qué clientes tienen más probabilidades de cancelar su suscripción.",
+            "La elección de la herramienta adecuada depende del objetivo que se quiera alcanzar y del perfil del usuario final. No todas las empresas necesitan la tecnología más compleja, sino la que mejor responda a sus preguntas de negocio diarias. Es vital que las herramientas sean intuitivas para que los empleados puedan extraer conclusiones sin ser expertos en programación. Por ejemplo, un equipo de marketing puede preferir una herramienta visual para ver el rendimiento de sus campañas en redes sociales."
+          ],
+          "imagen": {
+            "prompt": "A clean modern flat vector illustration of a diverse team of professionals looking at a large digital dashboard with colorful charts and graphs, soft colors.",
+            "archivo": "imagenes/l1-s2.jpg"
+          }
+        }
+      ],
+      "interacciones": {
+        "pestanas": {
+          "titulo": "Niveles de la pirámide organizacional",
+          "items": [
+            {
+              "titulo": "Base operativa",
+              "texto": "Aquí se encuentran los empleados que generan los datos diarios mediante sus tareas rutinarias. Son la fuente principal de registros para la empresa."
+            },
+            {
+              "titulo": "Mandos medios",
+              "texto": "Se encargan de analizar los datos para gestionar equipos y optimizar procesos específicos. Actúan como un puente en el flujo de información."
+            },
+            {
+              "titulo": "Dirección general",
+              "texto": "Utilizan los informes finales para definir la estrategia a largo plazo. Su objetivo es la toma de decisiones estratégicas basadas en la información recibida."
+            }
+          ]
+        },
+        "pasos": null,
+        "tarjetas": {
+          "titulo": "Glosario",
+          "items": [
+            {
+              "termino": "Business Intelligence (BI)",
+              "definicion": "Conjunto de estrategias y procesos para transformar datos brutos en información útil."
+            },
+            {
+              "termino": "Conocimiento accionable",
+              "definicion": "Información procesada que permite a los directivos tomar decisiones concretas."
+            },
+            {
+              "termino": "Cuadros de mando",
+              "definicion": "Paneles interactivos que permiten monitorizar datos y métricas en tiempo real."
+            },
+            {
+              "termino": "Minería de datos",
+              "definicion": "Técnica utilizada para encontrar patrones ocultos en el comportamiento de los clientes."
+            }
+          ]
+        },
+        "desplegables": {
+          "titulo": "Conceptos clave de BI",
+          "items": [
+            {
+              "titulo": "¿Cuál es el objetivo principal del BI?",
+              "texto": "Convertir los miles de registros generados diariamente en conocimiento útil para la toma de decisiones."
+            },
+            {
+              "titulo": "¿Qué ocurre si los datos de la base son incorrectos?",
+              "texto": "La estrategia de la dirección fallará por completo, ya que la información debe ser precisa en todos los niveles."
+            },
+            {
+              "titulo": "¿Cómo debe ser la herramienta elegida por una empresa?",
+              "texto": "Debe ser intuitiva para que los empleados extraigan conclusiones sin necesidad de ser expertos en programación."
+            }
+          ]
+        },
+        "comprobacion": {
+          "enunciado": "¿Cuál es la función principal de los mandos medios en la pirámide organizacional?",
+          "opciones": [
+            "Definir la estrategia a largo plazo de la compañía",
+            "Analizar datos para gestionar equipos y optimizar procesos",
+            "Realizar la programación de las herramientas de BI",
+            "Generar datos diarios mediante tareas rutinarias"
+          ],
+          "correcta": 1,
+          "explicacion": "Los mandos medios se sitúan en el nivel intermedio y su función es el análisis para la gestión y optimización."
+        }
+      }
+    },
+    {
+      "titulo": "Fundamentos del Data Warehouse",
+      "objetivos": [
+        "Identificar el concepto y la función principal de un Data Warehouse en la empresa.",
+        "Diferenciar las características técnicas que distinguen al Data Warehouse de una base de datos operativa.",
+        "Reconocer las ventajas estratégicas de centralizar la información para la toma de decisiones."
+      ],
+      "puntos_clave": [
+        "El Data Warehouse centraliza datos históricos de múltiples fuentes.",
+        "Garantiza una única fuente de verdad para toda la organización.",
+        "Optimiza la velocidad de análisis sin afectar las operaciones diarias."
+      ],
+      "secciones": [
+        {
+          "titulo": "Concepto y características principales",
+          "parrafos": [
+            "Un Data Warehouse es un sistema de almacenamiento diseñado específicamente para analizar grandes volúmenes de datos históricos. A diferencia de las bases de datos tradicionales, su objetivo no es gestionar transacciones diarias, sino facilitar la consulta de información. Por ejemplo, una cadena de supermercados utiliza este sistema para analizar las ventas de los últimos cinco años. Esto permite identificar patrones de consumo que no serían visibles en el registro de una sola compra.",
+            "Una de sus características fundamentales es la integración de datos provenientes de múltiples fuentes distintas. En una empresa logística, la información puede venir del software de inventario, del sistema de facturación y de los sensores de transporte. El Data Warehouse unifica estos datos en un formato coherente y estructurado para el análisis. Esto evita que los departamentos tengan que extraer información manualmente de diferentes herramientas aisladas.",
+            "Otro aspecto clave es la persistencia y la no volatilidad de la información almacenada en el sistema. Los datos en un Data Warehouse no se modifican ni se borran una vez que han sido integrados en el repositorio central. Por ejemplo, si un cliente cambia su dirección, el historial de compras anteriores permanece intacto para el análisis de tendencias. Esta estabilidad garantiza que los informes generados hoy sean comparables con los de periodos anteriores."
+          ],
+          "imagen": {
+            "prompt": "A clean modern flat vector illustration of a large central digital warehouse building receiving data streams from various small icons like trucks, shopping carts, and computers.",
+            "archivo": "imagenes/l2-s1.jpg"
+          }
+        },
+        {
+          "titulo": "Ventajas para la toma de decisiones",
+          "parrafos": [
+            "La principal ventaja de implementar un Data Warehouse es la mejora en la calidad y coherencia de la información. Cuando todos los departamentos consultan una única fuente de verdad, se eliminan las discrepancias en las cifras. Por ejemplo, el departamento de marketing y el de ventas verán exactamente el mismo número de clientes nuevos. Esto genera confianza en la dirección y agiliza la comunicación entre los diferentes equipos de trabajo.",
+            "Además, estos sistemas permiten realizar consultas complejas de forma mucho más rápida y eficiente que en las bases de datos operativas. Un analista de recursos humanos puede generar un informe sobre la rotación de personal en toda la compañía en pocos segundos. Si intentara hacer esto en el sistema de nóminas activo, podría ralentizar el trabajo de otros empleados. El Data Warehouse separa la carga de análisis de la carga de trabajo diaria.",
+            "Finalmente, el uso de un Data Warehouse facilita la planificación estratégica basada en hechos y datos reales. Una empresa de retail puede predecir la demanda de productos para la próxima Navidad analizando el comportamiento de años anteriores. Esto permite optimizar el stock, reducir costes de almacenamiento y mejorar la satisfacción del cliente. En definitiva, transforma los datos brutos en conocimiento valioso para el crecimiento del negocio."
+          ],
+          "imagen": {
+            "prompt": "A clean modern flat vector illustration of a business team looking at a large glowing dashboard with colorful charts and graphs in a bright office.",
+            "archivo": "imagenes/l2-s2.jpg"
+          }
+        }
+      ],
+      "interacciones": {
+        "pestanas": {
+          "titulo": "Características del Data Warehouse",
+          "items": [
+            {
+              "titulo": "Integración de datos",
+              "texto": "Unifica información proveniente de múltiples fuentes distintas en un formato coherente. Esto evita la extracción manual de datos desde herramientas aisladas."
+            },
+            {
+              "titulo": "Persistencia y no volatilidad",
+              "texto": "Los datos no se modifican ni se borran una vez integrados en el repositorio. Esto garantiza que el historial permanezca intacto para el análisis de tendencias."
+            },
+            {
+              "titulo": "Enfoque en el análisis",
+              "texto": "A diferencia de las bases de datos tradicionales, su objetivo no es gestionar transacciones diarias. Está diseñado específicamente para analizar grandes volúmenes de datos históricos."
+            }
+          ]
+        },
+        "pasos": null,
+        "tarjetas": {
+          "titulo": "Glosario",
+          "items": [
+            {
+              "termino": "Data Warehouse",
+              "definicion": "Sistema de almacenamiento diseñado para analizar grandes volúmenes de datos históricos."
+            },
+            {
+              "termino": "Fuente de verdad",
+              "definicion": "Fuente única de información que garantiza la coherencia y calidad de los datos en todos los departamentos."
+            },
+            {
+              "termino": "Datos brutos",
+              "definicion": "Información sin procesar que se transforma en conocimiento valioso para el negocio."
+            },
+            {
+              "termino": "Base de datos operativa",
+              "definicion": "Sistema utilizado para gestionar las transacciones y el trabajo diario de una empresa."
+            }
+          ]
+        },
+        "desplegables": {
+          "titulo": "¿Por qué es importante separar el análisis del trabajo diario?",
+          "items": [
+            {
+              "titulo": "¿Qué sucede si se consulta el sistema de nóminas activo?",
+              "texto": "Podría ralentizar el trabajo de otros empleados al realizar consultas complejas."
+            },
+            {
+              "titulo": "¿Cómo ayuda la no volatilidad en los informes?",
+              "texto": "Permite que los informes generados hoy sean comparables con los de periodos anteriores al mantener intacto el historial."
+            },
+            {
+              "titulo": "¿Qué beneficio aporta la unificación de datos?",
+              "texto": "Elimina las discrepancias en las cifras entre diferentes departamentos, como marketing y ventas."
+            }
+          ]
+        },
+        "comprobacion": {
+          "enunciado": "¿Cuál es una ventaja principal del Data Warehouse para la planificación estratégica?",
+          "opciones": [
+            "Permite gestionar las transacciones diarias de forma más rápida",
+            "Modifica los datos históricos cada vez que un cliente cambia su dirección",
+            "Facilita la predicción de la demanda basándose en hechos y datos reales",
+            "Borra automáticamente los datos antiguos para ahorrar espacio"
+          ],
+          "correcta": 2,
+          "explicacion": "El uso de datos históricos permite predecir comportamientos futuros y optimizar recursos como el stock."
+        }
+      }
+    },
+    {
+      "titulo": "Sistemas OLTP e implementación del Data Warehouse",
+      "objetivos": [
+        "Diferenciar las funciones de los sistemas OLTP frente a los sistemas de análisis.",
+        "Comprender el proceso de implementación y flujo de datos hacia un Data Warehouse.",
+        "Identificar las ventajas de separar los datos operativos de los datos analíticos."
+      ],
+      "puntos_clave": [
+        "El OLTP gestiona transacciones rápidas y operaciones diarias en tiempo real.",
+        "El Data Warehouse centraliza datos históricos para el análisis estratégico.",
+        "Separar ambos sistemas evita la ralentización de las operaciones comerciales."
+      ],
+      "secciones": [
+        {
+          "titulo": "Sistemas OLTP: El motor de la operación diaria",
+          "parrafos": [
+            "Los sistemas OLTP, o de Procesamiento de Transacciones en Línea, son el corazón operativo de cualquier empresa moderna. Su función principal es gestionar las operaciones diarias de forma rápida, segura y eficiente en tiempo real. Por ejemplo, cuando un cliente realiza una compra en una tienda online, el sistema OLTP actualiza el stock y genera la factura al instante. Estos sistemas están diseñados para manejar miles de pequeñas transacciones simultáneas sin errores.",
+            "En el entorno laboral, estos sistemas garantizan que la información esté siempre disponible y actualizada para el personal de primera línea. Un empleado de un banco utiliza una base de datos OLTP para consultar el saldo actual de un cliente o realizar una transferencia inmediata. La estructura de estos datos suele estar normalizada para evitar la duplicidad y asegurar la integridad de la información. El objetivo principal aquí no es analizar tendencias, sino ejecutar tareas específicas de manera correcta.",
+            "A pesar de su importancia, los sistemas OLTP no son ideales para realizar consultas complejas o análisis históricos de gran volumen. Si intentamos generar un informe de ventas de los últimos cinco años en una base de datos que está procesando pedidos en tiempo real, podríamos ralentizar la operación. Esto puede causar que los clientes experimenten retrasos en sus compras o que el personal no pueda acceder a sus herramientas de trabajo. Por ello, es fundamental separar las tareas operativas de las tareas de análisis de datos."
+          ],
+          "imagen": {
+            "prompt": "A modern office scene showing a retail worker using a tablet to process a customer order with a clean flat vector style and soft blue colors.",
+            "archivo": "imagenes/l3-s1.jpg"
+          }
+        },
+        {
+          "titulo": "Implementación del Data Warehouse para el análisis",
+          "parrafos": [
+            "El Data Warehouse es un repositorio centralizado diseñado específicamente para el análisis y la toma de decisiones estratégicas. A diferencia del OLTP, este sistema almacena grandes volúmenes de datos históricos extraídos de diversas fuentes operativas. Por ejemplo, una cadena de supermercados puede extraer datos de ventas, inventarios y recursos humanos para centralizarlos en un solo lugar. Esta estructura permite a los directivos visualizar el rendimiento global de la compañía sin afectar el funcionamiento diario.",
+            "La implementación de un Data Warehouse requiere un proceso de integración de datos que garantiza la coherencia de la información. Los datos se transforman y cargan desde los sistemas OLTP hacia el almacén de datos mediante procesos programados. Un analista de marketing puede usar estos datos para identificar qué productos se vendieron más durante el último invierno en diferentes regiones. El resultado es una visión unificada que facilita la creación de informes precisos y comparativas históricas.",
+            "Una correcta implementación permite que los departamentos de Business Intelligence trabajen con datos limpios, organizados y listos para el consumo. Al separar el análisis de la operación, la empresa asegura que las consultas pesadas no bloqueen las ventas diarias ni las tareas administrativas. Los usuarios finales pueden consultar indicadores clave de rendimiento sin preocuparse por la carga técnica del sistema. Esto proporciona una base sólida para la planificación estratégica y el crecimiento basado en datos reales."
+          ],
+          "imagen": {
+            "prompt": "A professional analyst looking at a large glowing digital warehouse of data icons and charts in a clean modern flat vector illustration.",
+            "archivo": "imagenes/l3-s2.jpg"
+          }
+        }
+      ],
+      "interacciones": {
+        "pestanas": {
+          "titulo": "Diferencias entre OLTP y Data Warehouse",
+          "items": [
+            {
+              "titulo": "Sistemas OLTP",
+              "texto": "Se centran en la gestión de operaciones diarias en tiempo real, como ventas o transferencias bancarias. Su estructura está normalizada para asegurar la integridad y evitar la duplicidad de datos."
+            },
+            {
+              "titulo": "Data Warehouse",
+              "texto": "Es un repositorio centralizado diseñado para el análisis y la toma de decisiones estratégicas. Almacena grandes volúmenes de datos históricos extraídos de diversas fuentes."
+            },
+            {
+              "titulo": "Objetivos clave",
+              "texto": "El OLTP busca ejecutar tareas específicas de forma rápida y segura. El Data Warehouse busca proporcionar una visión unificada para identificar tendencias y realizar comparativas históricas."
+            }
+          ]
+        },
+        "pasos": null,
+        "tarjetas": {
+          "titulo": "Glosario",
+          "items": [
+            {
+              "termino": "OLTP",
+              "definicion": "Sistemas de Procesamiento de Transacciones en Línea que gestionan las operaciones diarias de una empresa."
+            },
+            {
+              "termino": "Normalización",
+              "definicion": "Estructura de datos diseñada para evitar la duplicidad y asegurar la integridad de la información."
+            },
+            {
+              "termino": "Data Warehouse",
+              "definicion": "Repositorio centralizado de datos históricos para el análisis y la toma de decisiones."
+            },
+            {
+              "termino": "Integración de datos",
+              "definicion": "Proceso de extraer, transformar y cargar datos desde diversas fuentes hacia un almacén centralizado."
+            }
+          ]
+        },
+        "desplegables": {
+          "titulo": "Conceptos clave y riesgos",
+          "items": [
+            {
+              "titulo": "¿Por qué no usar OLTP para análisis complejos?",
+              "texto": "Porque las consultas pesadas pueden ralentizar las operaciones en tiempo real, causando retrasos para los clientes y el personal."
+            },
+            {
+              "titulo": "¿Qué ocurre durante la implementación del Data Warehouse?",
+              "texto": "Los datos se transforman y cargan desde los sistemas operativos mediante procesos programados para garantizar la coherencia."
+            },
+            {
+              "titulo": "¿Cuál es el beneficio de separar ambos sistemas?",
+              "texto": "Permite que los departamentos de Business Intelligence trabajen con datos limpios sin bloquear las ventas diarias ni las tareas administrativas."
+            }
+          ]
+        },
+        "comprobacion": {
+          "enunciado": "¿Cuál es la función principal de un sistema OLTP?",
+          "opciones": [
+            "Gestionar las operaciones diarias de forma rápida y segura",
+            "Identificar tendencias de ventas de los últimos cinco años",
+            "Realizar análisis históricos de gran volumen",
+            "Visualizar el rendimiento global de la compañía"
+          ],
+          "correcta": 0,
+          "explicacion": "El OLTP está diseñado para ejecutar tareas específicas y transacciones en tiempo real, no para análisis complejos."
+        }
+      }
+    },
+    {
+      "titulo": "Análisis OLAP y arquitecturas de servidores",
+      "objetivos": [
+        "Comprender las técnicas de navegación Drill Down y Drill Up en cubos de datos.",
+        "Diferenciar las arquitecturas ROLAP, MOLAP y HOLAP según el almacenamiento de información.",
+        "Identificar cuál arquitectura es más adecuada según las necesidades de volumen y velocidad de la empresa."
+      ],
+      "puntos_clave": [
+        "Drill Down profundiza en los detalles y Drill Up sintetiza la información.",
+        "ROLAP usa bases relacionales, MOLAP usa cubos multidimensionales y HOLAP combina ambos.",
+        "La elección de la arquitectura depende del equilibrio entre volumen de datos y velocidad de respuesta."
+      ],
+      "secciones": [
+        {
+          "titulo": "Navegación en los datos: Drill Down y Drill Up",
+          "parrafos": [
+            "El análisis OLAP permite a los usuarios explorar grandes volúmenes de datos de forma multidimensional. Una de las funciones más útiles es el Drill Down, que permite pasar de una visión general a una más detallada. Por ejemplo, un gestor de ventas puede ver las ventas totales anuales de una empresa en un gráfico. Al aplicar Drill Down, el sistema desglosa esa cifra para mostrar las ventas por meses específicos.",
+            "Por el contrario, la técnica de Drill Up permite realizar el proceso inverso para obtener una visión más global. Es ideal cuando un analista necesita sintetizar información muy detallada para presentarla a la dirección general. Si un empleado está revisando las ventas de cada producto individual en una tienda, puede subir un nivel para ver el total por categoría. Esta capacidad de navegar entre diferentes niveles de agregación facilita la toma de decisiones estratégicas.",
+            "Estas funciones son fundamentales en el día a día de las empresas para detectar anomalías o tendencias rápidamente. Imagina que un responsable de logística detecta un retraso en la entrega de un pedido específico en una ciudad. Mediante el Drill Down, puede identificar si el problema es de un transportista concreto o de una ruta específica. El uso fluido de estas herramientas ahorra tiempo valioso al evitar la extracción manual de datos.",
+            "En el entorno laboral, estas técnicas permiten que los usuarios no técnicos interactúen con la información de manera intuitiva. No es necesario escribir consultas complejas para obtener detalles adicionales sobre un KPI concreto. El usuario simplemente hace clic en un elemento del gráfico y el sistema responde con el siguiente nivel de profundidad. Esto democratiza el acceso a la información y mejora la agilidad operativa de cualquier departamento."
+          ],
+          "imagen": {
+            "prompt": "A professional person interacting with a large 3D cube of data, clicking on a small cube to expand it into many smaller pieces, clean modern flat vector illustration, soft colors.",
+            "archivo": "imagenes/l4-s1.jpg"
+          }
+        },
+        {
+          "titulo": "Arquitecturas de servidores: ROLAP, MOLAP y HOLAP",
+          "parrafos": [
+            "Existen diferentes formas de gestionar el almacenamiento y procesamiento de los cubos de datos en un servidor. El modelo ROLAP, o Relational OLAP, almacena los datos directamente en una base de datos relacional tradicional. Es muy útil cuando se manejan volúmenes de datos masivos que no caben en estructuras rígidas. Un ejemplo sería una gran cadena de supermercados que necesita consultar millones de transacciones históricas sin duplicar la información.",
+            "El modelo MOLAP, por su parte, utiliza estructuras multidimensionales específicas para almacenar los datos precalculados. Esto permite una velocidad de respuesta extremadamente rápida, ya que los cálculos ya están hechos antes de que el usuario haga la consulta. Es ideal para informes ejecutivos donde la rapidez es prioritaria sobre el detalle exhaustivo de cada transacción. Una empresa de seguros podría usarlo para visualizar rápidamente las primas anuales por regiones geográficas.",
+            "Finalmente, el modelo HOLAP combina las ventajas de ambas arquitecturas para ofrecer una solución híbrida y flexible. En este sistema, los datos agregados se almacenan en estructuras multidimensionales para rapidez, mientras que los detalles se mantienen en la base relacional. Una multinacional tecnológica podría usar HOLAP para que sus directivos vean resúmenes instantáneos pero puedan profundizar en detalles técnicos si lo requieren. Esta arquitectura equilibra perfectamente el rendimiento con la capacidad de almacenamiento.",
+            "Elegir la arquitectura correcta depende directamente de los objetivos de negocio y del volumen de datos que se trate. Si la prioridad es la velocidad de consulta sobre datos resumidos, MOLAP es la opción preferida por los analistas. Si se requiere flexibilidad y manejo de grandes volúmenes de datos brutos, ROLAP suele ser la solución estándar. Comprender estas diferencias permite al profesional de BI recomendar la infraestructura técnica más eficiente para cada proyecto."
+          ],
+          "imagen": {
+            "prompt": "Three different server icons representing different data structures, connected to a central office building, clean modern flat vector illustration, soft colors.",
+            "archivo": "imagenes/l4-s2.jpg"
+          }
+        }
+      ],
+      "interacciones": {
+        "pestanas": {
+          "titulo": "Tipos de arquitecturas de servidores",
+          "items": [
+            {
+              "titulo": "ROLAP",
+              "texto": "Almacena los datos directamente en una base de datos relacional tradicional. Es ideal para gestionar volúmenes masivos de datos históricos sin duplicar información."
+            },
+            {
+              "titulo": "MOLAP",
+              "texto": "Utiliza estructuras multidimensionales para almacenar datos precalculados. Su principal ventaja es la velocidad de respuesta extrema para informes ejecutivos."
+            },
+            {
+              "titulo": "HOLAP",
+              "texto": "Es una solución híbrida que combina ambas arquitecturas. Almacena los datos agregados en estructuras multidimensionales y los detalles en la base relacional."
+            }
+          ]
+        },
+        "pasos": null,
+        "tarjetas": {
+          "titulo": "Glosario",
+          "items": [
+            {
+              "termino": "Drill Down",
+              "definicion": "Técnica para pasar de una visión general de los datos a una más detallada."
+            },
+            {
+              "termino": "Drill Up",
+              "definicion": "Proceso inverso que permite sintetizar información detallada para obtener una visión más global."
+            },
+            {
+              "termino": "KPI",
+              "definicion": "Indicador clave de desempeño sobre el cual los usuarios pueden obtener detalles adicionales."
+            },
+            {
+              "termino": "Cubo de datos",
+              "definicion": "Estructura utilizada en el análisis OLAP para gestionar y explorar grandes volúmenes de información."
+            }
+          ]
+        },
+        "desplegables": {
+          "titulo": "Conceptos clave de navegación y arquitectura",
+          "items": [
+            {
+              "titulo": "¿Cuál es la principal ventaja del Drill Down en logística?",
+              "texto": "Permite identificar rápidamente si un problema de entrega se debe a un transportista concreto o a una ruta específica."
+            },
+            {
+              "titulo": "¿Por qué el modelo MOLAP es preferido para informes ejecutivos?",
+              "texto": "Porque los cálculos ya están hechos antes de la consulta, lo que garantiza una rapidez de respuesta prioritaria."
+            },
+            {
+              "titulo": "¿Cómo democratiza el acceso a la información el uso de estas herramientas?",
+              "texto": "Permite que usuarios no técnicos interactúen con los datos de forma intuitiva sin necesidad de escribir consultas complejas."
+            }
+          ]
+        },
+        "comprobacion": {
+          "enunciado": "¿Qué arquitectura es la más adecuada cuando se requiere flexibilidad y el manejo de grandes volúmenes de datos brutos?",
+          "opciones": [
+            "HOLAP",
+            "ROLAP",
+            "MOLAP",
+            "Relacional simple"
+          ],
+          "correcta": 1,
+          "explicacion": "El modelo ROLAP es la solución estándar para manejar grandes volúmenes de datos brutos sin estructuras rígidas."
+        }
+      }
+    },
+    {
+      "titulo": "Conceptos y categorías de la Minería de Datos",
+      "objetivos": [
+        "Definir el concepto de Minería de Datos en el contexto empresarial.",
+        "Identificar las principales categorías de técnicas de Data Mining.",
+        "Reconocer la utilidad de la minería de datos en la toma de decisiones diarias."
+      ],
+      "puntos_clave": [
+        "La minería de datos extrae patrones útiles de grandes volúmenes de información.",
+        "La clasificación y el agrupamiento son técnicas básicas para organizar y segmentar datos.",
+        "Las asociaciones y predicciones permiten anticipar comportamientos y optimizar decisiones comerciales."
+      ],
+      "secciones": [
+        {
+          "titulo": "¿Qué es la Minería de Datos?",
+          "parrafos": [
+            "La minería de datos, o Data Mining, es el proceso de descubrir patrones, anomalías y relaciones útiles dentro de grandes volúmenes de información. En el entorno laboral actual, las empresas generan datos constantemente a través de ventas, registros de usuarios y sensores industriales. El objetivo principal no es solo almacenar esta información, sino extraer conocimiento accionable que aporte valor real. Por ejemplo, una tienda puede analizar el historial de compras para entender qué productos se suelen adquirir juntos.",
+            "Este proceso implica el uso de algoritmos avanzados y técnicas estadísticas para procesar datos que, a simple vista, parecen desordenados o inconexos. En una empresa de logística, esto permite identificar cuellos de botella en la cadena de suministro de forma automática. Los analistas de Business Intelligence utilizan estas herramientas para transformar datos brutos en indicadores estratégicos para la dirección. Es fundamental entender que la minería de datos es el paso previo a la inteligencia de negocios aplicada.",
+            "La importancia de esta disciplina radica en su capacidad para predecir comportamientos futuros basándose en hechos históricos verificables. Una compañía de seguros puede utilizarla para detectar perfiles de clientes con mayor riesgo de impago en sus pólizas. Al identificar estas tendencias, la empresa puede ajustar sus estrategias comerciales y reducir las pérdidas financieras de manera preventiva. Así, la minería de datos se convierte en un pilar fundamental para la competitividad en el mercado actual."
+          ],
+          "imagen": {
+            "prompt": "A professional analyst looking at a large digital screen showing interconnected nodes and glowing data points in a modern office, clean modern flat vector illustration, soft colors.",
+            "archivo": "imagenes/l5-s1.jpg"
+          }
+        },
+        {
+          "titulo": "Categorías principales de la Minería de Datos",
+          "parrafos": [
+            "Una de las categorías más comunes es la clasificación, que consiste en asignar elementos a categorías específicas basadas en sus características comunes. En el departamento de recursos humanos, se puede usar para agrupar a los empleados según sus competencias y niveles de desempeño. Esto facilita la creación de planes de formación personalizados para cada grupo identificado por el sistema. La clasificación ayuda a organizar la información de manera que sea más fácil de gestionar y consultar.",
+            "Otra categoría esencial es el agrupamiento o clustering, donde el objetivo es identificar grupos naturales en los datos sin categorías previas. Una plataforma de streaming de música utiliza esta técnica para agrupar a los usuarios con gustos similares y ofrecerles recomendaciones personalizadas. En el marketing, esto permite segmentar a los clientes por hábitos de consumo en lugar de solo por ubicación geográfica. El agrupamiento es vital para entender la diversidad del público objetivo de una marca.",
+            "Finalmente, la asociación y la predicción son categorías clave para anticipar tendencias y relaciones entre variables distintas. Una cadena de supermercados utiliza la asociación para colocar productos complementarios, como la cerveza y las patatas, en pasillos cercanos. Por otro lado, los modelos de predicción ayudan a las empresas a estimar cuántas ventas realizarán el próximo mes basándose en datos históricos. Estas técnicas permiten a las organizaciones actuar de forma proactiva en lugar de simplemente reaccionar a los problemas."
+          ],
+          "imagen": {
+            "prompt": "A group of different colored geometric shapes being organized into distinct clusters and categories on a clean workspace, clean modern flat vector illustration, soft colors.",
+            "archivo": "imagenes/l5-s2.jpg"
+          }
+        }
+      ],
+      "interacciones": {
+        "pestanas": {
+          "titulo": "Categorías de la Minería de Datos",
+          "items": [
+            {
+              "titulo": "Clasificación",
+              "texto": "Consiste en asignar elementos a categorías específicas según sus características comunes. Se utiliza para organizar la información y facilitar su gestión."
+            },
+            {
+              "titulo": "Agrupamiento (Clustering)",
+              "texto": "Busca identificar grupos naturales en los datos sin tener categorías previas definidas. Es vital para entender la diversidad del público o usuarios."
+            },
+            {
+              "titulo": "Asociación y Predicción",
+              "texto": "La asociación identifica relaciones entre variables, mientras que la predicción ayuda a estimar tendencias futuras basándose en datos históricos."
+            }
+          ]
+        },
+        "pasos": null,
+        "tarjetas": {
+          "titulo": "Glosario",
+          "items": [
+            {
+              "termino": "Data Mining",
+              "definicion": "Proceso de descubrir patrones, anomalías y relaciones útiles dentro de grandes volúmenes de información."
+            },
+            {
+              "termino": "Conocimiento accionable",
+              "definicion": "Información extraída de los datos que aporta un valor real y permite la toma de decisiones en la empresa."
+            },
+            {
+              "termino": "Datos brutos",
+              "definicion": "Información sin procesar que puede parecer desordenada o inconexa a simple vista."
+            },
+            {
+              "termino": "Modelos de predicción",
+              "definicion": "Herramientas que permiten estimar resultados futuros basándose en hechos históricos verificables."
+            }
+          ]
+        },
+        "desplegables": {
+          "titulo": "Conceptos clave",
+          "items": [
+            {
+              "titulo": "¿Cuál es el objetivo principal de la minería de datos?",
+              "texto": "No es solo almacenar información, sino extraer conocimiento accionable que aporte valor real a la empresa."
+            },
+            {
+              "titulo": "¿Cómo ayuda la minería de datos a una compañía de seguros?",
+              "texto": "Permite detectar perfiles de clientes con mayor riesgo de impago para ajustar estrategias y reducir pérdidas financieras."
+            },
+            {
+              "titulo": "¿Qué diferencia hay entre clasificación y agrupamiento?",
+              "texto": "La clasificación asigna elementos a categorías ya existentes, mientras que el agrupamiento identifica grupos naturales sin categorías previas."
+            }
+          ]
+        },
+        "comprobacion": {
+          "enunciado": "¿Qué técnica utiliza una plataforma de música para ofrecer recomendaciones personalizadas agrupando usuarios con gustos similares?",
+          "opciones": [
+            "Registro de usuarios",
+            "Clasificación",
+            "Almacenamiento de datos",
+            "Agrupamiento o clustering"
+          ],
+          "correcta": 3,
+          "explicacion": "El agrupamiento identifica grupos naturales en los datos sin categorías previas, como los gustos similares de los usuarios."
+        }
+      }
+    },
+    {
+      "titulo": "El proceso y la metodología de minería de datos",
+      "objetivos": [
+        "Comprender las etapas fundamentales del ciclo de vida de la minería de datos.",
+        "Identificar la metodología estructurada para la extracción de conocimiento.",
+        "Reconocer la importancia de la preparación de datos en el análisis empresarial."
+      ],
+      "puntos_clave": [
+        "La minería de datos sigue un proceso estructurado desde la definición del objetivo hasta la visualización.",
+        "La limpieza y preparación de los datos es una fase crítica para evitar sesgos en los resultados.",
+        "La elección de la metodología adecuada depende directamente del problema de negocio que se desea resolver."
+      ],
+      "secciones": [
+        {
+          "titulo": "El ciclo de vida de la minería de datos",
+          "parrafos": [
+            "La minería de datos no es una acción aislada, sino un proceso estructurado que transforma datos brutos en información valiosa. En el entorno laboral, este proceso comienza con la definición de objetivos claros para evitar análisis sin propósito. Por ejemplo, una empresa de retail puede querer identificar patrones de abandono de carritos de compra. Sin una meta definida, el equipo de análisis podría perderse en un mar de variables irrelevantes.",
+            "Una vez definido el objetivo, se procede a la integración y limpieza de las fuentes de datos disponibles. Es común que los datos provengan de diferentes departamentos, como ventas, marketing y atención al cliente. El analista debe asegurar que la información sea coherente y esté libre de errores antes de aplicarla. Un ejemplo práctico es unificar las bases de datos de diferentes tiendas para obtener una visión global del cliente.",
+            "Finalmente, el proceso incluye la modelización, la evaluación y la visualización de los resultados obtenidos. En esta fase, se aplican algoritmos para detectar tendencias, como la asociación de productos que suelen comprarse juntos. Los resultados deben presentarse de forma clara para que los directivos puedan tomar decisiones rápidas. Por ejemplo, una cadena de supermercados podría usar estos datos para diseñar promociones cruzadas más efectivas."
+          ],
+          "imagen": {
+            "prompt": "A professional workspace with a large screen showing a flow chart of data moving from raw blocks to organized icons, clean modern flat vector illustration, soft colors.",
+            "archivo": "imagenes/l6-s1.jpg"
+          }
+        },
+        {
+          "titulo": "Metodología y preparación de la información",
+          "parrafos": [
+            "La metodología de minería de datos requiere una fase crítica denominada preparación de datos o preprocesamiento. En muchas empresas, los datos crudos suelen estar desordenados, incompletos o contener valores duplicados que pueden sesgar los resultados. Un analista debe decidir qué datos son relevantes y cuáles deben descartarse para optimizar el rendimiento del sistema. Por ejemplo, eliminar registros de clientes antiguos que ya no interactúan con la marca es fundamental.",
+            "Durante la fase de exploración, se realizan análisis descriptivos para entender la distribución y las características de la información. Esta etapa permite identificar anomalías o valores atípicos que podrían indicar fraudes o errores operativos graves. Un caso común es detectar picos de gasto inusuales en las tarjetas de crédito de los clientes. Esta exploración previa garantiza que los modelos posteriores sean robustos y fiables para la toma de decisiones.",
+            "La selección de técnicas específicas depende directamente de la naturaleza del problema y del tipo de datos disponibles. Si el objetivo es predecir ventas futuras, se utilizarán métodos de regresión o series temporales en el análisis. Si se busca segmentar clientes por comportamiento, se aplicarán técnicas de agrupamiento o clustering. En la práctica laboral, elegir la metodología correcta ahorra tiempo y recursos técnicos significativos a la organización."
+          ],
+          "imagen": {
+            "prompt": "A person sorting colorful geometric shapes into organized categories on a large table, representing data cleaning and preparation, clean modern flat vector illustration, soft colors.",
+            "archivo": "imagenes/l6-s2.jpg"
+          }
+        }
+      ],
+      "interacciones": {
+        "pestanas": {
+          "titulo": "Fases del ciclo de vida",
+          "items": [
+            {
+              "titulo": "Definición y Preparación",
+              "texto": "El proceso comienza con la definición de objetivos claros y la integración de fuentes de datos. Es fundamental limpiar y unificar la información para asegurar que sea coherente y libre de errores."
+            },
+            {
+              "titulo": "Exploración y Modelización",
+              "texto": "Se realizan análisis descriptivos para entender la distribución de los datos e identificar anomalías. Posteriormente, se aplican algoritmos para detectar tendencias y patrones específicos."
+            },
+            {
+              "titulo": "Evaluación y Visualización",
+              "texto": "Los resultados obtenidos se evalúan y se presentan de forma clara. El objetivo es que los directivos puedan interpretar la información fácilmente para la toma de decisiones rápidas."
+            }
+          ]
+        },
+        "pasos": {
+          "titulo": "Secuencia del proceso de minería de datos",
+          "items": [
+            {
+              "titulo": "Definición de objetivos",
+              "texto": "Establecer metas claras para evitar análisis sin propósito y centrarse en variables relevantes."
+            },
+            {
+              "titulo": "Integración y limpieza",
+              "texto": "Unificar bases de datos de diferentes departamentos y eliminar errores o datos incoherentes."
+            },
+            {
+              "titulo": "Preparación y exploración",
+              "texto": "Realizar el preprocesamiento de datos crudos y análisis descriptivos para detectar anomalías."
+            },
+            {
+              "titulo": "Modelización y aplicación",
+              "texto": "Seleccionar y aplicar las técnicas específicas (regresión, clustering, etc.) según la naturaleza del problema."
+            },
+            {
+              "titulo": "Visualización de resultados",
+              "texto": "Presentar los hallazgos de forma comprensible para facilitar la toma de decisiones en la organización."
+            }
+          ]
+        },
+        "tarjetas": {
+          "titulo": "Glosario",
+          "items": [
+            {
+              "termino": "Preprocesamiento",
+              "definicion": "Fase crítica de preparación donde se ordenan, completan y limpian los datos crudos."
+            },
+            {
+              "termino": "Análisis descriptivo",
+              "definicion": "Estudio de la distribución y características de la información para identificar anomalías."
+            },
+            {
+              "termino": "Clustering",
+              "definicion": "Técnica de agrupamiento utilizada para segmentar clientes por su comportamiento."
+            },
+            {
+              "termino": "Regresión",
+              "definicion": "Método de análisis utilizado cuando el objetivo es predecir valores futuros, como las ventas."
+            }
+          ]
+        },
+        "desplegables": {
+          "titulo": "Conceptos clave y casos prácticos",
+          "items": [
+            {
+              "titulo": "¿Por qué es importante definir objetivos?",
+              "texto": "Para evitar que el equipo de análisis se pierda en un mar de variables irrelevantes y se enfoque en metas útiles."
+            },
+            {
+              "titulo": "¿Qué importancia tiene eliminar registros antiguos?",
+              "texto": "Es fundamental para optimizar el rendimiento del sistema y evitar que datos que ya no interactúan con la marca sesguen los resultados."
+            },
+            {
+              "titulo": "¿Cómo ayuda la visualización de resultados?",
+              "texto": "Permite que los directivos comprendan la información rápidamente para tomar decisiones eficaces, como diseñar promociones cruzadas."
+            }
+          ]
+        },
+        "comprobacion": {
+          "enunciado": "¿Cuál es el objetivo principal de la fase de exploración en la minería de datos?",
+          "opciones": [
+            "Eliminar todas las bases de datos de marketing",
+            "Identificar anomalías o valores atípicos mediante análisis descriptivos",
+            "Definir los objetivos estratégicos de la empresa",
+            "Diseñar promociones cruzadas de forma inmediata"
+          ],
+          "correcta": 1,
+          "explicacion": "La exploración permite entender la distribución de la información y detectar posibles errores o fraudes antes de modelar los datos."
+        }
+      }
+    },
+    {
+      "titulo": "Reportes, consultas y alertas en BI",
+      "objetivos": [
+        "Diferenciar entre reportes estáticos y dinámicos en el entorno empresarial.",
+        "Comprender el funcionamiento de las consultas para la extracción de datos específicos.",
+        "Identificar la utilidad de las alertas automáticas para la toma de decisiones proactiva."
+      ],
+      "puntos_clave": [
+        "Los reportes visualizan datos históricos mientras las consultas extraen información específica.",
+        "Las alertas automatizan la detección de anomalías en tiempo real para una gestión proactiva.",
+        "La correcta configuración de indicadores evita la saturación de información y mejora la eficiencia."
+      ],
+      "secciones": [
+        {
+          "titulo": "Reportes y consultas de datos",
+          "parrafos": [
+            "Los reportes son herramientas fundamentales para visualizar el rendimiento de una empresa en un periodo determinado. En el día a día, un responsable de ventas puede consultar un informe mensual para comparar las metas alcanzadas con los resultados reales. Estos documentos permiten identificar tendencias de consumo y detectar desviaciones en el presupuesto asignado. Un buen reporte debe ser visualmente claro para facilitar la interpretación rápida por parte de la dirección.",
+            "Las consultas representan la acción de interrogar a la base de datos para obtener información específica y relevante. Por ejemplo, un gestor de inventario puede realizar una consulta para saber cuántas unidades de un producto quedan en el almacén en tiempo real. A diferencia de un reporte general, la consulta permite filtrar datos por categorías, fechas o ubicaciones geográficas muy precisas. Dominar este proceso es esencial para que el analista de BI proporcione datos exactos a los departamentos operativos.",
+            "Es crucial entender la relación entre la consulta y el reporte final que el usuario visualiza en su pantalla. Primero, el sistema ejecuta una consulta técnica que selecciona las variables necesarias desde el repositorio de datos central. Posteriormente, esa información se organiza en un formato de reporte que incluye gráficos, tablas y resúmenes ejecutivos. En una oficina moderna, esta distinción permite que los usuarios finales interactúen con los datos sin necesidad de conocer la complejidad técnica subyacente."
+          ],
+          "imagen": {
+            "prompt": "A professional analyst sitting at a modern desk looking at a large screen displaying colorful bar charts and data tables, clean modern flat vector illustration, soft colors.",
+            "archivo": "imagenes/l7-s1.jpg"
+          }
+        },
+        {
+          "titulo": "Sistemas de alertas y monitoreo",
+          "parrafos": [
+            "Las alertas en inteligencia de negocios permiten automatizar la vigilancia de los indicadores clave de rendimiento o KPI. En lugar de revisar manualmente los datos cada hora, el sistema envía una notificación cuando se supera un umbral preestablecido. Por ejemplo, un departamento de logística puede recibir un aviso inmediato si el tiempo de entrega de un pedido supera las veinticuatro horas. Esto permite a los equipos actuar rápidamente antes de que el problema afecte la satisfacción del cliente final.",
+            "La implementación de alertas ayuda a transformar la gestión de datos de un modelo reactivo a uno proactivo y preventivo. Un responsable de recursos humanos podría configurar una alerta para cuando el índice de rotación de personal supere un porcentaje crítico en una sede. De esta manera, la empresa puede intervenir con planes de retención antes de que la situación se convierta en una crisis. Las alertas aseguran que la información relevante llegue a la persona adecuada en el momento más oportuno.",
+            "Configurar correctamente estas notificaciones requiere definir criterios claros y evitar la saturación de información innecesaria para el trabajador. Si un empleado recibe demasiadas alertas irrelevantes, es probable que termine ignorando las notificaciones que realmente requieren una acción urgente. Por ello, es fundamental que cada alerta esté vinculada a una acción concreta y a un responsable específico dentro de la organización. Un sistema de alertas bien diseñado optimiza el tiempo y mejora la eficiencia operativa de toda la compañía."
+          ],
+          "imagen": {
+            "prompt": "A smartphone and a laptop on a wooden table showing a notification icon with a rising trend graph, clean modern flat vector illustration, soft colors.",
+            "archivo": "imagenes/l7-s2.jpg"
+          }
+        }
+      ],
+      "interacciones": {
+        "pestanas": {
+          "titulo": "Componentes de la información en BI",
+          "items": [
+            {
+              "titulo": "Reportes",
+              "texto": "Son herramientas visuales para observar el rendimiento en periodos determinados. Permiten identificar tendencias y detectar desviaciones presupuestarias de forma rápida."
+            },
+            {
+              "titulo": "Consultas",
+              "texto": "Es la acción técnica de interrogar la base de datos para obtener datos específicos. Permiten filtrar información por categorías, fechas o ubicaciones precisas."
+            },
+            {
+              "titulo": "Alertas",
+              "texto": "Son notificaciones automáticas que vigilan los indicadores clave (KPI). Ayudan a pasar de una gestión reactiva a una proactiva y preventiva."
+            }
+          ]
+        },
+        "pasos": null,
+        "tarjetas": {
+          "titulo": "Glosario",
+          "items": [
+            {
+              "termino": "KPI",
+              "definicion": "Indicadores clave de rendimiento que se vigilan mediante alertas automáticas."
+            },
+            {
+              "termino": "Tendencias de consumo",
+              "definicion": "Patrones identificables en los datos que se extraen de los reportes periódicos."
+            },
+            {
+              "termino": "Gestión proactiva",
+              "definicion": "Modelo de gestión que actúa antes de que un problema se convierta en una crisis."
+            },
+            {
+              "termino": "Repositorio de datos",
+              "definicion": "Lugar central donde el sistema selecciona las variables necesarias para ejecutar una consulta."
+            }
+          ]
+        },
+        "desplegables": {
+          "titulo": "Conceptos clave y buenas prácticas",
+          "items": [
+            {
+              "titulo": "¿Cuál es la diferencia entre consulta y reporte?",
+              "texto": "La consulta es la acción técnica de extraer datos específicos, mientras que el reporte es la organización visual de esa información para el usuario final."
+            },
+            {
+              "titulo": "¿Cómo evitar la saturación de alertas?",
+              "texto": "Es fundamental definir criterios claros, evitar información irrelevante y vincular cada notificación a una acción concreta y a un responsable específico."
+            },
+            {
+              "titulo": "¿Por qué es importante la claridad visual en los reportes?",
+              "texto": "Porque facilita la interpretación rápida por parte de la dirección y permite identificar desviaciones de manera eficiente."
+            }
+          ]
+        },
+        "comprobacion": {
+          "enunciado": "¿Cuál es la principal ventaja de implementar un sistema de alertas en la gestión de datos?",
+          "opciones": [
+            "Facilita la visualización de gráficos complejos sin necesidad de realizar consultas.",
+            "Sustituye la necesidad de realizar reportes mensuales para la dirección.",
+            "Permite que los usuarios finales conozcan la complejidad técnica de la base de datos.",
+            "Transforma la gestión de datos de un modelo reactivo a uno proactivo y preventivo."
+          ],
+          "correcta": 3,
+          "explicacion": "Las alertas permiten actuar rápidamente ante problemas antes de que afecten al cliente o a la empresa."
+        }
+      }
+    },
+    {
+      "titulo": "Análisis y pronósticos en Business Intelligence",
+      "objetivos": [
+        "Comprender la diferencia entre el análisis descriptivo y el predictivo en el entorno empresarial.",
+        "Identificar las técnicas básicas de pronóstico para la toma de decisiones estratégicas.",
+        "Aprender a interpretar tendencias históricas para anticipar escenarios futuros en una organización."
+      ],
+      "puntos_clave": [
+        "El análisis descriptivo explica el pasado y el predictivo anticipa el futuro.",
+        "Las series temporales ayudan a identificar patrones estacionales en el negocio.",
+        "Los pronósticos reducen la incertidumbre y optimizan la planificación de recursos."
+      ],
+      "secciones": [
+        {
+          "titulo": "Del análisis descriptivo al predictivo",
+          "parrafos": [
+            "El análisis de datos en Business Intelligence comienza habitualmente por la fase descriptiva. Esta etapa busca responder qué ha sucedido en el pasado mediante la recopilación de métricas clave. Por ejemplo, una tienda de ropa puede analizar las ventas totales del trimestre anterior para identificar sus productos más vendidos. Estos datos permiten visualizar el rendimiento real de la empresa sin suposiciones externas.",
+            "A medida que avanzamos en la madurez de los datos, pasamos al análisis predictivo para anticipar qué podría ocurrir. En este escenario, las empresas utilizan patrones históricos para proyectar comportamientos futuros de manera lógica. Una cadena de supermercados podría usar estos datos para predecir la demanda de productos perecederos en una semana específica. Esto ayuda a optimizar el stock y evitar el desperdicio de mercancía innecesaria.",
+            "La transición entre ambos análisis es fundamental para una gestión empresarial eficiente y proactiva. Mientras que el análisis descriptivo nos da el contexto actual, el predictivo nos ofrece una hoja de ruta para la planificación. Un responsable de marketing puede combinar ambos para entender por qué falló una campaña y cómo mejorar la siguiente. La integración de estas visiones permite transformar datos brutos en decisiones estratégicas sólidas y fundamentadas."
+          ],
+          "imagen": {
+            "prompt": "A professional analyst looking at a large dashboard showing rising graphs and glowing data points in a modern office, clean modern flat vector illustration, soft colors.",
+            "archivo": "imagenes/l8-s1.jpg"
+          }
+        },
+        {
+          "titulo": "Técnicas de pronóstico y planificación",
+          "parrafos": [
+            "Existen diversas técnicas para generar pronósticos, siendo las series temporales una de las más comunes en el ámbito laboral. Estas analizan datos ordenados cronológicamente para detectar estacionalidades, como el aumento de ventas en Navidad. Una empresa de logística puede utilizar esta técnica para contratar personal temporal antes de las fechas de mayor demanda. Es una herramienta esencial para coordinar recursos humanos y materiales de forma equilibrada.",
+            "Otra técnica relevante es el análisis de tendencias, que se centra en la dirección a largo plazo de los datos. Si una plataforma de servicios digitales observa un crecimiento constante de usuarios mensuales, puede planificar inversiones en infraestructura tecnológica. Los gestores de proyectos utilizan estas tendencias para estimar presupuestos anuales y definir metas de crecimiento realistas. Esto reduce la incertidumbre y permite una asignación de recursos más precisa y segura.",
+            "Finalmente, es importante considerar que ningún pronóstico es exacto al cien por ciento debido a las variables externas. El objetivo de Business Intelligence es reducir el margen de error mediante el uso de modelos basados en datos reales y consistentes. Un gerente de ventas debe interpretar estos pronósticos como escenarios probables que guían la estrategia de la compañía. La combinación de experiencia humana y análisis de datos garantiza una toma de decisiones mucho más robusta."
+          ],
+          "imagen": {
+            "prompt": "A diverse team of workers discussing a futuristic holographic projection of a growing bar chart and trend lines, clean modern flat vector illustration, soft colors.",
+            "archivo": "imagenes/l8-s2.jpg"
+          }
+        }
+      ],
+      "interacciones": {
+        "pestanas": {
+          "titulo": "Tipos de análisis en BI",
+          "items": [
+            {
+              "titulo": "Análisis Descriptivo",
+              "texto": "Se centra en responder qué ha sucedido en el pasado mediante la recopilación de métricas clave. Permite visualizar el rendimiento real de la empresa sin suposiciones externas."
+            },
+            {
+              "titulo": "Análisis Predictivo",
+              "texto": "Utiliza patrones históricos para proyectar comportamientos futuros de manera lógica. Ayuda a anticipar situaciones y a optimizar la planificación estratégica."
+            },
+            {
+              "titulo": "Integración de visiones",
+              "texto": "Combina el contexto actual con una hoja de ruta para la planificación. Permite transformar datos brutos en decisiones estratégicas sólidas y fundamentadas."
+            }
+          ]
+        },
+        "pasos": null,
+        "tarjetas": {
+          "titulo": "Glosario",
+          "items": [
+            {
+              "termino": "Series temporales",
+              "definicion": "Datos ordenados cronológicamente que permiten detectar estacionalidades como los aumentos de ventas en fechas específicas."
+            },
+            {
+              "termino": "Análisis de tendencias",
+              "definicion": "Técnica que se centra en la dirección a largo plazo de los datos para planificar inversiones y metas de crecimiento."
+            },
+            {
+              "termino": "Métricas clave",
+              "definicion": "Datos recopilados para identificar qué ha sucedido en el pasado y evaluar el rendimiento real."
+            },
+            {
+              "termino": "Variables externas",
+              "definicion": "Factores fuera del control directo que impiden que ningún pronóstico sea exacto al cien por ciento."
+            }
+          ]
+        },
+        "desplegables": {
+          "titulo": "Conceptos clave y consideraciones",
+          "items": [
+            {
+              "titulo": "¿Cuál es el objetivo de los pronósticos en BI?",
+              "texto": "El objetivo es reducir el margen de error mediante el uso de modelos basados en datos reales y consistentes."
+            },
+            {
+              "titulo": "¿Cómo ayuda el análisis predictivo a una cadena de supermercados?",
+              "texto": "Permite predecir la demanda de productos perecederos para optimizar el stock y evitar el desperdicio de mercancía."
+            },
+            {
+              "titulo": "¿Qué papel juega la experiencia humana en los pronósticos?",
+              "texto": "La combinación de la experiencia humana con el análisis de datos garantiza una toma de decisiones mucho más robusta."
+            }
+          ]
+        },
+        "comprobacion": {
+          "enunciado": "¿Qué técnica se utiliza para observar la dirección de los datos a largo plazo y planificar inversiones en infraestructura?",
+          "opciones": [
+            "Análisis descriptivo",
+            "Recopilación de métricas",
+            "Análisis de tendencias",
+            "Visualización de rendimiento"
+          ],
+          "correcta": 2,
+          "explicacion": "El análisis de tendencias se centra en la dirección a largo plazo de los datos para planificar inversiones y metas."
+        }
+      }
+    },
+    {
+      "titulo": "Gestión de proyectos de Business Intelligence",
+      "objetivos": [
+        "Comprender las fases fundamentales para la gestión de proyectos de BI.",
+        "Identificar las herramientas y metodologías de planificación necesarias.",
+        "Reconocer y mitigar los riesgos comunes en la implementación de soluciones de datos."
+      ],
+      "puntos_clave": [
+        "Definir objetivos de negocio claros antes de iniciar el desarrollo técnico.",
+        "Gestionar las expectativas de los interesados mediante entregas incrementales.",
+        "Identificar y mitigar riesgos de calidad de datos y resistencia al cambio."
+      ],
+      "secciones": [
+        {
+          "titulo": "Planificación y gestión del ciclo de vida del proyecto",
+          "parrafos": [
+            "La gestión de proyectos de Business Intelligence requiere una estructura clara desde su concepción inicial. Es fundamental definir los objetivos de negocio antes de seleccionar cualquier tecnología de almacenamiento de datos. Por ejemplo, una empresa debe decidir si su prioridad es mejorar la logística o aumentar las ventas directas. Sin esta claridad, el proyecto puede derivar en una acumulación de datos sin utilidad práctica para la dirección.",
+            "Durante la fase de planificación, es esencial identificar a los interesados y sus necesidades específicas de información. Un equipo de ventas puede requerir paneles en tiempo real, mientras que el departamento de finanzas necesita informes mensuales precisos. El gestor de proyectos debe coordinar estas expectativas para evitar conflictos durante la fase de desarrollo. Un buen plan incluye un cronograma detallado con hitos claros para cada etapa del proceso.",
+            "La metodología de gestión elegida debe adaptarse al tamaño y la complejidad de la organización que implementa la solución. Muchas empresas optan por marcos de trabajo ágiles para permitir entregas incrementales y ajustes rápidos basados en el feedback del usuario. Esto permite que los usuarios finales vean avances reales del tablero de control en pocas semanas. En el día a día, esto facilita que el departamento de marketing valide los indicadores antes de que el proyecto finalice."
+          ],
+          "imagen": {
+            "prompt": "A professional team meeting in a bright office discussing a project roadmap on a large screen, clean modern flat vector illustration, soft colors.",
+            "archivo": "imagenes/l9-s1.jpg"
+          }
+        },
+        {
+          "titulo": "Identificación y mitigación de riesgos en BI",
+          "parrafos": [
+            "Uno de los mayores riesgos en cualquier proyecto de BI es la falta de calidad en los datos de origen. Si la información que se extrae de los sistemas actuales es incorrecta, los informes finales serán poco fiables para la toma de decisiones. Por ejemplo, si los registros de clientes están duplicados, el análisis de fidelización dará resultados sesgados. Es vital realizar auditorías de datos previas para asegurar la integridad de la información.",
+            "Otro riesgo crítico es la resistencia al cambio por parte de los empleados que deben adoptar las nuevas herramientas. Si el personal siente que la tecnología complica su trabajo en lugar de facilitarlo, la adopción del sistema será baja. Para mitigar esto, es necesario incluir programas de formación y comunicación clara sobre los beneficios del nuevo sistema. Un ejemplo común es la transición de hojas de cálculo manuales a un sistema automatizado de visualización.",
+            "Finalmente, el crecimiento inesperado del volumen de datos puede comprometer el rendimiento del sistema y los costes operativos. El gestor de proyectos debe prever la escalabilidad de la infraestructura para evitar cuellos de botella en el futuro cercano. Es recomendable realizar pruebas de carga y definir límites de crecimiento antes de la puesta en producción definitiva. Esto garantiza que la herramienta de Business Intelligence siga siendo eficiente a medida que la empresa crece."
+          ],
+          "imagen": {
+            "prompt": "A person analyzing a digital dashboard with warning icons and data flow charts, showing risk assessment and problem solving, clean modern flat vector illustration, soft colors.",
+            "archivo": "imagenes/l9-s2.jpg"
+          }
+        }
+      ],
+      "interacciones": {
+        "pestanas": {
+          "titulo": "Fases de la gestión de proyectos BI",
+          "items": [
+            {
+              "titulo": "Concepción y Planificación",
+              "texto": "Se deben definir los objetivos de negocio y las necesidades de información de los interesados antes de elegir la tecnología. Es fundamental establecer un cronograma con hitos claros."
+            },
+            {
+              "titulo": "Metodología de Trabajo",
+              "texto": "Se recomienda el uso de marcos de trabajo ágiles para permitir entregas incrementales. Esto facilita que los usuarios validen los indicadores mediante el feedback constante."
+            },
+            {
+              "titulo": "Gestión de Riesgos",
+              "texto": "Es necesario identificar problemas como la baja calidad de datos, la resistencia al cambio o la falta de escalabilidad. Se deben aplicar medidas preventivas como auditorías y formación."
+            }
+          ]
+        },
+        "pasos": null,
+        "tarjetas": {
+          "titulo": "Glosario",
+          "items": [
+            {
+              "termino": "Hitos",
+              "definicion": "Puntos de referencia clave dentro de un cronograma detallado para marcar el progreso de las etapas del proyecto."
+            },
+            {
+              "termino": "Escalabilidad",
+              "definicion": "Capacidad de la infraestructura para crecer y mantener el rendimiento ante un aumento inesperado del volumen de datos."
+            },
+            {
+              "termino": "Feedback",
+              "definicion": "Retroalimentación de los usuarios finales para realizar ajustes rápidos y validaciones durante el desarrollo."
+            },
+            {
+              "termino": "Auditoría de datos",
+              "definicion": "Proceso de revisión previo para asegurar la integridad y calidad de la información extraída de los sistemas de origen."
+            }
+          ]
+        },
+        "desplegables": {
+          "titulo": "Identificación de riesgos y soluciones",
+          "items": [
+            {
+              "titulo": "¿Qué ocurre si los datos de origen son incorrectos?",
+              "texto": "Los informes finales serán poco fiables para la toma de decisiones, por ejemplo, si existen registros duplicados que sesguen el análisis."
+            },
+            {
+              "titulo": "¿Cómo mitigar la resistencia al cambio del personal?",
+              "texto": "Se deben incluir programas de formación y una comunicación clara sobre los beneficios del nuevo sistema para facilitar la adopción."
+            },
+            {
+              "titulo": "¿Cómo evitar cuellos de botella por volumen de datos?",
+              "texto": "Es recomendable realizar pruebas de carga y definir límites de crecimiento antes de la puesta en producción definitiva."
+            }
+          ]
+        },
+        "comprobacion": {
+          "enunciado": "¿Cuál es uno de los requisitos fundamentales antes de seleccionar la tecnología de almacenamiento de datos?",
+          "opciones": [
+            "Contratar al máximo personal posible",
+            "Definir los objetivos de negocio",
+            "Eliminar todos los registros históricos",
+            "Aumentar el volumen de datos de forma inmediata"
+          ],
+          "correcta": 1,
+          "explicacion": "Es esencial definir los objetivos de negocio para evitar la acumulación de datos sin utilidad práctica para la dirección."
+        }
+      }
+    },
+    {
+      "titulo": "Procesos ETL en la Arquitectura de BI",
+      "objetivos": [
+        "Comprender el concepto y la importancia de los procesos ETL en la arquitectura de datos.",
+        "Identificar las etapas de Extracción, Transformación y Carga en un entorno empresarial.",
+        "Reconocer la utilidad de los procesos ETL para la toma de decisiones basada en datos fiables."
+      ],
+      "puntos_clave": [
+        "El ETL es el proceso esencial para mover y preparar datos para el análisis.",
+        "La extracción recolecta datos de múltiples fuentes sin afectar el rendimiento operativo.",
+        "La transformación garantiza la calidad y uniformidad de la información antes de su carga."
+      ],
+      "secciones": [
+        {
+          "titulo": "Concepto y fase de Extracción de datos",
+          "parrafos": [
+            "El proceso ETL constituye la columna vertebral de cualquier proyecto de Business Intelligence moderno. Su función principal es mover datos desde diversas fuentes hacia un repositorio centralizado como un almacén de datos. Sin una extracción eficiente, la información permanecería aislada en diferentes departamentos de la empresa. Por ejemplo, un analista necesita combinar datos de ventas con registros de inventario para obtener una visión global.",
+            "La fase de Extracción es el primer paso y consiste en conectar con las fuentes de origen de información. Estas fuentes pueden ser bases de datos relacionales, archivos de texto, hojas de cálculo o incluso aplicaciones en la nube. En el día a día laboral, esto implica recoger datos de un sistema de facturación y de una plataforma de redes sociales. Es fundamental asegurar que la extracción no degrade el rendimiento de los sistemas operativos actuales.",
+            "Durante esta etapa, es crucial identificar qué datos son realmente necesarios para los objetivos del negocio. No todos los registros almacenados en una base de datos son útiles para el análisis estratégico de la compañía. Por ejemplo, extraer solo las ventas del último año en lugar de toda la historia ahorra recursos técnicos. Una extracción bien planificada garantiza que el flujo de trabajo posterior sea más ágil y preciso."
+          ],
+          "imagen": {
+            "prompt": "clean modern flat vector illustration, soft colors, a person connecting different glowing data icons from various sources to a central hub.",
+            "archivo": "imagenes/l10-s1.jpg"
+          }
+        },
+        {
+          "titulo": "Transformación y Carga de la información",
+          "parrafos": [
+            "La fase de Transformación es donde los datos brutos se convierten en información estructurada y coherente. En este punto, se limpian errores, se eliminan duplicados y se normalizan los formatos de las diferentes fuentes. Por ejemplo, si una base de datos usa fechas en formato americano y otra en europeo, deben unificarse. También se realizan cálculos complejos, como la conversión de divisas o la suma de impuestos.",
+            "Una vez que los datos están limpios y preparados, comienza la fase de Carga hacia el destino final. Este destino suele ser un Data Warehouse donde la información queda organizada para su consulta rápida por los usuarios. En la práctica laboral, esto permite que los directivos accedan a informes actualizados sin tener que procesar los datos manualmente. La carga puede ser programada para ejecutarse automáticamente durante la noche para no interferir con la jornada laboral.",
+            "La correcta ejecución de estas dos fases garantiza la integridad y la calidad de los indicadores de rendimiento. Si los datos de transformación son incorrectos, las decisiones estratégicas de la empresa podrían basarse en información engañosa. Un ejemplo claro es asegurar que el margen de beneficio se calcule siempre con la misma fórmula en todos los informes. Un proceso ETL robusto es la garantía de que la información es fiable y útil para el negocio."
+          ],
+          "imagen": {
+            "prompt": "clean modern flat vector illustration, soft colors, a factory assembly line where raw data blocks are polished and organized into neat shelves.",
+            "archivo": "imagenes/l10-s2.jpg"
+          }
+        }
+      ],
+      "interacciones": {
+        "pestanas": {
+          "titulo": "Fases del proceso ETL",
+          "items": [
+            {
+              "titulo": "Extracción",
+              "texto": "Es el primer paso donde se conectan las fuentes de origen como bases de datos o archivos. El objetivo es recoger la información necesaria sin afectar el rendimiento de los sistemas actuales."
+            },
+            {
+              "titulo": "Transformación",
+              "texto": "En esta etapa los datos brutos se limpian, se eliminan duplicados y se normalizan los formatos. También se realizan cálculos complejos como conversiones de divisas o impuestos."
+            },
+            {
+              "titulo": "Carga",
+              "texto": "Es la fase final donde los datos preparados se introducen en el destino, como un Data Warehouse. Suele programarse automáticamente para facilitar el acceso rápido a los informes."
+            }
+          ]
+        },
+        "pasos": {
+          "titulo": "Secuencia del flujo ETL",
+          "items": [
+            {
+              "titulo": "Identificación y Extracción",
+              "texto": "Conectar con las fuentes de origen y seleccionar solo los datos útiles para los objetivos del negocio."
+            },
+            {
+              "titulo": "Limpieza y Normalización",
+              "texto": "Corregir errores, eliminar duplicados y unificar formatos de las diferentes fuentes extraídas."
+            },
+            {
+              "titulo": "Cálculo de información",
+              "texto": "Realizar las operaciones necesarias, como sumas de impuestos o conversiones de divisas."
+            },
+            {
+              "titulo": "Carga en el destino",
+              "texto": "Almacenar la información estructurada en el Data Warehouse para su consulta por los usuarios."
+            }
+          ]
+        },
+        "tarjetas": {
+          "titulo": "Glosario",
+          "items": [
+            {
+              "termino": "ETL",
+              "definicion": "Proceso que constituye la columna vertebral de los proyectos de Business Intelligence para mover datos hacia un repositorio central."
+            },
+            {
+              "termino": "Data Warehouse",
+              "definicion": "Destino final donde la información queda organizada para su consulta rápida por los usuarios."
+            },
+            {
+              "termino": "Normalización",
+              "definicion": "Acción de unificar los formatos de las diferentes fuentes de datos durante la transformación."
+            },
+            {
+              "termino": "Integridad de datos",
+              "definicion": "Garantía de que la información es fiable, útil y correcta para la toma de decisiones estratégicas."
+            }
+          ]
+        },
+        "desplegables": {
+          "titulo": "Puntos clave del proceso",
+          "items": [
+            {
+              "titulo": "¿Por qué es importante planificar la extracción?",
+              "texto": "Para asegurar que no se extraigan datos innecesarios y así ahorrar recursos técnicos y agilizar el flujo de trabajo."
+            },
+            {
+              "titulo": "¿Qué sucede si la transformación es incorrecta?",
+              "texto": "Las decisiones estratégicas de la empresa podrían basarse en información engañosa y poco fiable."
+            },
+            {
+              "titulo": "¿Cuándo es recomendable realizar la carga?",
+              "texto": "Se puede programar para ejecutarse automáticamente durante la noche para no interferir con la jornada laboral."
+            }
+          ]
+        },
+        "comprobacion": {
+          "enunciado": "¿Cuál es la función principal de la fase de Transformación?",
+          "opciones": [
+            "Extraer solo las ventas del último año para ahorrar recursos",
+            "Programar la ejecución de informes durante la noche",
+            "Conectar con aplicaciones en la nube y redes sociales",
+            "Convertir datos brutos en información estructurada y coherente"
+          ],
+          "correcta": 3,
+          "explicacion": "La transformación se encarga de limpiar, normalizar y realizar cálculos sobre los datos extraídos."
+        }
+      }
+    },
+    {
+      "titulo": "Arquitectura de BI: Almacenes de Datos y Cubos",
+      "objetivos": [
+        "Comprender la estructura y función del almacén de datos en una empresa.",
+        "Diferenciar entre modelos de datos relacionales y multidimensionales.",
+        "Identificar la utilidad de los cubos para el análisis de negocio."
+      ],
+      "puntos_clave": [
+        "El almacén de datos centraliza y limpia la información de toda la empresa.",
+        "Los procesos ETL aseguran que los datos sean coherentes y útiles para el análisis.",
+        "Los cubos multidimensionales permiten visualizar métricas desde diferentes perspectivas rápidamente."
+      ],
+      "secciones": [
+        {
+          "titulo": "El Almacén de Datos (Data Warehouse)",
+          "parrafos": [
+            "El almacén de datos es el repositorio central donde se consolida la información de diversas fuentes de la empresa. En lugar de consultar directamente las bases de datos de ventas o de recursos humanos, el BI utiliza este espacio unificado. Esto evita sobrecargar los sistemas operativos que usan los empleados en su día a día. Por ejemplo, un analista puede consultar el historial de ventas de los últimos cinco años sin ralentizar el punto de venta.",
+            "La arquitectura de este almacén permite organizar los datos de forma coherente mediante procesos de extracción, transformación y carga conocidos como ETL. Estos procesos limpian los datos, eliminan duplicados y estandarizan formatos como fechas o monedas. Si una tienda registra el producto como 'Art. 01' y otra como 'Producto_A', el almacén los unifica bajo un solo nombre. Así, la dirección puede obtener informes precisos sobre el inventario global sin errores de duplicidad.",
+            "Una característica fundamental es que los datos en el almacén son históricos y están optimizados para la lectura rápida. A diferencia de una base de datos transaccional que registra cada movimiento individual, el almacén prepara la información para grandes consultas. Un responsable de logística puede generar un reporte mensual de entregas con un solo clic gracias a esta estructura. Esto garantiza que la toma de decisiones se base en datos fiables y previamente procesados."
+          ],
+          "imagen": {
+            "prompt": "A clean modern flat vector illustration showing a central large storage building receiving data streams from different small office buildings, soft colors, professional atmosphere.",
+            "archivo": "imagenes/l11-s1.jpg"
+          }
+        },
+        {
+          "titulo": "Cubos Multidimensionales y Modelado",
+          "parrafos": [
+            "Los cubos multidimensionales son estructuras que organizan los datos para facilitar su análisis desde múltiples perspectivas. Imagina un cubo donde las caras representan dimensiones como tiempo, geografía y producto. El usuario puede 'pivotar' o girar el cubo para ver las ventas por mes, por ciudad o por categoría de producto. En el trabajo diario, esto permite pasar rápidamente de una visión general a un detalle específico sin cambiar de informe.",
+            "Para construir estos cubos, es esencial definir correctamente las tablas de hechos y las tablas de dimensiones. La tabla de hechos contiene las métricas cuantitativas, como el importe total de una factura o la cantidad de unidades vendidas. Las dimensiones, por el contrario, aportan el contexto necesario, como el nombre del vendedor o la sucursal. Un ejemplo claro es analizar el volumen de facturación (hecho) cruzándolo con el año (dimensión tiempo) y la región (dimensión geográfica).",
+            "El uso de cubos mejora drásticamente la velocidad de respuesta en las herramientas de visualización de Business Intelligence. Al estar pre-calculados, los cálculos complejos como el margen de beneficio por zona no tienen que ejecutarse en tiempo real. Un gerente puede explorar diferentes escenarios de rendimiento simplemente arrastrando y soltando campos en su panel de control. Esta arquitectura es la base para que el personal pueda realizar análisis ad-hoc de manera autónoma y eficiente."
+          ],
+          "imagen": {
+            "prompt": "A clean modern flat vector illustration of a 3D cube made of glowing data points surrounded by floating icons of clocks, maps, and shopping carts, soft colors.",
+            "archivo": "imagenes/l11-s2.jpg"
+          }
+        }
+      ],
+      "interacciones": {
+        "pestanas": {
+          "titulo": "Componentes de la Arquitectura BI",
+          "items": [
+            {
+              "titulo": "Almacén de Datos",
+              "texto": "Es el repositorio central que consolida información de diversas fuentes. Su función es evitar la sobrecarga de los sistemas operativos y ofrecer datos históricos optimizados para la lectura."
+            },
+            {
+              "titulo": "Procesos ETL",
+              "texto": "Son los procesos de extracción, transformación y carga que limpian los datos. Se encargan de eliminar duplicados y estandarizar formatos como fechas o monedas."
+            },
+            {
+              "titulo": "Cubos Multidimensionales",
+              "texto": "Son estructuras que organizan los datos para su análisis desde múltiples perspectivas. Permiten pivotar la información para pasar de una visión general a un detalle específico."
+            }
+          ]
+        },
+        "pasos": null,
+        "tarjetas": {
+          "titulo": "Glosario",
+          "items": [
+            {
+              "termino": "Tabla de hechos",
+              "definicion": "Contiene las métricas cuantitativas de la información, como el importe total o la cantidad vendida."
+            },
+            {
+              "termino": "Tabla de dimensiones",
+              "definicion": "Aporta el contexto necesario para el análisis, como el nombre del vendedor, la sucursal o la región."
+            },
+            {
+              "termino": "Pivotar",
+              "definicion": "Acción de girar el cubo de datos para visualizar la información desde diferentes ángulos o categorías."
+            },
+            {
+              "termino": "Análisis ad-hoc",
+              "definicion": "Análisis realizado de manera autónoma y eficiente por el personal utilizando la arquitectura de cubos."
+            }
+          ]
+        },
+        "desplegables": {
+          "titulo": "Conceptos Clave y Beneficios",
+          "items": [
+            {
+              "titulo": "¿Por qué no se consultan directamente las bases de datos de ventas?",
+              "texto": "Para evitar sobrecargar los sistemas operativos que los empleados utilizan en su día a día."
+            },
+            {
+              "titulo": "¿Qué sucede si una tienda registra un producto como 'Art. 01' y otra como 'Producto_A'?",
+              "texto": "El proceso ETL unifica ambos registros bajo un solo nombre para evitar errores de duplicidad en el inventario global."
+            },
+            {
+              "titulo": "¿Cuál es la ventaja de que los cubos estén pre-calculados?",
+              "texto": "Mejora drásticamente la velocidad de respuesta, ya que los cálculos complejos no tienen que ejecutarse en tiempo real."
+            }
+          ]
+        },
+        "comprobacion": {
+          "enunciado": "¿Qué tipo de datos se encuentran principalmente en la tabla de hechos?",
+          "opciones": [
+            "Contextos como nombres de vendedores y regiones",
+            "Registros de movimientos individuales en tiempo real",
+            "Formatos de fechas y monedas sin procesar",
+            "Métricas cuantitativas como importes totales y cantidades"
+          ],
+          "correcta": 3,
+          "explicacion": "La tabla de hechos contiene las métricas cuantitativas, mientras que las dimensiones aportan el contexto."
+        }
+      }
+    },
+    {
+      "titulo": "Visualización y análisis avanzado de datos",
+      "objetivos": [
+        "Diferenciar entre reportes, dashboards y herramientas de visualización.",
+        "Comprender los conceptos fundamentales de OLAP y Data Mining.",
+        "Identificar las aplicaciones prácticas de estas herramientas en el entorno empresarial."
+      ],
+      "puntos_clave": [
+        "Los dashboards ofrecen visión en tiempo real mientras los reportes detallan datos históricos.",
+        "OLAP facilita el análisis multidimensional y rápido de grandes bases de datos.",
+        "El Data Mining identifica patrones ocultos y tendencias predictivas en los datos."
+      ],
+      "secciones": [
+        {
+          "titulo": "Reportes y Dashboards: De la información a la acción",
+          "parrafos": [
+            "Los reportes son documentos estructurados que presentan datos históricos sobre un periodo determinado. En el entorno laboral, una empresa puede generar un reporte mensual de ventas para analizar el rendimiento de cada región. Estos informes permiten una revisión detallada de métricas pasadas para identificar tendencias generales. Su función principal es servir como registro oficial de la actividad operativa de la organización.",
+            "Por el contrario, los dashboards son paneles visuales dinámicos que ofrecen una visión en tiempo real de los indicadores clave de rendimiento. Un gestor de logística puede utilizar un dashboard para monitorizar el estado actual de los envíos en un mapa interactivo. A diferencia de los reportes, los dashboards priorizan la rapidez de lectura y la toma de decisiones inmediata. Permiten que los responsables visualicen alertas críticas sin necesidad de navegar por grandes tablas de datos.",
+            "La elección entre un reporte y un dashboard depende directamente del objetivo de comunicación del usuario final. Si el objetivo es auditar las facturas del trimestre pasado, el reporte es la herramienta adecuada para el departamento de contabilidad. Si el objetivo es supervisar la disponibilidad de stock en el almacén hoy mismo, el dashboard es la opción preferente. Ambas herramientas son complementarias y necesarias para una gestión de datos eficiente y profesional."
+          ],
+          "imagen": {
+            "prompt": "A professional office environment where a person looks at a large digital screen displaying colorful charts and graphs, clean modern flat vector illustration, soft colors.",
+            "archivo": "imagenes/l12-s1.jpg"
+          }
+        },
+        {
+          "titulo": "OLAP y Data Mining: Análisis profundo y descubrimiento",
+          "parrafos": [
+            "La tecnología OLAP permite realizar análisis multidimensionales de grandes volúmenes de datos de forma rápida y eficiente. Un analista de marketing puede utilizar OLAP para cruzar ventas por producto, por zona geográfica y por franja horaria simultáneamente. Esta capacidad de 'pivotar' los datos facilita la exploración de diferentes perspectivas sin necesidad de nuevas consultas complejas. Es fundamental para las empresas que necesitan navegar por sus bases de datos históricas con agilidad.",
+            "El Data Mining, o minería de datos, se centra en descubrir patrones, anomalías y relaciones ocultas dentro de conjuntos de datos masivos. Por ejemplo, una entidad bancaria puede aplicar técnicas de minería para detectar comportamientos de gasto inusuales que sugieran posibles fraudes. A diferencia del OLAP, que responde a preguntas específicas, el Data Mining busca respuestas que el analista aún no ha formulado. Utiliza algoritmos para extraer conocimiento valioso que puede anticipar futuras necesidades del mercado.",
+            "En la práctica laboral, la combinación de estas técnicas potencia la capacidad predictiva de la empresa en todos sus departamentos. Mientras que OLAP ayuda a entender qué ha sucedido y por qué en diferentes dimensiones, el Data Mining ayuda a predecir qué podría suceder. Un departamento de recursos humanos podría usar minería de datos para identificar factores que influyen en la rotación del personal. Dominar estas herramientas permite transformar los datos brutos en una ventaja competitiva estratégica para la organización."
+          ],
+          "imagen": {
+            "prompt": "A stylized representation of a digital magnifying glass hovering over a complex network of interconnected data points and nodes, clean modern flat vector illustration, soft colors.",
+            "archivo": "imagenes/l12-s2.jpg"
+          }
+        }
+      ],
+      "interacciones": {
+        "pestanas": {
+          "titulo": "Herramientas de análisis de datos",
+          "items": [
+            {
+              "titulo": "Reportes",
+              "texto": "Son documentos estructurados que presentan datos históricos de un periodo determinado. Sirven como registro oficial para identificar tendencias generales."
+            },
+            {
+              "titulo": "Dashboards",
+              "texto": "Son paneles visuales dinámicos que ofrecen una visión en tiempo real de los indicadores clave. Priorizan la rapidez de lectura para la toma de decisiones inmediata."
+            },
+            {
+              "titulo": "OLAP y Data Mining",
+              "texto": "OLAP permite análisis multidimensionales rápidos, mientras que el Data Mining busca descubrir patrones y relaciones ocultas en datos masivos."
+            }
+          ]
+        },
+        "pasos": null,
+        "tarjetas": {
+          "titulo": "Glosario",
+          "items": [
+            {
+              "termino": "Reporte",
+              "definicion": "Documento estructurado de datos históricos para revisión detallada de métricas pasadas."
+            },
+            {
+              "termino": "Dashboard",
+              "definicion": "Panel visual dinámico para monitorizar indicadores clave en tiempo real y detectar alertas."
+            },
+            {
+              "termino": "OLAP",
+              "definicion": "Tecnología para realizar análisis multidimensionales y pivotar datos de forma rápida."
+            },
+            {
+              "termino": "Data Mining",
+              "definicion": "Técnica para descubrir patrones, anomalías y relaciones ocultas mediante algoritmos."
+            }
+          ]
+        },
+        "desplegables": {
+          "titulo": "Diferencias clave y aplicaciones",
+          "items": [
+            {
+              "titulo": "¿Cuándo usar un reporte?",
+              "texto": "Es la herramienta adecuada cuando el objetivo es auditar datos del pasado, como las facturas de un trimestre anterior."
+            },
+            {
+              "titulo": "¿Cuándo usar un dashboard?",
+              "texto": "Es la opción preferente para supervisar situaciones actuales, como la disponibilidad de stock en el almacén hoy mismo."
+            },
+            {
+              "titulo": "¿Cuál es la diferencia entre OLAP y Data Mining?",
+              "texto": "OLAP responde a preguntas específicas sobre dimensiones conocidas, mientras que el Data Mining busca respuestas que el analista aún no ha formulado."
+            }
+          ]
+        },
+        "comprobacion": {
+          "enunciado": "¿Cuál es la función principal del Data Mining en una organización?",
+          "opciones": [
+            "Descubrir patrones y relaciones ocultas para anticipar necesidades",
+            "Presentar datos históricos de ventas mensuales",
+            "Auditar las facturas del trimestre pasado",
+            "Monitorizar el estado actual de los envíos en un mapa"
+          ],
+          "correcta": 0,
+          "explicacion": "El Data Mining utiliza algoritmos para extraer conocimiento y predecir qué podría suceder en el futuro."
+        }
+      }
+    }
+  ],
+  "cuestionario": {
+    "titulo": "Cuestionario final",
+    "aprobado": 70,
+    "preguntas": [
+      {
+        "enunciado": "En la pirámide organizacional de una empresa, ¿cuál es la función principal de los mandos medios en relación con los datos?",
+        "opciones": [
+          "Definir la estrategia a largo plazo de la compañía",
+          "Analizar datos para gestionar equipos y optimizar procesos específicos",
+          "Realizar la programación técnica de las herramientas de BI",
+          "Generar los datos diarios mediante tareas rutinarias"
+        ],
+        "correcta": 1,
+        "explicacion": "Los mandos medios se sitúan en el nivel intermedio y analizan los datos para la gestión de equipos y optimización de procesos."
+      },
+      {
+        "enunciado": "¿Cuál es el objetivo principal de las herramientas de Business Intelligence en el entorno laboral?",
+        "opciones": [
+          "Asegurar que todos los empleados sean expertos en programación",
+          "Facilitar la recolección, el almacenamiento y la visualización de los datos",
+          "Sustituir la necesidad de tener empleados en la base operativa",
+          "Eliminar la posibilidad de cometer errores en la facturación"
+        ],
+        "correcta": 1,
+        "explicacion": "Las herramientas de BI son softwares diseñados para facilitar la recolección, el almacenamiento y la visualización de la información."
+      },
+      {
+        "enunciado": "¿Qué característica distingue a un Data Warehouse de una base de datos tradicional?",
+        "opciones": [
+          "Se utiliza principalmente para el análisis de grandes volúmenes de datos históricos",
+          "Solo permite la entrada de datos provenientes de una única fuente",
+          "Borra automáticamente los datos antiguos para ahorrar espacio",
+          "Está diseñado para gestionar transacciones diarias en tiempo real"
+        ],
+        "correcta": 0,
+        "explicacion": "A diferencia de las bases de datos tradicionales, el Data Warehouse está diseñado específicamente para analizar datos históricos."
+      },
+      {
+        "enunciado": "¿Por qué es importante la no volatilidad de la información en un Data Warehouse?",
+        "opciones": [
+          "Garantiza que los informes generados hoy sean comparables con los de periodos anteriores",
+          "Permite que los datos se modifiquen constantemente para reflejar el presente",
+          "Asegura que el sistema sea más rápido que los sistemas OLTP",
+          "Evita que los clientes puedan cambiar su información personal"
+        ],
+        "correcta": 0,
+        "explicacion": "La estabilidad y persistencia de los datos permiten realizar comparativas históricas fiables."
+      },
+      {
+        "enunciado": "¿Cuál es la función principal de los sistemas OLTP en una empresa?",
+        "opciones": [
+          "Realizar análisis de tendencias de largo plazo",
+          "Crear gráficos y reportes visuales para el departamento de marketing",
+          "Gestionar las operaciones diarias de forma rápida, segura y eficiente en tiempo real",
+          "Almacenar datos históricos para la planificación estratégica"
+        ],
+        "correcta": 2,
+        "explicacion": "Los sistemas OLTP son el motor de la operación diaria y gestionan transacciones como ventas o transferencias."
+      },
+      {
+        "enunciado": "¿Por qué es fundamental separar las tareas de análisis de las tareas operativas?",
+        "opciones": [
+          "Para reducir el número de herramientas que utiliza la empresa",
+          "Para que los empleados de la base no tengan acceso a la información",
+          "Porque los sistemas OLTP no tienen capacidad para almacenar datos",
+          "Para evitar que las consultas pesadas ralenticen la operación diaria y las ventas"
+        ],
+        "correcta": 3,
+        "explicacion": "Separar el análisis de la operación asegura que las consultas complejas no bloqueen las tareas administrativas o las ventas diarias."
+      },
+      {
+        "enunciado": "¿Qué técnica de navegación en datos permite pasar de una visión general a una más detallada, como pasar de ventas anuales a ventas mensuales?",
+        "opciones": [
+          "Drill Down",
+          "Relational OLAP",
+          "Drill Up",
+          "Clustering"
+        ],
+        "correcta": 0,
+        "explicacion": "El Drill Down permite desglosar una cifra general para mostrar un nivel de detalle más profundo."
+      },
+      {
+        "enunciado": "¿Cuál es la principal característica del modelo de arquitectura MOLAP?",
+        "opciones": [
+          "Combina datos agregados en estructuras multidimensionales y detalles en bases relacionales",
+          "Utiliza estructuras multidimensionales para almacenar datos precalculados y ofrecer rapidez",
+          "Almacena los datos directamente en una base de datos relacional tradicional",
+          "Es la opción preferida para manejar volúmenes masivos de datos brutos sin estructura"
+        ],
+        "correcta": 1,
+        "explicacion": "MOLAP utiliza estructuras multidimensionales con datos precalculados para garantizar una velocidad de respuesta rápida."
+      },
+      {
+        "enunciado": "¿Cuál es el objetivo principal de la minería de datos en el entorno empresarial?",
+        "opciones": [
+          "Almacenar la mayor cantidad de datos posible en servidores externos",
+          "Eliminar automáticamente todos los registros de clientes antiguos de las bases de datos",
+          "Descubrir patrones, anomalías y relaciones útiles para extraer conocimiento accionable",
+          "Escribir consultas complejas para que los usuarios no técnicos vean los gráficos"
+        ],
+        "correcta": 2,
+        "explicacion": "La minería de datos busca transformar datos brutos en conocimiento que aporte valor real a la empresa."
+      },
+      {
+        "enunciado": "¿En qué consiste la técnica de agrupamiento o clustering?",
+        "opciones": [
+          "Identificar grupos naturales en los datos sin tener categorías previas",
+          "Asignar elementos a categorías específicas basadas en características comunes",
+          "Colocar productos complementarios en pasillos cercanos para fomentar la venta",
+          "Estimar cuántas ventas realizará una empresa el próximo mes"
+        ],
+        "correcta": 0,
+        "explicacion": "El clustering identifica grupos naturales en los datos sin necesidad de categorías definidas previamente."
+      },
+      {
+        "enunciado": "¿Cuál es el primer paso fundamental en el ciclo de vida de la minería de datos?",
+        "opciones": [
+          "La integración y limpieza de las fuentes de datos",
+          "La definición de objetivos claros para evitar análisis sin propósito",
+          "La eliminación de valores atípicos detectados en la exploración",
+          "La visualización de los resultados finales"
+        ],
+        "correcta": 1,
+        "explicacion": "El proceso comienza con la definición de objetivos claros para asegurar que el análisis tenga una meta definida."
+      },
+      {
+        "enunciado": "¿Por qué es crítica la fase de preparación de datos o preprocesamiento?",
+        "opciones": [
+          "Porque es la fase donde se aplican los algoritmos de regresión para predecir ventas",
+          "Porque permite eliminar registros de clientes antiguos que ya no interactúan con la marca",
+          "Porque los datos crudos suelen estar desordenados o incompletos y pueden sesgar los resultados",
+          "Porque permite que el sistema genere automáticamente los indicadores estratégicos para la dirección"
+        ],
+        "correcta": 2,
+        "explicacion": "El preprocesamiento es vital porque los datos brutos pueden contener errores o estar desordenados, lo que afectaría la fiabilidad de los resultados."
+      },
+      {
+        "enunciado": "¿Cuál es la principal diferencia entre una consulta y un reporte en el contexto de Business Intelligence?",
+        "opciones": [
+          "La consulta es una acción para obtener información específica mediante filtros, mientras que el reporte organiza esa información en un formato visual como gráficos o tablas.",
+          "Las consultas solo sirven para el departamento de ventas, mientras que los reportes son exclusivos para la dirección.",
+          "Los reportes se ejecutan automáticamente por el sistema y las consultas siempre requieren intervención manual del usuario.",
+          "Un reporte es una base de datos centralizada y una consulta es el documento final que el usuario visualiza."
+        ],
+        "correcta": 0,
+        "explicacion": "El texto explica que la consulta es la acción de interrogar la base de datos para obtener datos específicos, mientras que el reporte es el formato organizado que el usuario visualiza."
+      },
+      {
+        "enunciado": "¿Cuál es una ventaja clave de implementar sistemas de alertas en una empresa?",
+        "opciones": [
+          "Ayudan a transformar la gestión de datos de un modelo reactivo a uno proactivo y preventivo.",
+          "Garantizan que todos los empleados reciban todas las notificaciones posibles para estar siempre informados.",
+          "Permiten que los empleados revisen manualmente los datos cada hora para asegurar la precisión.",
+          "Eliminan la necesidad de definir indicadores clave de rendimiento o KPI en la organización."
+        ],
+        "correcta": 0,
+        "explicacion": "Las alertas permiten actuar rápidamente ante problemas antes de que afecten al cliente, pasando de una gestión reactiva a una proactiva."
+      },
+      {
+        "enunciado": "¿En qué consiste el análisis descriptivo de datos?",
+        "opciones": [
+          "En definir la estrategia de marketing para las campañas que aún no han comenzado.",
+          "En proyectar la demanda de productos perecederos para la próxima semana.",
+          "En responder qué ha sucedido en el pasado mediante la recopilación de métricas clave.",
+          "En anticipar qué comportamientos ocurrirán en el futuro basándose en patrones lógicos."
+        ],
+        "correcta": 2,
+        "explicacion": "El análisis descriptivo busca responder qué ha sucedido en el pasado mediante la recopilación de métricas."
+      },
+      {
+        "enunciado": "¿Qué técnica de pronóstico analiza datos ordenados cronológicamente para detectar estacionalidades?",
+        "opciones": [
+          "Series temporales",
+          "Auditoría de datos",
+          "Análisis descriptivo",
+          "Análisis de tendencias"
+        ],
+        "correcta": 0,
+        "explicacion": "Las series temporales analizan datos cronológicamente para detectar patrones como el aumento de ventas en fechas específicas."
+      },
+      {
+        "enunciado": "¿Cuál es un paso fundamental antes de seleccionar la tecnología de almacenamiento en un proyecto de BI?",
+        "opciones": [
+          "Definir los objetivos de negocio.",
+          "Elegir el marco de trabajo ágil más complejo.",
+          "Contratar personal temporal.",
+          "Realizar una auditoría de datos de clientes."
+        ],
+        "correcta": 0,
+        "explicacion": "Es fundamental definir los objetivos de negocio antes de seleccionar cualquier tecnología para evitar la acumulación de datos sin utilidad."
+      },
+      {
+        "enunciado": "¿Cómo se puede mitigar el riesgo de resistencia al cambio por parte de los empleados ante nuevas herramientas de BI?",
+        "opciones": [
+          "Eliminando las hojas de cálculo manuales sin previo aviso.",
+          "Aumentando el volumen de datos que el sistema debe procesar.",
+          "Reduciendo la frecuencia de las alertas para no saturar a los trabajadores.",
+          "Incluyendo programas de formación y comunicación clara sobre los beneficios del sistema."
+        ],
+        "correcta": 3,
+        "explicacion": "Para mitigar la resistencia al cambio, es necesario formar al personal y comunicar claramente las ventajas de la nueva tecnología."
+      },
+      {
+        "enunciado": "¿Cuál es la función principal de la fase de Extracción en el proceso ETL?",
+        "opciones": [
+          "Limpiar y unificar los formatos de las diferentes fuentes de datos",
+          "Visualizar los indicadores clave de rendimiento en un panel dinámico",
+          "Conectar con las fuentes de origen de información para recoger los datos",
+          "Realizar cálculos complejos como la conversión de divisas"
+        ],
+        "correcta": 2,
+        "explicacion": "La fase de Extracción consiste en el primer paso del proceso ETL, que es conectar con las fuentes de origen para recoger la información."
+      },
+      {
+        "enunciado": "¿Por qué es importante identificar qué datos son realmente necesarios durante la extracción?",
+        "opciones": [
+          "Para eliminar automáticamente los duplicados de las bases de datos",
+          "Para asegurar que la extracción no degrade el rendimiento de los sistemas operativos actuales",
+          "Para que los datos queden organizados en un cubo multidimensional",
+          "Para que el analista pueda realizar auditorías de facturas pasadas"
+        ],
+        "correcta": 1,
+        "explicacion": "Identificar los datos necesarios ayuda a ahorrar recursos técnicos y garantiza que la extracción no afecte el rendimiento de los sistemas operativos."
+      },
+      {
+        "enunciado": "¿Cuál es la principal ventaja de utilizar un Almacén de Datos (Data Warehouse) en lugar de consultar directamente las bases de datos operativas?",
+        "opciones": [
+          "Evita sobrecargar los sistemas que los empleados usan en su día a día",
+          "Sustituye la necesidad de utilizar herramientas de visualización",
+          "Permite modificar los registros de ventas en tiempo real",
+          "Elimina la necesidad de realizar procesos de transformación de datos"
+        ],
+        "correcta": 0,
+        "explicacion": "El uso de un almacén de datos centralizado evita ralentizar o sobrecargar los sistemas operativos que utilizan los empleados habitualmente."
+      },
+      {
+        "enunciado": "En el modelado de cubos multidimensionales, ¿qué función cumplen las tablas de dimensiones?",
+        "opciones": [
+          "Aportar el contexto necesario, como el nombre del vendedor o la sucursal",
+          "Almacenar únicamente los datos históricos de la empresa",
+          "Contener las métricas cuantitativas como el importe total de una factura",
+          "Ejecutar los cálculos complejos en tiempo real para el usuario"
+        ],
+        "correcta": 0,
+        "explicacion": "Las dimensiones aportan el contexto necesario (como tiempo, geografía o producto) para analizar las métricas cuantitativas."
+      },
+      {
+        "enunciado": "¿Cuál es la diferencia fundamental entre un reporte y un dashboard?",
+        "opciones": [
+          "Los reportes son documentos estructurados de datos históricos y los dashboards son paneles visuales dinámicos en tiempo real",
+          "Los reportes permiten el análisis predictivo y los dashboards solo el análisis descriptivo",
+          "Los reportes son automáticos y los dashboards requieren siempre intervención manual",
+          "Los reportes solo se usan en logística y los dashboards solo en contabilidad"
+        ],
+        "correcta": 0,
+        "explicacion": "Los reportes sirven para revisar métricas pasadas y registros oficiales, mientras que los dashboards priorizan la rapidez de lectura y la toma de decisiones inmediata."
+      },
+      {
+        "enunciado": "¿En qué se diferencia el Data Mining del análisis OLAP?",
+        "opciones": [
+          "El OLAP sirve para predecir el futuro y el Data Mining para ver el pasado",
+          "El OLAP solo se usa en marketing y el Data Mining solo en el sector bancario",
+          "El OLAP requiere datos brutos y el Data Mining solo utiliza cubos multidimensionales",
+          "El OLAP responde a preguntas específicas y el Data Mining busca patrones o relaciones ocultas"
+        ],
+        "correcta": 3,
+        "explicacion": "Mientras que OLAP ayuda a entender qué ha sucedido en diferentes dimensiones, el Data Mining busca descubrir patrones y respuestas que el analista aún no ha formulado."
+      }
+    ]
+  }
+}

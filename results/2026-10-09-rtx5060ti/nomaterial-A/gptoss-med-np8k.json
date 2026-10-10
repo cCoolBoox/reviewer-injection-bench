@@ -1,0 +1,139 @@
+{
+  "modelo": "gpt-oss:20b",
+  "fecha": "2026-10-09T19:05:38.270Z",
+  "hallazgos": [
+    {
+      "ambito": "Lección 1: Fundamentos del Data Warehouse",
+      "unidad": "P1.3",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "Los datos en un Data Warehouse se modifican y se borran constantemente una vez que han sido integrados en el repositorio central.",
+      "problema": "Factual error: un Data Warehouse es no volátil; los datos no se modifican ni se borran una vez integrados.",
+      "correccion": "Los datos en un Data Warehouse no se modifican ni se borran una vez que han sido integrados en el repositorio central.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Fundamentos del Data Warehouse",
+      "unidad": "P2.2",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "El Data Warehouse es el sistema que gestiona las transacciones diarias de la empresa.",
+      "problema": "Factual error: un Data Warehouse no gestiona las transacciones diarias; esa función corresponde al sistema operativo.",
+      "correccion": "El Data Warehouse no gestiona las transacciones diarias; esas son gestionadas por el sistema operativo.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: Sistemas OLTP e implementación del Data Warehouse",
+      "unidad": "P1.1",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "Sistemas OLTP, o de Procesamiento Analítico en Línea",
+      "problema": "OLTP significa Online Transaction Processing, no Procesamiento Analítico en Línea.",
+      "correccion": "Sistemas OLTP, o de Procesamiento de Transacciones en Línea",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: Sistemas OLTP e implementación del Data Warehouse",
+      "unidad": "P2.2",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "Los datos se transforman y cargan desde el almacén de datos hacia los sistemas OLTP",
+      "problema": "El proceso ETL va de los sistemas operativos (OLTP) hacia el Data Warehouse, no al revés.",
+      "correccion": "Los datos se transforman y cargan desde los sistemas operativos (OLTP) hacia el Data Warehouse mediante procesos ETL",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Análisis OLAP y arquitecturas de servidores",
+      "unidad": "P1.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "pasar de una visión detallada a una más general",
+      "problema": "El Drill Down va de una visión general a una más detallada, no al revés.",
+      "correccion": "pasar de una visión general a una más detallada",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Análisis OLAP y arquitecturas de servidores",
+      "unidad": "P2.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "almacena los datos en estructuras multidimensionales precalculadas",
+      "problema": "El ROLAP almacena los datos en una base de datos relacional, no en estructuras multidimensionales.",
+      "correccion": "almacena los datos en una base de datos relacional",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Análisis OLAP y arquitecturas de servidores",
+      "unidad": "P2.2",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "extremadamente lenta",
+      "problema": "El MOLAP ofrece una velocidad de respuesta extremadamente rápida, no lenta.",
+      "correccion": "extremadamente rápida",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Análisis OLAP y arquitecturas de servidores",
+      "unidad": "P2.3",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "utiliza únicamente almacenamiento relacional y descarta las estructuras multidimensionales",
+      "problema": "El HOLAP combina almacenamiento relacional y estructuras multidimensionales; no descarta ninguna.",
+      "correccion": "utiliza una combinación de almacenamiento relacional para datos de detalle y estructuras multidimensionales para datos agregados",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 5: Procesos ETL en la Arquitectura de BI",
+      "unidad": "P1.1",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "La sigla ETL significa Enviar, Transformar y Limpiar.",
+      "problema": "La sigla ETL no significa Enviar, Transformar y Limpiar; su significado correcto es Extract, Transform, Load.",
+      "correccion": "ETL significa Extract, Transform, Load.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 7: Visualización y análisis avanzado de datos",
+      "unidad": "P2.2",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "Igual que el OLAP, el Data Mining solo responde a preguntas que el analista ya ha formulado.",
+      "problema": "El Data Mining puede descubrir patrones y relaciones sin necesidad de que el analista haya formulado previamente una pregunta específica.",
+      "correccion": "El Data Mining puede descubrir patrones y relaciones sin necesidad de que el analista haya formulado previamente una pregunta específica.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 6: Arquitectura de BI: Almacenes de Datos y Cubos",
+      "unidad": "P2.2",
+      "tipo": "error_factual",
+      "gravedad": "media",
+      "cita": "La tabla de hechos contiene los atributos descriptivos",
+      "problema": "La tabla de hechos contiene los atributos descriptivos, cuando en realidad contiene métricas cuantitativas; los atributos descriptivos pertenecen a las tablas de dimensiones.",
+      "correccion": "La tabla de hechos contiene métricas cuantitativas (medidas), mientras que los atributos descriptivos se encuentran en las tablas de dimensiones.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    }
+  ],
+  "noRevisado": []
+}

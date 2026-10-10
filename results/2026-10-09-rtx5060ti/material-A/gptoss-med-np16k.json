@@ -1,0 +1,197 @@
+{
+  "modelo": "gpt-oss:20b",
+  "fecha": "2026-10-09T21:24:41.617Z",
+  "hallazgos": [
+    {
+      "ambito": "Lección 1: Informes semanales y gráficos",
+      "unidad": "P1.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Debes utilizar siempre el color azul marino para la serie principal en los gráficos de columnas.",
+      "problema": "Contradice la norma de uso de color verde menta para la serie principal.",
+      "correccion": "Utilizar color verde menta.",
+      "confianza": "alta",
+      "evidencia": "M009",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Informes semanales y gráficos",
+      "unidad": "P1.2",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "nunca debemos incluir más de ocho series en un mismo gráfico de columnas.",
+      "problema": "Contradice la norma de máximo cinco series.",
+      "correccion": "No incluir más de cinco series.",
+      "confianza": "alta",
+      "evidencia": "M009",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Informes semanales y gráficos",
+      "unidad": "P3.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "El proceso de guardado de los informes semanales debe realizarse estrictamente todos los lunes.",
+      "problema": "Contradice la norma de guardado los viernes.",
+      "correccion": "El proceso debe realizarse los viernes.",
+      "confianza": "alta",
+      "evidencia": "M013",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: Archivo y copias de seguridad",
+      "unidad": "P2.3",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "durante un periodo de cinco años",
+      "problema": "Contradición: el plazo de conservación es tres años, no cinco.",
+      "correccion": "debe conservarse durante tres años.",
+      "confianza": "alta",
+      "evidencia": "M013",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: Archivo y copias de seguridad",
+      "unidad": "P3.2",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "restaurarse en el servidor de pruebas denominado SRV-PRD1",
+      "problema": "El servidor de pruebas es SRV-PRU2, no SRV-PRD1.",
+      "correccion": "restaurarse en el servidor de pruebas SRV-PRU2.",
+      "confianza": "alta",
+      "evidencia": "M014",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Archivo y copias de seguridad",
+      "unidad": "P2.1",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "cada último lunes de mes",
+      "problema": "La referencia indica que la verificación se realiza cada primer lunes de mes, no el último.",
+      "correccion": "La verificación debe hacerse cada primer lunes de mes.",
+      "confianza": "alta",
+      "evidencia": "M014",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 4: Atención telefónica a clientes",
+      "unidad": "P2.1",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "debe atender la llamada antes de que suene el segundo tono",
+      "problema": "Contradice la norma de atención antes del cuarto tono",
+      "correccion": "debe atender la llamada antes del cuarto tono",
+      "confianza": "alta",
+      "evidencia": "M017",
+      "citaLiteral": false
+    },
+    {
+      "ambito": "Lección 4: Atención telefónica a clientes",
+      "unidad": "P4.1",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "plazo máximo 72 horas",
+      "problema": "Contradice la norma de respuesta en 48 horas",
+      "correccion": "plazo máximo 48 horas",
+      "confianza": "alta",
+      "evidencia": "M041",
+      "citaLiteral": false
+    },
+    {
+      "ambito": "Cuestionario, preguntas 1-6",
+      "unidad": "T1",
+      "tipo": "afirmacion_dudosa",
+      "gravedad": "alta",
+      "cita": "Debes utilizar siempre el color azul marino para la serie principal en los gráficos de columnas.",
+      "problema": "La respuesta marcada es verde menta, pero la normativa indica azul marino.",
+      "correccion": "La respuesta correcta debe ser azul marino.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": false
+    },
+    {
+      "ambito": "Cuestionario, preguntas 7-12",
+      "unidad": "T10",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "Según la regla NOVA-19, tenemos un plazo máximo de 72 horas para responder a estas solicitudes.",
+      "problema": "La respuesta marcada es 48 horas, pero la normativa establece 72 horas.",
+      "correccion": "El plazo máximo es 72 horas (tres días hábiles).",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": false
+    },
+    {
+      "ambito": "Lección 1: Informes semanales y gráficos",
+      "unidad": "P2.2",
+      "tipo": "afirmacion_dudosa",
+      "gravedad": "media",
+      "cita": "El título debe incluir siempre la fecha del informe entre paréntesis.",
+      "problema": "Añade una exigencia no presente en el material.",
+      "correccion": "No incluir la fecha en el título a menos que se indique explícitamente.",
+      "confianza": "media",
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: Archivo y copias de seguridad",
+      "unidad": "P1.2",
+      "tipo": "dato_no_consta",
+      "gravedad": "media",
+      "cita": "(La importancia del archivo corporativo) El objetivo principal de mantener un archivo ordenado es garantizar la trazabilidad de nuestras operaciones diarias. Si",
+      "problema": "Afirma un dato concreto que no consta en el material de referencia del cliente.",
+      "correccion": "",
+      "confianza": "media",
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Archivo y copias de seguridad",
+      "unidad": "P3.3",
+      "tipo": "error_factual",
+      "gravedad": "media",
+      "cita": "pregunta a tu compañero más veterano",
+      "problema": "La referencia indica que la consulta debe dirigirse al responsable directo, no a un compañero.",
+      "correccion": "Debes consultar a tu responsable directo.",
+      "confianza": "alta",
+      "evidencia": "M028",
+      "citaLiteral": true
+    }
+  ],
+  "noRevisado": [],
+  "material": {
+    "unidades": 166,
+    "respaldado": 145,
+    "no_consta": 2,
+    "contradice": 9,
+    "general": 10,
+    "porcentajeRespaldado": 93,
+    "porLeccion": {
+      "Lección 1: Informes semanales y gráficos": {
+        "respaldado": 34,
+        "no_consta": 1,
+        "contradice": 3,
+        "general": 4
+      },
+      "Lección 2: Archivo y copias de seguridad": {
+        "respaldado": 36,
+        "no_consta": 1,
+        "contradice": 2,
+        "general": 1
+      },
+      "Lección 3: Archivo y copias de seguridad": {
+        "respaldado": 41,
+        "no_consta": 0,
+        "contradice": 2,
+        "general": 0
+      },
+      "Lección 4: Atención telefónica a clientes": {
+        "respaldado": 34,
+        "no_consta": 0,
+        "contradice": 2,
+        "general": 5
+      }
+    }
+  }
+}

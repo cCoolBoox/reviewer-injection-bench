@@ -1,0 +1,110 @@
+[
+ {
+  "lesson": 1,
+  "originalLesson": 5,
+  "unit": "P2.1",
+  "type": "changed",
+  "before": "que consiste en asignar elementos a categorías específicas basadas en sus características comunes",
+  "after": "que consiste en descubrir grupos naturales en los datos sin categorías previas",
+  "note": "classification described as clustering"
+ },
+ {
+  "lesson": 1,
+  "originalLesson": 5,
+  "unit": "P2.2",
+  "type": "changed",
+  "before": "donde el objetivo es identificar grupos naturales en los datos sin categorías previas",
+  "after": "donde el objetivo es asignar cada dato a categorías predefinidas por el analista",
+  "note": "clustering described as classification"
+ },
+ {
+  "lesson": 1,
+  "originalLesson": 5,
+  "unit": "P2.3",
+  "type": "changed",
+  "before": "basándose en datos históricos",
+  "after": "basándose únicamente en la opinión de los directivos",
+  "note": "prediction without data"
+ },
+ {
+  "lesson": 2,
+  "originalLesson": 6,
+  "unit": "P1.1",
+  "type": "changed",
+  "before": "este proceso comienza con la definición de objetivos claros",
+  "after": "este proceso comienza con la visualización de los resultados",
+  "note": "order of the process"
+ },
+ {
+  "lesson": 2,
+  "originalLesson": 6,
+  "unit": "P1.2",
+  "type": "changed",
+  "before": "se procede a la integración y limpieza de las fuentes de datos disponibles",
+  "after": "se procede directamente a la modelización sin limpiar las fuentes de datos disponibles",
+  "note": "cleaning skipped"
+ },
+ {
+  "lesson": 2,
+  "originalLesson": 6,
+  "unit": "P2.3",
+  "type": "changed",
+  "before": "se utilizarán métodos de regresión o series temporales",
+  "after": "se utilizarán métodos de agrupamiento o clustering",
+  "note": "wrong technique to predict"
+ },
+ {
+  "lesson": 3,
+  "originalLesson": 8,
+  "unit": "P1.1",
+  "type": "changed",
+  "before": "Esta etapa busca responder qué ha sucedido en el pasado",
+  "after": "Esta etapa busca responder qué va a suceder en el futuro",
+  "note": "descriptive confused with predictive"
+ },
+ {
+  "lesson": 3,
+  "originalLesson": 8,
+  "unit": "P1.2",
+  "type": "changed",
+  "before": "pasamos al análisis predictivo para anticipar",
+  "after": "pasamos al análisis diagnóstico para anticipar",
+  "note": "diagnostic instead of predictive"
+ },
+ {
+  "lesson": 3,
+  "originalLesson": 8,
+  "unit": "P2.1",
+  "type": "changed",
+  "before": "Estas analizan datos ordenados cronológicamente",
+  "after": "Estas analizan datos sin orden temporal",
+  "note": "time series without time order"
+ },
+ {
+  "lesson": 3,
+  "originalLesson": 8,
+  "unit": "P2.3",
+  "type": "changed",
+  "before": "ningún pronóstico es exacto al cien por ciento",
+  "after": "los pronósticos de Business Intelligence son siempre exactos al cien por ciento",
+  "note": "forecasts always exact"
+ },
+ {
+  "lesson": 4,
+  "originalLesson": 9,
+  "unit": "P1.1",
+  "type": "changed",
+  "before": "definir los objetivos de negocio antes de seleccionar cualquier tecnología",
+  "after": "seleccionar la tecnología antes de definir los objetivos de negocio",
+  "note": "goals/technology order"
+ },
+ {
+  "lesson": 4,
+  "originalLesson": 9,
+  "unit": "P1.3",
+  "type": "changed",
+  "before": "marcos de trabajo ágiles para permitir entregas incrementales",
+  "after": "marcos de trabajo en cascada para permitir entregas incrementales",
+  "note": "waterfall is not incremental"
+ }
+]

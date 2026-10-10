@@ -1,0 +1,466 @@
+{
+ "titulo": "ADGG102PO Business Intelligence",
+ "lecciones": [
+  {
+   "titulo": "Conceptos y categorías de la Minería de Datos",
+   "objetivos": [
+    "Definir el concepto de Minería de Datos en el contexto empresarial.",
+    "Identificar las principales categorías de técnicas de Data Mining.",
+    "Reconocer la utilidad de la minería de datos en la toma de decisiones diarias."
+   ],
+   "puntos_clave": [
+    "La minería de datos extrae patrones útiles de grandes volúmenes de información.",
+    "La clasificación y el agrupamiento son técnicas básicas para organizar y segmentar datos.",
+    "Las asociaciones y predicciones permiten anticipar comportamientos y optimizar decisiones comerciales."
+   ],
+   "secciones": [
+    {
+     "titulo": "¿Qué es la Minería de Datos?",
+     "parrafos": [
+      "La minería de datos, o Data Mining, es el proceso de descubrir patrones, anomalías y relaciones útiles dentro de grandes volúmenes de información. En el entorno laboral actual, las empresas generan datos constantemente a través de ventas, registros de usuarios y sensores industriales. El objetivo principal no es solo almacenar esta información, sino extraer conocimiento accionable que aporte valor real. Por ejemplo, una tienda puede analizar el historial de compras para entender qué productos se suelen adquirir juntos.",
+      "Este proceso implica el uso de algoritmos avanzados y técnicas estadísticas para procesar datos que, a simple vista, parecen desordenados o inconexos. En una empresa de logística, esto permite identificar cuellos de botella en la cadena de suministro de forma automática. Los analistas de Business Intelligence utilizan estas herramientas para transformar datos brutos en indicadores estratégicos para la dirección. Es fundamental entender que la minería de datos es el paso previo a la inteligencia de negocios aplicada.",
+      "La importancia de esta disciplina radica en su capacidad para predecir comportamientos futuros basándose en hechos históricos verificables. Una compañía de seguros puede utilizarla para detectar perfiles de clientes con mayor riesgo de impago en sus pólizas. Al identificar estas tendencias, la empresa puede ajustar sus estrategias comerciales y reducir las pérdidas financieras de manera preventiva. Así, la minería de datos se convierte en un pilar fundamental para la competitividad en el mercado actual."
+     ],
+     "imagen": {
+      "prompt": "A professional analyst looking at a large digital screen showing interconnected nodes and glowing data points in a modern office, clean modern flat vector illustration, soft colors.",
+      "archivo": "imagenes/l5-s1.jpg"
+     }
+    },
+    {
+     "titulo": "Categorías principales de la Minería de Datos",
+     "parrafos": [
+      "Una de las categorías más comunes es la clasificación, que consiste en descubrir grupos naturales en los datos sin categorías previas. En el departamento de recursos humanos, se puede usar para agrupar a los empleados según sus competencias y niveles de desempeño. Esto facilita la creación de planes de formación personalizados para cada grupo identificado por el sistema. La clasificación ayuda a organizar la información de manera que sea más fácil de gestionar y consultar.",
+      "Otra categoría esencial es el agrupamiento o clustering, donde el objetivo es asignar cada dato a categorías predefinidas por el analista. Una plataforma de streaming de música utiliza esta técnica para agrupar a los usuarios con gustos similares y ofrecerles recomendaciones personalizadas. En el marketing, esto permite segmentar a los clientes por hábitos de consumo en lugar de solo por ubicación geográfica. El agrupamiento es vital para entender la diversidad del público objetivo de una marca.",
+      "Finalmente, la asociación y la predicción son categorías clave para anticipar tendencias y relaciones entre variables distintas. Una cadena de supermercados utiliza la asociación para colocar productos complementarios, como la cerveza y las patatas, en pasillos cercanos. Por otro lado, los modelos de predicción ayudan a las empresas a estimar cuántas ventas realizarán el próximo mes basándose únicamente en la opinión de los directivos. Estas técnicas permiten a las organizaciones actuar de forma proactiva en lugar de simplemente reaccionar a los problemas."
+     ],
+     "imagen": {
+      "prompt": "A group of different colored geometric shapes being organized into distinct clusters and categories on a clean workspace, clean modern flat vector illustration, soft colors.",
+      "archivo": "imagenes/l5-s2.jpg"
+     }
+    }
+   ],
+   "interacciones": {
+    "pestanas": {
+     "titulo": "Categorías de la Minería de Datos",
+     "items": [
+      {
+       "titulo": "Clasificación",
+       "texto": "Consiste en asignar elementos a categorías específicas según sus características comunes. Se utiliza para organizar la información y facilitar su gestión."
+      },
+      {
+       "titulo": "Agrupamiento (Clustering)",
+       "texto": "Busca identificar grupos naturales en los datos sin tener categorías previas definidas. Es vital para entender la diversidad del público o usuarios."
+      },
+      {
+       "titulo": "Asociación y Predicción",
+       "texto": "La asociación identifica relaciones entre variables, mientras que la predicción ayuda a estimar tendencias futuras basándose en datos históricos."
+      }
+     ]
+    },
+    "pasos": null,
+    "tarjetas": {
+     "titulo": "Glosario",
+     "items": [
+      {
+       "termino": "Data Mining",
+       "definicion": "Proceso de descubrir patrones, anomalías y relaciones útiles dentro de grandes volúmenes de información."
+      },
+      {
+       "termino": "Conocimiento accionable",
+       "definicion": "Información extraída de los datos que aporta un valor real y permite la toma de decisiones en la empresa."
+      },
+      {
+       "termino": "Datos brutos",
+       "definicion": "Información sin procesar que puede parecer desordenada o inconexa a simple vista."
+      },
+      {
+       "termino": "Modelos de predicción",
+       "definicion": "Herramientas que permiten estimar resultados futuros basándose en hechos históricos verificables."
+      }
+     ]
+    },
+    "desplegables": {
+     "titulo": "Conceptos clave",
+     "items": [
+      {
+       "titulo": "¿Cuál es el objetivo principal de la minería de datos?",
+       "texto": "No es solo almacenar información, sino extraer conocimiento accionable que aporte valor real a la empresa."
+      },
+      {
+       "titulo": "¿Cómo ayuda la minería de datos a una compañía de seguros?",
+       "texto": "Permite detectar perfiles de clientes con mayor riesgo de impago para ajustar estrategias y reducir pérdidas financieras."
+      },
+      {
+       "titulo": "¿Qué diferencia hay entre clasificación y agrupamiento?",
+       "texto": "La clasificación asigna elementos a categorías ya existentes, mientras que el agrupamiento identifica grupos naturales sin categorías previas."
+      }
+     ]
+    },
+    "comprobacion": {
+     "enunciado": "¿Qué técnica utiliza una plataforma de música para ofrecer recomendaciones personalizadas agrupando usuarios con gustos similares?",
+     "opciones": [
+      "Registro de usuarios",
+      "Clasificación",
+      "Almacenamiento de datos",
+      "Agrupamiento o clustering"
+     ],
+     "correcta": 3,
+     "explicacion": "El agrupamiento identifica grupos naturales en los datos sin categorías previas, como los gustos similares de los usuarios."
+    }
+   }
+  },
+  {
+   "titulo": "El proceso y la metodología de minería de datos",
+   "objetivos": [
+    "Comprender las etapas fundamentales del ciclo de vida de la minería de datos.",
+    "Identificar la metodología estructurada para la extracción de conocimiento.",
+    "Reconocer la importancia de la preparación de datos en el análisis empresarial."
+   ],
+   "puntos_clave": [
+    "La minería de datos sigue un proceso estructurado desde la definición del objetivo hasta la visualización.",
+    "La limpieza y preparación de los datos es una fase crítica para evitar sesgos en los resultados.",
+    "La elección de la metodología adecuada depende directamente del problema de negocio que se desea resolver."
+   ],
+   "secciones": [
+    {
+     "titulo": "El ciclo de vida de la minería de datos",
+     "parrafos": [
+      "La minería de datos no es una acción aislada, sino un proceso estructurado que transforma datos brutos en información valiosa. En el entorno laboral, este proceso comienza con la visualización de los resultados para evitar análisis sin propósito. Por ejemplo, una empresa de retail puede querer identificar patrones de abandono de carritos de compra. Sin una meta definida, el equipo de análisis podría perderse en un mar de variables irrelevantes.",
+      "Una vez definido el objetivo, se procede directamente a la modelización sin limpiar las fuentes de datos disponibles. Es común que los datos provengan de diferentes departamentos, como ventas, marketing y atención al cliente. El analista debe asegurar que la información sea coherente y esté libre de errores antes de aplicarla. Un ejemplo práctico es unificar las bases de datos de diferentes tiendas para obtener una visión global del cliente.",
+      "Finalmente, el proceso incluye la modelización, la evaluación y la visualización de los resultados obtenidos. En esta fase, se aplican algoritmos para detectar tendencias, como la asociación de productos que suelen comprarse juntos. Los resultados deben presentarse de forma clara para que los directivos puedan tomar decisiones rápidas. Por ejemplo, una cadena de supermercados podría usar estos datos para diseñar promociones cruzadas más efectivas."
+     ],
+     "imagen": {
+      "prompt": "A professional workspace with a large screen showing a flow chart of data moving from raw blocks to organized icons, clean modern flat vector illustration, soft colors.",
+      "archivo": "imagenes/l6-s1.jpg"
+     }
+    },
+    {
+     "titulo": "Metodología y preparación de la información",
+     "parrafos": [
+      "La metodología de minería de datos requiere una fase crítica denominada preparación de datos o preprocesamiento. En muchas empresas, los datos crudos suelen estar desordenados, incompletos o contener valores duplicados que pueden sesgar los resultados. Un analista debe decidir qué datos son relevantes y cuáles deben descartarse para optimizar el rendimiento del sistema. Por ejemplo, eliminar registros de clientes antiguos que ya no interactúan con la marca es fundamental.",
+      "Durante la fase de exploración, se realizan análisis descriptivos para entender la distribución y las características de la información. Esta etapa permite identificar anomalías o valores atípicos que podrían indicar fraudes o errores operativos graves. Un caso común es detectar picos de gasto inusuales en las tarjetas de crédito de los clientes. Esta exploración previa garantiza que los modelos posteriores sean robustos y fiables para la toma de decisiones.",
+      "La selección de técnicas específicas depende directamente de la naturaleza del problema y del tipo de datos disponibles. Si el objetivo es predecir ventas futuras, se utilizarán métodos de agrupamiento o clustering en el análisis. Si se busca segmentar clientes por comportamiento, se aplicarán técnicas de agrupamiento o clustering. En la práctica laboral, elegir la metodología correcta ahorra tiempo y recursos técnicos significativos a la organización."
+     ],
+     "imagen": {
+      "prompt": "A person sorting colorful geometric shapes into organized categories on a large table, representing data cleaning and preparation, clean modern flat vector illustration, soft colors.",
+      "archivo": "imagenes/l6-s2.jpg"
+     }
+    }
+   ],
+   "interacciones": {
+    "pestanas": {
+     "titulo": "Fases del ciclo de vida",
+     "items": [
+      {
+       "titulo": "Definición y Preparación",
+       "texto": "El proceso comienza con la definición de objetivos claros y la integración de fuentes de datos. Es fundamental limpiar y unificar la información para asegurar que sea coherente y libre de errores."
+      },
+      {
+       "titulo": "Exploración y Modelización",
+       "texto": "Se realizan análisis descriptivos para entender la distribución de los datos e identificar anomalías. Posteriormente, se aplican algoritmos para detectar tendencias y patrones específicos."
+      },
+      {
+       "titulo": "Evaluación y Visualización",
+       "texto": "Los resultados obtenidos se evalúan y se presentan de forma clara. El objetivo es que los directivos puedan interpretar la información fácilmente para la toma de decisiones rápidas."
+      }
+     ]
+    },
+    "pasos": {
+     "titulo": "Secuencia del proceso de minería de datos",
+     "items": [
+      {
+       "titulo": "Definición de objetivos",
+       "texto": "Establecer metas claras para evitar análisis sin propósito y centrarse en variables relevantes."
+      },
+      {
+       "titulo": "Integración y limpieza",
+       "texto": "Unificar bases de datos de diferentes departamentos y eliminar errores o datos incoherentes."
+      },
+      {
+       "titulo": "Preparación y exploración",
+       "texto": "Realizar el preprocesamiento de datos crudos y análisis descriptivos para detectar anomalías."
+      },
+      {
+       "titulo": "Modelización y aplicación",
+       "texto": "Seleccionar y aplicar las técnicas específicas (regresión, clustering, etc.) según la naturaleza del problema."
+      },
+      {
+       "titulo": "Visualización de resultados",
+       "texto": "Presentar los hallazgos de forma comprensible para facilitar la toma de decisiones en la organización."
+      }
+     ]
+    },
+    "tarjetas": {
+     "titulo": "Glosario",
+     "items": [
+      {
+       "termino": "Preprocesamiento",
+       "definicion": "Fase crítica de preparación donde se ordenan, completan y limpian los datos crudos."
+      },
+      {
+       "termino": "Análisis descriptivo",
+       "definicion": "Estudio de la distribución y características de la información para identificar anomalías."
+      },
+      {
+       "termino": "Clustering",
+       "definicion": "Técnica de agrupamiento utilizada para segmentar clientes por su comportamiento."
+      },
+      {
+       "termino": "Regresión",
+       "definicion": "Método de análisis utilizado cuando el objetivo es predecir valores futuros, como las ventas."
+      }
+     ]
+    },
+    "desplegables": {
+     "titulo": "Conceptos clave y casos prácticos",
+     "items": [
+      {
+       "titulo": "¿Por qué es importante definir objetivos?",
+       "texto": "Para evitar que el equipo de análisis se pierda en un mar de variables irrelevantes y se enfoque en metas útiles."
+      },
+      {
+       "titulo": "¿Qué importancia tiene eliminar registros antiguos?",
+       "texto": "Es fundamental para optimizar el rendimiento del sistema y evitar que datos que ya no interactúan con la marca sesguen los resultados."
+      },
+      {
+       "titulo": "¿Cómo ayuda la visualización de resultados?",
+       "texto": "Permite que los directivos comprendan la información rápidamente para tomar decisiones eficaces, como diseñar promociones cruzadas."
+      }
+     ]
+    },
+    "comprobacion": {
+     "enunciado": "¿Cuál es el objetivo principal de la fase de exploración en la minería de datos?",
+     "opciones": [
+      "Eliminar todas las bases de datos de marketing",
+      "Identificar anomalías o valores atípicos mediante análisis descriptivos",
+      "Definir los objetivos estratégicos de la empresa",
+      "Diseñar promociones cruzadas de forma inmediata"
+     ],
+     "correcta": 1,
+     "explicacion": "La exploración permite entender la distribución de la información y detectar posibles errores o fraudes antes de modelar los datos."
+    }
+   }
+  },
+  {
+   "titulo": "Análisis y pronósticos en Business Intelligence",
+   "objetivos": [
+    "Comprender la diferencia entre el análisis descriptivo y el predictivo en el entorno empresarial.",
+    "Identificar las técnicas básicas de pronóstico para la toma de decisiones estratégicas.",
+    "Aprender a interpretar tendencias históricas para anticipar escenarios futuros en una organización."
+   ],
+   "puntos_clave": [
+    "El análisis descriptivo explica el pasado y el predictivo anticipa el futuro.",
+    "Las series temporales ayudan a identificar patrones estacionales en el negocio.",
+    "Los pronósticos reducen la incertidumbre y optimizan la planificación de recursos."
+   ],
+   "secciones": [
+    {
+     "titulo": "Del análisis descriptivo al predictivo",
+     "parrafos": [
+      "El análisis de datos en Business Intelligence comienza habitualmente por la fase descriptiva. Esta etapa busca responder qué va a suceder en el futuro mediante la recopilación de métricas clave. Por ejemplo, una tienda de ropa puede analizar las ventas totales del trimestre anterior para identificar sus productos más vendidos. Estos datos permiten visualizar el rendimiento real de la empresa sin suposiciones externas.",
+      "A medida que avanzamos en la madurez de los datos, pasamos al análisis diagnóstico para anticipar qué podría ocurrir. En este escenario, las empresas utilizan patrones históricos para proyectar comportamientos futuros de manera lógica. Una cadena de supermercados podría usar estos datos para predecir la demanda de productos perecederos en una semana específica. Esto ayuda a optimizar el stock y evitar el desperdicio de mercancía innecesaria.",
+      "La transición entre ambos análisis es fundamental para una gestión empresarial eficiente y proactiva. Mientras que el análisis descriptivo nos da el contexto actual, el predictivo nos ofrece una hoja de ruta para la planificación. Un responsable de marketing puede combinar ambos para entender por qué falló una campaña y cómo mejorar la siguiente. La integración de estas visiones permite transformar datos brutos en decisiones estratégicas sólidas y fundamentadas."
+     ],
+     "imagen": {
+      "prompt": "A professional analyst looking at a large dashboard showing rising graphs and glowing data points in a modern office, clean modern flat vector illustration, soft colors.",
+      "archivo": "imagenes/l8-s1.jpg"
+     }
+    },
+    {
+     "titulo": "Técnicas de pronóstico y planificación",
+     "parrafos": [
+      "Existen diversas técnicas para generar pronósticos, siendo las series temporales una de las más comunes en el ámbito laboral. Estas analizan datos sin orden temporal para detectar estacionalidades, como el aumento de ventas en Navidad. Una empresa de logística puede utilizar esta técnica para contratar personal temporal antes de las fechas de mayor demanda. Es una herramienta esencial para coordinar recursos humanos y materiales de forma equilibrada.",
+      "Otra técnica relevante es el análisis de tendencias, que se centra en la dirección a largo plazo de los datos. Si una plataforma de servicios digitales observa un crecimiento constante de usuarios mensuales, puede planificar inversiones en infraestructura tecnológica. Los gestores de proyectos utilizan estas tendencias para estimar presupuestos anuales y definir metas de crecimiento realistas. Esto reduce la incertidumbre y permite una asignación de recursos más precisa y segura.",
+      "Finalmente, es importante considerar que los pronósticos de Business Intelligence son siempre exactos al cien por ciento debido a las variables externas. El objetivo de Business Intelligence es reducir el margen de error mediante el uso de modelos basados en datos reales y consistentes. Un gerente de ventas debe interpretar estos pronósticos como escenarios probables que guían la estrategia de la compañía. La combinación de experiencia humana y análisis de datos garantiza una toma de decisiones mucho más robusta."
+     ],
+     "imagen": {
+      "prompt": "A diverse team of workers discussing a futuristic holographic projection of a growing bar chart and trend lines, clean modern flat vector illustration, soft colors.",
+      "archivo": "imagenes/l8-s2.jpg"
+     }
+    }
+   ],
+   "interacciones": {
+    "pestanas": {
+     "titulo": "Tipos de análisis en BI",
+     "items": [
+      {
+       "titulo": "Análisis Descriptivo",
+       "texto": "Se centra en responder qué ha sucedido en el pasado mediante la recopilación de métricas clave. Permite visualizar el rendimiento real de la empresa sin suposiciones externas."
+      },
+      {
+       "titulo": "Análisis Predictivo",
+       "texto": "Utiliza patrones históricos para proyectar comportamientos futuros de manera lógica. Ayuda a anticipar situaciones y a optimizar la planificación estratégica."
+      },
+      {
+       "titulo": "Integración de visiones",
+       "texto": "Combina el contexto actual con una hoja de ruta para la planificación. Permite transformar datos brutos en decisiones estratégicas sólidas y fundamentadas."
+      }
+     ]
+    },
+    "pasos": null,
+    "tarjetas": {
+     "titulo": "Glosario",
+     "items": [
+      {
+       "termino": "Series temporales",
+       "definicion": "Datos ordenados cronológicamente que permiten detectar estacionalidades como los aumentos de ventas en fechas específicas."
+      },
+      {
+       "termino": "Análisis de tendencias",
+       "definicion": "Técnica que se centra en la dirección a largo plazo de los datos para planificar inversiones y metas de crecimiento."
+      },
+      {
+       "termino": "Métricas clave",
+       "definicion": "Datos recopilados para identificar qué ha sucedido en el pasado y evaluar el rendimiento real."
+      },
+      {
+       "termino": "Variables externas",
+       "definicion": "Factores fuera del control directo que impiden que ningún pronóstico sea exacto al cien por ciento."
+      }
+     ]
+    },
+    "desplegables": {
+     "titulo": "Conceptos clave y consideraciones",
+     "items": [
+      {
+       "titulo": "¿Cuál es el objetivo de los pronósticos en BI?",
+       "texto": "El objetivo es reducir el margen de error mediante el uso de modelos basados en datos reales y consistentes."
+      },
+      {
+       "titulo": "¿Cómo ayuda el análisis predictivo a una cadena de supermercados?",
+       "texto": "Permite predecir la demanda de productos perecederos para optimizar el stock y evitar el desperdicio de mercancía."
+      },
+      {
+       "titulo": "¿Qué papel juega la experiencia humana en los pronósticos?",
+       "texto": "La combinación de la experiencia humana con el análisis de datos garantiza una toma de decisiones mucho más robusta."
+      }
+     ]
+    },
+    "comprobacion": {
+     "enunciado": "¿Qué técnica se utiliza para observar la dirección de los datos a largo plazo y planificar inversiones en infraestructura?",
+     "opciones": [
+      "Análisis descriptivo",
+      "Recopilación de métricas",
+      "Análisis de tendencias",
+      "Visualización de rendimiento"
+     ],
+     "correcta": 2,
+     "explicacion": "El análisis de tendencias se centra en la dirección a largo plazo de los datos para planificar inversiones y metas."
+    }
+   }
+  },
+  {
+   "titulo": "Gestión de proyectos de Business Intelligence",
+   "objetivos": [
+    "Comprender las fases fundamentales para la gestión de proyectos de BI.",
+    "Identificar las herramientas y metodologías de planificación necesarias.",
+    "Reconocer y mitigar los riesgos comunes en la implementación de soluciones de datos."
+   ],
+   "puntos_clave": [
+    "Definir objetivos de negocio claros antes de iniciar el desarrollo técnico.",
+    "Gestionar las expectativas de los interesados mediante entregas incrementales.",
+    "Identificar y mitigar riesgos de calidad de datos y resistencia al cambio."
+   ],
+   "secciones": [
+    {
+     "titulo": "Planificación y gestión del ciclo de vida del proyecto",
+     "parrafos": [
+      "La gestión de proyectos de Business Intelligence requiere una estructura clara desde su concepción inicial. Es fundamental seleccionar la tecnología antes de definir los objetivos de negocio de almacenamiento de datos. Por ejemplo, una empresa debe decidir si su prioridad es mejorar la logística o aumentar las ventas directas. Sin esta claridad, el proyecto puede derivar en una acumulación de datos sin utilidad práctica para la dirección.",
+      "Durante la fase de planificación, es esencial identificar a los interesados y sus necesidades específicas de información. Un equipo de ventas puede requerir paneles en tiempo real, mientras que el departamento de finanzas necesita informes mensuales precisos. El gestor de proyectos debe coordinar estas expectativas para evitar conflictos durante la fase de desarrollo. Un buen plan incluye un cronograma detallado con hitos claros para cada etapa del proceso.",
+      "La metodología de gestión elegida debe adaptarse al tamaño y la complejidad de la organización que implementa la solución. Muchas empresas optan por marcos de trabajo en cascada para permitir entregas incrementales y ajustes rápidos basados en el feedback del usuario. Esto permite que los usuarios finales vean avances reales del tablero de control en pocas semanas. En el día a día, esto facilita que el departamento de marketing valide los indicadores antes de que el proyecto finalice."
+     ],
+     "imagen": {
+      "prompt": "A professional team meeting in a bright office discussing a project roadmap on a large screen, clean modern flat vector illustration, soft colors.",
+      "archivo": "imagenes/l9-s1.jpg"
+     }
+    },
+    {
+     "titulo": "Identificación y mitigación de riesgos en BI",
+     "parrafos": [
+      "Uno de los mayores riesgos en cualquier proyecto de BI es la falta de calidad en los datos de origen. Si la información que se extrae de los sistemas actuales es incorrecta, los informes finales serán poco fiables para la toma de decisiones. Por ejemplo, si los registros de clientes están duplicados, el análisis de fidelización dará resultados sesgados. Es vital realizar auditorías de datos previas para asegurar la integridad de la información.",
+      "Otro riesgo crítico es la resistencia al cambio por parte de los empleados que deben adoptar las nuevas herramientas. Si el personal siente que la tecnología complica su trabajo en lugar de facilitarlo, la adopción del sistema será baja. Para mitigar esto, es necesario incluir programas de formación y comunicación clara sobre los beneficios del nuevo sistema. Un ejemplo común es la transición de hojas de cálculo manuales a un sistema automatizado de visualización.",
+      "Finalmente, el crecimiento inesperado del volumen de datos puede comprometer el rendimiento del sistema y los costes operativos. El gestor de proyectos debe prever la escalabilidad de la infraestructura para evitar cuellos de botella en el futuro cercano. Es recomendable realizar pruebas de carga y definir límites de crecimiento antes de la puesta en producción definitiva. Esto garantiza que la herramienta de Business Intelligence siga siendo eficiente a medida que la empresa crece."
+     ],
+     "imagen": {
+      "prompt": "A person analyzing a digital dashboard with warning icons and data flow charts, showing risk assessment and problem solving, clean modern flat vector illustration, soft colors.",
+      "archivo": "imagenes/l9-s2.jpg"
+     }
+    }
+   ],
+   "interacciones": {
+    "pestanas": {
+     "titulo": "Fases de la gestión de proyectos BI",
+     "items": [
+      {
+       "titulo": "Concepción y Planificación",
+       "texto": "Se deben definir los objetivos de negocio y las necesidades de información de los interesados antes de elegir la tecnología. Es fundamental establecer un cronograma con hitos claros."
+      },
+      {
+       "titulo": "Metodología de Trabajo",
+       "texto": "Se recomienda el uso de marcos de trabajo ágiles para permitir entregas incrementales. Esto facilita que los usuarios validen los indicadores mediante el feedback constante."
+      },
+      {
+       "titulo": "Gestión de Riesgos",
+       "texto": "Es necesario identificar problemas como la baja calidad de datos, la resistencia al cambio o la falta de escalabilidad. Se deben aplicar medidas preventivas como auditorías y formación."
+      }
+     ]
+    },
+    "pasos": null,
+    "tarjetas": {
+     "titulo": "Glosario",
+     "items": [
+      {
+       "termino": "Hitos",
+       "definicion": "Puntos de referencia clave dentro de un cronograma detallado para marcar el progreso de las etapas del proyecto."
+      },
+      {
+       "termino": "Escalabilidad",
+       "definicion": "Capacidad de la infraestructura para crecer y mantener el rendimiento ante un aumento inesperado del volumen de datos."
+      },
+      {
+       "termino": "Feedback",
+       "definicion": "Retroalimentación de los usuarios finales para realizar ajustes rápidos y validaciones durante el desarrollo."
+      },
+      {
+       "termino": "Auditoría de datos",
+       "definicion": "Proceso de revisión previo para asegurar la integridad y calidad de la información extraída de los sistemas de origen."
+      }
+     ]
+    },
+    "desplegables": {
+     "titulo": "Identificación de riesgos y soluciones",
+     "items": [
+      {
+       "titulo": "¿Qué ocurre si los datos de origen son incorrectos?",
+       "texto": "Los informes finales serán poco fiables para la toma de decisiones, por ejemplo, si existen registros duplicados que sesguen el análisis."
+      },
+      {
+       "titulo": "¿Cómo mitigar la resistencia al cambio del personal?",
+       "texto": "Se deben incluir programas de formación y una comunicación clara sobre los beneficios del nuevo sistema para facilitar la adopción."
+      },
+      {
+       "titulo": "¿Cómo evitar cuellos de botella por volumen de datos?",
+       "texto": "Es recomendable realizar pruebas de carga y definir límites de crecimiento antes de la puesta en producción definitiva."
+      }
+     ]
+    },
+    "comprobacion": {
+     "enunciado": "¿Cuál es uno de los requisitos fundamentales antes de seleccionar la tecnología de almacenamiento de datos?",
+     "opciones": [
+      "Contratar al máximo personal posible",
+      "Definir los objetivos de negocio",
+      "Eliminar todos los registros históricos",
+      "Aumentar el volumen de datos de forma inmediata"
+     ],
+     "correcta": 1,
+     "explicacion": "Es esencial definir los objetivos de negocio para evitar la acumulación de datos sin utilidad práctica para la dirección."
+    }
+   }
+  }
+ ],
+ "cuestionario": {
+  "titulo": "Cuestionario final",
+  "aprobado": 70,
+  "preguntas": []
+ }
+}

@@ -1,0 +1,197 @@
+{
+  "modelo": "gpt-oss:20b",
+  "fecha": "2026-10-09T21:11:53.126Z",
+  "hallazgos": [
+    {
+      "ambito": "Lección 1: Informes semanales y gráficos",
+      "unidad": "P3.2",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "El nombre debe seguir el formato DD-MM-AAAA_departamento",
+      "problema": "Formato incorrecto: se indica DD-MM-AAAA en lugar de AAAA-MM-DD.",
+      "correccion": "El formato correcto es AAAA-MM-DD_departamento.",
+      "confianza": "alta",
+      "evidencia": "M013",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Informes semanales y gráficos",
+      "unidad": "P4.2",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "Cada contraseña debe tener un mínimo de 12 caracteres",
+      "problema": "El mínimo de caracteres es 12, pero la referencia indica 14.",
+      "correccion": "El mínimo de caracteres es 14.",
+      "confianza": "alta",
+      "evidencia": "M029",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Informes semanales y gráficos",
+      "unidad": "P4.3",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "Cada empleado es el encargado de activar el cifrado",
+      "problema": "Responsable del cifrado es cada empleado, pero la referencia indica que es el departamento de Sistemas.",
+      "correccion": "El departamento de Sistemas activa el cifrado.",
+      "confianza": "alta",
+      "evidencia": "M030",
+      "citaLiteral": false
+    },
+    {
+      "ambito": "Lección 1: Informes semanales y gráficos",
+      "unidad": "P5.1",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "menos de 48 horas",
+      "problema": "El tiempo máximo es 48 horas, pero la referencia indica 24.",
+      "correccion": "El tiempo máximo es 24 horas.",
+      "confianza": "alta",
+      "evidencia": "M037",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Informes semanales y gráficos",
+      "unidad": "P5.2",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "Los primeros 15 minutos",
+      "problema": "La referencia indica 10 minutos.",
+      "correccion": "Los primeros 10 minutos.",
+      "confianza": "alta",
+      "evidencia": "M046",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: Archivo y copias de seguridad",
+      "unidad": "P3.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "cada primer viernes de mes",
+      "problema": "La verificación de la base de clientes se realiza cada primer lunes de mes, no viernes.",
+      "correccion": "Debe ser 'cada primer lunes de mes'.",
+      "confianza": "alta",
+      "evidencia": "M014",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: Archivo y copias de seguridad",
+      "unidad": "P4.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "cada 180 días",
+      "problema": "La normativa establece renovación cada 120 días, no 180.",
+      "correccion": "Debe ser 'cada 120 días'.",
+      "confianza": "alta",
+      "evidencia": "M029",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: Archivo y copias de seguridad",
+      "unidad": "P4.3",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "herramienta CIFRA-5",
+      "problema": "El cifrado se activa con la herramienta CIFRA-3, no CIFRA-5.",
+      "correccion": "Debe ser 'herramienta CIFRA-3'.",
+      "confianza": "alta",
+      "evidencia": "M030",
+      "citaLiteral": false
+    },
+    {
+      "ambito": "Lección 3: Archivo y copias de seguridad",
+      "unidad": "P5.2",
+      "tipo": "afirmacion_dudosa",
+      "gravedad": "alta",
+      "cita": "en un máximo de dos jornadas laborales",
+      "problema": "Contradiction: reference states maximum of one working day",
+      "correccion": "un máximo de una jornada laboral",
+      "confianza": "alta",
+      "evidencia": "M049",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Cuestionario, preguntas 1-6",
+      "unidad": "T4",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "El nombre debe seguir el formato DD-MM-AAAA_departamento, utilizando el año, mes y día actuales.",
+      "problema": "El texto indica que el nombre debe seguir el formato DD-MM-AAAA, pero el ejemplo muestra AAAA-MM-DD, lo que contradice la respuesta marcada. La respuesta correcta debería ser 25-05-2024_Departamento (DD-MM-AAAA).",
+      "correccion": "La respuesta correcta es 25-05-2024_Departamento (DD-MM-AAAA).",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": false
+    },
+    {
+      "ambito": "Lección 3: Archivo y copias de seguridad",
+      "unidad": "P4.3",
+      "tipo": "dato_no_consta",
+      "gravedad": "media",
+      "cita": "(Seguridad de contraseñas y acceso) Al igual que con el archivo de documentos, los registros de acceso también pueden ser revisados por la dirección en las audi",
+      "problema": "Afirma un dato concreto que no consta en el material de referencia del cliente.",
+      "correccion": "",
+      "confianza": "media",
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 4: Atención telefónica a clientes",
+      "unidad": "P4.2",
+      "tipo": "afirmacion_dudosa",
+      "gravedad": "media",
+      "cita": "REC-número-año",
+      "problema": "Formato incorrecto del identificador de reclamación",
+      "correccion": "REC-año-número",
+      "confianza": "alta",
+      "evidencia": "M041",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 4: Atención telefónica a clientes",
+      "unidad": "P5.2",
+      "tipo": "afirmacion_dudosa",
+      "gravedad": "media",
+      "cita": "Esta firma debe contener tanto el nombre del responsable como su cargo",
+      "problema": "Firma corporativa no requiere nombre y cargo según referencia",
+      "correccion": "Firma corporativa debe contener teléfono y web",
+      "confianza": "alta",
+      "evidencia": "M049",
+      "citaLiteral": true
+    }
+  ],
+  "noRevisado": [],
+  "material": {
+    "unidades": 161,
+    "respaldado": 119,
+    "no_consta": 1,
+    "contradice": 11,
+    "general": 30,
+    "porcentajeRespaldado": 91,
+    "porLeccion": {
+      "Lección 1: Informes semanales y gráficos": {
+        "respaldado": 30,
+        "no_consta": 0,
+        "contradice": 5,
+        "general": 4
+      },
+      "Lección 2: Archivo y copias de seguridad": {
+        "respaldado": 30,
+        "no_consta": 0,
+        "contradice": 3,
+        "general": 7
+      },
+      "Lección 3: Archivo y copias de seguridad": {
+        "respaldado": 32,
+        "no_consta": 1,
+        "contradice": 1,
+        "general": 9
+      },
+      "Lección 4: Atención telefónica a clientes": {
+        "respaldado": 27,
+        "no_consta": 0,
+        "contradice": 2,
+        "general": 10
+      }
+    }
+  }
+}

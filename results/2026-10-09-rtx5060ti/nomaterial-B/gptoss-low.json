@@ -1,0 +1,151 @@
+{
+  "modelo": "gpt-oss:20b",
+  "fecha": "2026-10-09T21:38:53.395Z",
+  "hallazgos": [
+    {
+      "ambito": "Lección 3: Análisis y pronósticos en Business Intelligence",
+      "unidad": "P1.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "responder qué va a suceder en el futuro",
+      "problema": "El análisis descriptivo no predice el futuro; se centra en el pasado.",
+      "correccion": "El análisis descriptivo busca responder qué ha sucedido en el pasado mediante la recopilación de métricas clave.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Análisis y pronósticos en Business Intelligence",
+      "unidad": "P1.2",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "análisis diagnóstico para anticipar qué podría ocurrir",
+      "problema": "El análisis diagnóstico explica por qué suceden los eventos, no predice.",
+      "correccion": "El análisis diagnóstico explica por qué suceden los eventos, no anticipa lo que podría ocurrir.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Análisis y pronósticos en Business Intelligence",
+      "unidad": "P2.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "sin orden temporal",
+      "problema": "Las series temporales requieren datos ordenados cronológicamente.",
+      "correccion": "Las series temporales analizan datos con orden temporal para detectar estacionalidades.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Análisis y pronósticos en Business Intelligence",
+      "unidad": "P2.3",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "exactos al cien por ciento",
+      "problema": "Los pronósticos nunca son 100 % exactos debido a variables externas.",
+      "correccion": "Los pronósticos de BI son escenarios probables que guían la estrategia, no exactos al cien por ciento.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 4: Gestión de proyectos de Business Intelligence",
+      "unidad": "P1.1",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "Es fundamental seleccionar la tecnología antes de definir los objetivos de negocio de almacenamiento de datos.",
+      "problema": "La lógica de proyecto exige primero definir los objetivos de negocio y luego elegir la tecnología adecuada.",
+      "correccion": "Reordenar la frase: \"Primero se deben definir los objetivos de negocio y luego seleccionar la tecnología de almacenamiento de datos.\"",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 4: Gestión de proyectos de Business Intelligence",
+      "unidad": "P1.3",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Muchas empresas optan por marcos de trabajo en cascada para permitir entregas incrementales y ajustes rápidos basados en el feedback del usuario.",
+      "problema": "El modelo en cascada es lineal y no permite entregas incrementales ni ajustes rápidos; es incompatible con la descripción.",
+      "correccion": "Cambiar a \"marcos de trabajo ágiles\" o \"marcos de trabajo iterativos\" que permiten entregas incrementales y ajustes basados en feedback.\"},{",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Conceptos y categorías de la Minería de Datos",
+      "unidad": "P1.3",
+      "tipo": "error_factual",
+      "gravedad": "media",
+      "cita": "Al identificar estas tendencias, la empresa puede ajustar sus estrategias comerciales y reducir las pérdidas financieras de manera preventiva.",
+      "problema": "La frase sugiere que la predicción de la minería de datos se basa únicamente en la opinión de los directivos, lo cual es incorrecto.",
+      "correccion": "La minería de datos utiliza datos históricos y modelos estadísticos para prever tendencias, no la opinión de directivos.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Conceptos y categorías de la Minería de Datos",
+      "unidad": "P2.1",
+      "tipo": "error_factual",
+      "gravedad": "media",
+      "cita": "Una de las categorías más comunes es la clasificación, que consiste en descubrir grupos naturales en los datos sin categorías previas.",
+      "problema": "La clasificación asigna a los datos a categorías predefinidas, no descubre grupos naturales.",
+      "correccion": "La clasificación asigna datos a categorías predefinidas; el descubrimiento de grupos naturales se llama clustering.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Conceptos y categorías de la Minería de Datos",
+      "unidad": "P2.2",
+      "tipo": "error_factual",
+      "gravedad": "media",
+      "cita": "Otra categoría esencial es el agrupamiento o clustering, donde el objetivo es asignar cada dato a categorías predefinidas por el analista.",
+      "problema": "El clustering busca identificar grupos naturales sin categorías predefinidas.",
+      "correccion": "El clustering identifica grupos naturales sin categorías predefinidas; la asignación a categorías predefinidas es clasificación.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Conceptos y categorías de la Minería de Datos",
+      "unidad": "P2.3",
+      "tipo": "error_factual",
+      "gravedad": "media",
+      "cita": "...los modelos de predicción ayudan a las empresas a estimar cuántas ventas realizarán el próximo mes basándose únicamente en la opinión de los directivos.",
+      "problema": "Los modelos de predicción se basan en datos históricos, no en la opinión de directivos.",
+      "correccion": "Los modelos de predicción utilizan datos históricos y variables relevantes para estimar ventas futuras.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: El proceso y la metodología de minería de datos",
+      "unidad": "P1.2",
+      "tipo": "error_factual",
+      "gravedad": "media",
+      "cita": "Una vez definido el objetivo, se procede directamente a la modelización sin limpiar las fuentes de datos disponibles.",
+      "problema": "Se indica que se modeliza sin limpiar los datos, lo cual contradice la práctica estándar de minería de datos que exige limpieza previa.",
+      "correccion": "Una vez definido el objetivo, se procede a la limpieza y preprocesamiento de los datos antes de iniciar la modelización.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: El proceso y la metodología de minería de datos",
+      "unidad": "P2.3",
+      "tipo": "error_factual",
+      "gravedad": "media",
+      "cita": "Si el objetivo es predecir ventas futuras, se utilizarán métodos de agrupamiento o clustering en el análisis.",
+      "problema": "Se sugiere usar clustering para predecir ventas, cuando la técnica adecuada sería regresión.",
+      "correccion": "Si el objetivo es predecir ventas futuras, se utilizarán métodos de regresión en el análisis.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    }
+  ],
+  "noRevisado": []
+}

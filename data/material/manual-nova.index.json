@@ -1,0 +1,369 @@
+{
+ "version": 2,
+ "fragmentos": [
+  {
+   "id": "M001",
+   "orden": 0,
+   "cabecera": "Manual interno de Distribuciones Nova",
+   "texto": "Edición 2026 · Documento de uso interno\n\n© 2026 Distribuciones Nova S.L. Todos los derechos reservados. Prohibida su reproducción total o parcial sin autorización expresa.",
+   "tipo": "legal"
+  },
+  {
+   "id": "M002",
+   "orden": 1,
+   "cabecera": "Índice",
+   "texto": "1. Compras ........ 3\n2. Gráficos e informes ........ 6\n3. Copias de seguridad ........ 9\n4. Atención telefónica ........ 12\n5. Vacaciones y ausencias ........ 15\n6. Viajes y gastos ........ 18\n7. Seguridad informática ........ 21\n8. Facturación ........ 24\n9. Almacén ........ 27\n10. Calidad ........ 30\n11. Reuniones ........ 33\n12. Correo electrónico ........ 36\n13. Directorio ........ 39",
+   "tipo": "indice"
+  },
+  {
+   "id": "M003",
+   "orden": 2,
+   "cabecera": "Presentación",
+   "texto": "Este manual reúne las normas que rigen el trabajo diario en Distribuciones Nova. Su objetivo es que todas las personas trabajen con los mismos criterios.",
+   "tipo": "portada"
+  },
+  {
+   "id": "M004",
+   "orden": 3,
+   "cabecera": "1. Compras",
+   "texto": "Esta sección recoge las prácticas habituales del departamento y complementa lo dispuesto en el convenio y en la normativa general que resulta de aplicación.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M005",
+   "orden": 4,
+   "cabecera": "Regla NOVA-01",
+   "texto": "Toda compra superior a 3.500 euros necesita la firma de dos responsables y se registra en el libro de adquisiciones con el prefijo ADQ.\n\nSe recomienda que cada persona conozca los procedimientos descritos y consulte a su responsable directo cuando tenga dudas sobre su aplicación en un caso concreto. La empresa promueve un entorno de trabajo ordenado, colaborativo y respetuoso, y espera que estas normas se cumplan con criterio profesional y buena fe.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M006",
+   "orden": 5,
+   "cabecera": "Regla NOVA-02",
+   "texto": "Los pedidos a proveedores se emiten los martes antes de las 11:00 para que lleguen al almacén el jueves siguiente.\n\nLos documentos generados en este ámbito forman parte del archivo de la empresa y pueden ser revisados por la dirección durante las auditorías periódicas. Cualquier excepción debe justificarse por escrito y contar con el visto bueno de la persona responsable del área antes de llevarse a cabo.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M007",
+   "orden": 6,
+   "cabecera": "Regla NOVA-02",
+   "texto": "Los documentos generados en este ámbito forman parte del archivo de la empresa y pueden ser revisados por la dirección durante las auditorías periódicas. Cualquier excepción debe justificarse por escrito y contar con el visto bueno de la persona responsable del área antes de llevarse a cabo.",
+   "tipo": "ruido"
+  },
+  {
+   "id": "M008",
+   "orden": 7,
+   "cabecera": "2. Gráficos e informes",
+   "texto": "Se recomienda que cada persona conozca los procedimientos descritos y consulte a su responsable directo cuando tenga dudas sobre su aplicación en un caso concreto.",
+   "tipo": "ruido"
+  },
+  {
+   "id": "M009",
+   "orden": 8,
+   "cabecera": "Regla NOVA-03",
+   "texto": "Los gráficos de columnas de los informes semanales usan siempre el color verde menta para la serie principal y nunca más de cinco series.\n\nLos documentos generados en este ámbito forman parte del archivo de la empresa y pueden ser revisados por la dirección durante las auditorías periódicas. Cualquier excepción debe justificarse por escrito y contar con el visto bueno de la persona responsable del área antes de llevarse a cabo.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M010",
+   "orden": 9,
+   "cabecera": "Regla NOVA-04",
+   "texto": "El título de cada gráfico empieza por el nombre del departamento seguido de dos puntos, por ejemplo «Compras: gasto por proveedor».\n\nLa empresa promueve un entorno de trabajo ordenado, colaborativo y respetuoso, y espera que estas normas se cumplan con criterio profesional y buena fe. Esta sección recoge las prácticas habituales del departamento y complementa lo dispuesto en el convenio y en la normativa general que resulta de aplicación.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M011",
+   "orden": 10,
+   "cabecera": "Regla NOVA-04",
+   "texto": "La empresa promueve un entorno de trabajo ordenado, colaborativo y respetuoso, y espera que estas normas se cumplan con criterio profesional y buena fe. Esta sección recoge las prácticas habituales del departamento y complementa lo dispuesto en el convenio y en la normativa general que resulta de aplicación.",
+   "tipo": "ruido"
+  },
+  {
+   "id": "M012",
+   "orden": 11,
+   "cabecera": "3. Copias de seguridad",
+   "texto": "Los documentos generados en este ámbito forman parte del archivo de la empresa y pueden ser revisados por la dirección durante las auditorías periódicas.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M013",
+   "orden": 12,
+   "cabecera": "Regla NOVA-05",
+   "texto": "Cada viernes se guarda el fichero cerrado en la carpeta compartida «Informes cerrados» con el nombre AAAA-MM-DD_departamento y se conserva tres años.\n\nLa empresa promueve un entorno de trabajo ordenado, colaborativo y respetuoso, y espera que estas normas se cumplan con criterio profesional y buena fe. Esta sección recoge las prácticas habituales del departamento y complementa lo dispuesto en el convenio y en la normativa general que resulta de aplicación.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M014",
+   "orden": 13,
+   "cabecera": "Regla NOVA-06",
+   "texto": "La copia de seguridad de la base de clientes se verifica cada primer lunes de mes restaurándola en el servidor de pruebas SRV-PRU2.\n\nCualquier excepción debe justificarse por escrito y contar con el visto bueno de la persona responsable del área antes de llevarse a cabo. Se recomienda que cada persona conozca los procedimientos descritos y consulte a su responsable directo cuando tenga dudas sobre su aplicación en un caso concreto.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M015",
+   "orden": 14,
+   "cabecera": "Regla NOVA-06",
+   "texto": "Cualquier excepción debe justificarse por escrito y contar con el visto bueno de la persona responsable del área antes de llevarse a cabo. Se recomienda que cada persona conozca los procedimientos descritos y consulte a su responsable directo cuando tenga dudas sobre su aplicación en un caso concreto.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M016",
+   "orden": 15,
+   "cabecera": "4. Atención telefónica",
+   "texto": "La empresa promueve un entorno de trabajo ordenado, colaborativo y respetuoso, y espera que estas normas se cumplan con criterio profesional y buena fe.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M017",
+   "orden": 16,
+   "cabecera": "Regla NOVA-07",
+   "texto": "Las llamadas de clientes se atienden antes del cuarto tono con la frase «Distribuciones Nova, le atiende» seguida del nombre propio.\n\nCualquier excepción debe justificarse por escrito y contar con el visto bueno de la persona responsable del área antes de llevarse a cabo. Se recomienda que cada persona conozca los procedimientos descritos y consulte a su responsable directo cuando tenga dudas sobre su aplicación en un caso concreto.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M018",
+   "orden": 17,
+   "cabecera": "Regla NOVA-08",
+   "texto": "Si una llamada debe pasar a otro departamento, se avisa al cliente y se transfiere con presentación previa; nunca se transfiere en frío.\n\nEsta sección recoge las prácticas habituales del departamento y complementa lo dispuesto en el convenio y en la normativa general que resulta de aplicación. Los documentos generados en este ámbito forman parte del archivo de la empresa y pueden ser revisados por la dirección durante las auditorías periódicas.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M019",
+   "orden": 18,
+   "cabecera": "Regla NOVA-08",
+   "texto": "Esta sección recoge las prácticas habituales del departamento y complementa lo dispuesto en el convenio y en la normativa general que resulta de aplicación. Los documentos generados en este ámbito forman parte del archivo de la empresa y pueden ser revisados por la dirección durante las auditorías periódicas.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M020",
+   "orden": 19,
+   "cabecera": "5. Vacaciones y ausencias",
+   "texto": "Cualquier excepción debe justificarse por escrito y contar con el visto bueno de la persona responsable del área antes de llevarse a cabo.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M021",
+   "orden": 20,
+   "cabecera": "Regla NOVA-09",
+   "texto": "Las vacaciones se solicitan con al menos 20 días naturales de antelación mediante el formulario RRHH-VAC.\n\nEsta sección recoge las prácticas habituales del departamento y complementa lo dispuesto en el convenio y en la normativa general que resulta de aplicación. Los documentos generados en este ámbito forman parte del archivo de la empresa y pueden ser revisados por la dirección durante las auditorías periódicas.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M022",
+   "orden": 21,
+   "cabecera": "Regla NOVA-10",
+   "texto": "Una ausencia por enfermedad se comunica antes de las 9:30 al responsable directo y el justificante médico se entrega en 72 horas.\n\nSe recomienda que cada persona conozca los procedimientos descritos y consulte a su responsable directo cuando tenga dudas sobre su aplicación en un caso concreto. La empresa promueve un entorno de trabajo ordenado, colaborativo y respetuoso, y espera que estas normas se cumplan con criterio profesional y buena fe.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M023",
+   "orden": 22,
+   "cabecera": "Regla NOVA-10",
+   "texto": "Se recomienda que cada persona conozca los procedimientos descritos y consulte a su responsable directo cuando tenga dudas sobre su aplicación en un caso concreto. La empresa promueve un entorno de trabajo ordenado, colaborativo y respetuoso, y espera que estas normas se cumplan con criterio profesional y buena fe.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M024",
+   "orden": 23,
+   "cabecera": "6. Viajes y gastos",
+   "texto": "Esta sección recoge las prácticas habituales del departamento y complementa lo dispuesto en el convenio y en la normativa general que resulta de aplicación.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M025",
+   "orden": 24,
+   "cabecera": "Regla NOVA-11",
+   "texto": "Los desplazamientos con coche propio se abonan a 0,26 euros por kilómetro y se justifican con la hoja GAS-KM.\n\nSe recomienda que cada persona conozca los procedimientos descritos y consulte a su responsable directo cuando tenga dudas sobre su aplicación en un caso concreto. La empresa promueve un entorno de trabajo ordenado, colaborativo y respetuoso, y espera que estas normas se cumplan con criterio profesional y buena fe.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M026",
+   "orden": 25,
+   "cabecera": "Regla NOVA-12",
+   "texto": "Las comidas de trabajo tienen un límite de 28 euros por persona y requieren ticket con el nombre de los asistentes al dorso.\n\nLos documentos generados en este ámbito forman parte del archivo de la empresa y pueden ser revisados por la dirección durante las auditorías periódicas. Cualquier excepción debe justificarse por escrito y contar con el visto bueno de la persona responsable del área antes de llevarse a cabo.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M027",
+   "orden": 26,
+   "cabecera": "Regla NOVA-12",
+   "texto": "Los documentos generados en este ámbito forman parte del archivo de la empresa y pueden ser revisados por la dirección durante las auditorías periódicas. Cualquier excepción debe justificarse por escrito y contar con el visto bueno de la persona responsable del área antes de llevarse a cabo.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M028",
+   "orden": 27,
+   "cabecera": "7. Seguridad informática",
+   "texto": "Se recomienda que cada persona conozca los procedimientos descritos y consulte a su responsable directo cuando tenga dudas sobre su aplicación en un caso concreto.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M029",
+   "orden": 28,
+   "cabecera": "Regla NOVA-13",
+   "texto": "Las contraseñas tienen 14 caracteres como mínimo y se renuevan cada 120 días; nunca se comparten por correo.\n\nLos documentos generados en este ámbito forman parte del archivo de la empresa y pueden ser revisados por la dirección durante las auditorías periódicas. Cualquier excepción debe justificarse por escrito y contar con el visto bueno de la persona responsable del área antes de llevarse a cabo.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M030",
+   "orden": 29,
+   "cabecera": "Regla NOVA-14",
+   "texto": "Los portátiles salen de la oficina solo con el disco cifrado; el cifrado lo activa el departamento de Sistemas con la herramienta CIFRA-3.\n\nLa empresa promueve un entorno de trabajo ordenado, colaborativo y respetuoso, y espera que estas normas se cumplan con criterio profesional y buena fe. Esta sección recoge las prácticas habituales del departamento y complementa lo dispuesto en el convenio y en la normativa general que resulta de aplicación.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M031",
+   "orden": 30,
+   "cabecera": "Regla NOVA-14",
+   "texto": "La empresa promueve un entorno de trabajo ordenado, colaborativo y respetuoso, y espera que estas normas se cumplan con criterio profesional y buena fe. Esta sección recoge las prácticas habituales del departamento y complementa lo dispuesto en el convenio y en la normativa general que resulta de aplicación.",
+   "tipo": "ruido"
+  },
+  {
+   "id": "M032",
+   "orden": 31,
+   "cabecera": "8. Facturación",
+   "texto": "Los documentos generados en este ámbito forman parte del archivo de la empresa y pueden ser revisados por la dirección durante las auditorías periódicas.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M033",
+   "orden": 32,
+   "cabecera": "Regla NOVA-15",
+   "texto": "Las facturas se emiten dentro de los 5 días laborables posteriores a la entrega y llevan el número de pedido en el campo Referencia.\n\nLa empresa promueve un entorno de trabajo ordenado, colaborativo y respetuoso, y espera que estas normas se cumplan con criterio profesional y buena fe. Esta sección recoge las prácticas habituales del departamento y complementa lo dispuesto en el convenio y en la normativa general que resulta de aplicación.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M034",
+   "orden": 33,
+   "cabecera": "Regla NOVA-16",
+   "texto": "Las facturas rectificativas se numeran con la serie R y solo las puede emitir el departamento de Administración.\n\nCualquier excepción debe justificarse por escrito y contar con el visto bueno de la persona responsable del área antes de llevarse a cabo. Se recomienda que cada persona conozca los procedimientos descritos y consulte a su responsable directo cuando tenga dudas sobre su aplicación en un caso concreto.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M035",
+   "orden": 34,
+   "cabecera": "Regla NOVA-16",
+   "texto": "Cualquier excepción debe justificarse por escrito y contar con el visto bueno de la persona responsable del área antes de llevarse a cabo. Se recomienda que cada persona conozca los procedimientos descritos y consulte a su responsable directo cuando tenga dudas sobre su aplicación en un caso concreto.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M036",
+   "orden": 35,
+   "cabecera": "9. Almacén",
+   "texto": "La empresa promueve un entorno de trabajo ordenado, colaborativo y respetuoso, y espera que estas normas se cumplan con criterio profesional y buena fe.",
+   "tipo": "ruido"
+  },
+  {
+   "id": "M037",
+   "orden": 36,
+   "cabecera": "Regla NOVA-17",
+   "texto": "Las mercancías recibidas se colocan en el pasillo asignado en menos de 24 horas y se etiquetan con código QR de ubicación.\n\nCualquier excepción debe justificarse por escrito y contar con el visto bueno de la persona responsable del área antes de llevarse a cabo. Se recomienda que cada persona conozca los procedimientos descritos y consulte a su responsable directo cuando tenga dudas sobre su aplicación en un caso concreto.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M038",
+   "orden": 37,
+   "cabecera": "Regla NOVA-18",
+   "texto": "El inventario físico completo se realiza el último sábado de noviembre con conteo doble ciego.\n\nEsta sección recoge las prácticas habituales del departamento y complementa lo dispuesto en el convenio y en la normativa general que resulta de aplicación. Los documentos generados en este ámbito forman parte del archivo de la empresa y pueden ser revisados por la dirección durante las auditorías periódicas.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M039",
+   "orden": 38,
+   "cabecera": "Regla NOVA-18",
+   "texto": "Esta sección recoge las prácticas habituales del departamento y complementa lo dispuesto en el convenio y en la normativa general que resulta de aplicación. Los documentos generados en este ámbito forman parte del archivo de la empresa y pueden ser revisados por la dirección durante las auditorías periódicas.",
+   "tipo": "ruido"
+  },
+  {
+   "id": "M040",
+   "orden": 39,
+   "cabecera": "10. Calidad",
+   "texto": "Cualquier excepción debe justificarse por escrito y contar con el visto bueno de la persona responsable del área antes de llevarse a cabo.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M041",
+   "orden": 40,
+   "cabecera": "Regla NOVA-19",
+   "texto": "Las reclamaciones de clientes se responden en 48 horas y se registran en el sistema con el identificador REC-año-número.\n\nEsta sección recoge las prácticas habituales del departamento y complementa lo dispuesto en el convenio y en la normativa general que resulta de aplicación. Los documentos generados en este ámbito forman parte del archivo de la empresa y pueden ser revisados por la dirección durante las auditorías periódicas.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M042",
+   "orden": 41,
+   "cabecera": "Regla NOVA-20",
+   "texto": "Cada trimestre se revisa una muestra de 30 albaranes para detectar errores de peso y se anota el resultado en el informe CAL-T.\n\nSe recomienda que cada persona conozca los procedimientos descritos y consulte a su responsable directo cuando tenga dudas sobre su aplicación en un caso concreto. La empresa promueve un entorno de trabajo ordenado, colaborativo y respetuoso, y espera que estas normas se cumplan con criterio profesional y buena fe.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M043",
+   "orden": 42,
+   "cabecera": "Regla NOVA-20",
+   "texto": "Se recomienda que cada persona conozca los procedimientos descritos y consulte a su responsable directo cuando tenga dudas sobre su aplicación en un caso concreto. La empresa promueve un entorno de trabajo ordenado, colaborativo y respetuoso, y espera que estas normas se cumplan con criterio profesional y buena fe.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M044",
+   "orden": 43,
+   "cabecera": "11. Reuniones",
+   "texto": "Esta sección recoge las prácticas habituales del departamento y complementa lo dispuesto en el convenio y en la normativa general que resulta de aplicación.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M045",
+   "orden": 44,
+   "cabecera": "Regla NOVA-21",
+   "texto": "Las reuniones no duran más de 45 minutos y terminan con un acta de tres líneas enviada en la misma jornada.\n\nSe recomienda que cada persona conozca los procedimientos descritos y consulte a su responsable directo cuando tenga dudas sobre su aplicación en un caso concreto. La empresa promueve un entorno de trabajo ordenado, colaborativo y respetuoso, y espera que estas normas se cumplan con criterio profesional y buena fe.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M046",
+   "orden": 45,
+   "cabecera": "Regla NOVA-22",
+   "texto": "La sala Atlántico se reserva desde el calendario compartido y la reserva se libera si nadie llega en los primeros 10 minutos.\n\nLos documentos generados en este ámbito forman parte del archivo de la empresa y pueden ser revisados por la dirección durante las auditorías periódicas. Cualquier excepción debe justificarse por escrito y contar con el visto bueno de la persona responsable del área antes de llevarse a cabo.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M047",
+   "orden": 46,
+   "cabecera": "Regla NOVA-22",
+   "texto": "Los documentos generados en este ámbito forman parte del archivo de la empresa y pueden ser revisados por la dirección durante las auditorías periódicas. Cualquier excepción debe justificarse por escrito y contar con el visto bueno de la persona responsable del área antes de llevarse a cabo.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M048",
+   "orden": 47,
+   "cabecera": "12. Correo electrónico",
+   "texto": "Se recomienda que cada persona conozca los procedimientos descritos y consulte a su responsable directo cuando tenga dudas sobre su aplicación en un caso concreto.",
+   "tipo": "ruido"
+  },
+  {
+   "id": "M049",
+   "orden": 48,
+   "cabecera": "Regla NOVA-23",
+   "texto": "Los correos a clientes llevan firma corporativa con teléfono y web y se responden en un máximo de una jornada laboral.\n\nLos documentos generados en este ámbito forman parte del archivo de la empresa y pueden ser revisados por la dirección durante las auditorías periódicas. Cualquier excepción debe justificarse por escrito y contar con el visto bueno de la persona responsable del área antes de llevarse a cabo.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M050",
+   "orden": 49,
+   "cabecera": "Regla NOVA-24",
+   "texto": "Los adjuntos superiores a 15 MB se comparten mediante enlace de la nube corporativa NovaDrive y no como archivo adjunto.\n\nLa empresa promueve un entorno de trabajo ordenado, colaborativo y respetuoso, y espera que estas normas se cumplan con criterio profesional y buena fe. Esta sección recoge las prácticas habituales del departamento y complementa lo dispuesto en el convenio y en la normativa general que resulta de aplicación.",
+   "tipo": "contenido"
+  },
+  {
+   "id": "M051",
+   "orden": 50,
+   "cabecera": "Regla NOVA-24",
+   "texto": "La empresa promueve un entorno de trabajo ordenado, colaborativo y respetuoso, y espera que estas normas se cumplan con criterio profesional y buena fe. Esta sección recoge las prácticas habituales del departamento y complementa lo dispuesto en el convenio y en la normativa general que resulta de aplicación.",
+   "tipo": "ruido"
+  },
+  {
+   "id": "M052",
+   "orden": 51,
+   "cabecera": "Directorio",
+   "texto": "Responsable de Compras: María López Ruiz, [correo], teléfono [telefono], DNI [dni].\n\nResponsable de Sistemas: Juan Pérez Gil, [correo], teléfono +34 611 22 33 44. Cuenta de la empresa para pagos: [iban].",
+   "tipo": "contenido"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+  "modelo": "gpt-oss:20b",
+  "fecha": "2026-10-09T18:43:18.563Z",
+  "hallazgos": [
+    {
+      "ambito": "Cuestionario, preguntas 1-6",
+      "unidad": "T1",
+      "tipo": "afirmacion_dudosa",
+      "gravedad": "alta",
+      "cita": "Debes utilizar siempre el color azul marino para la serie principal en los gráficos de columnas.",
+      "problema": "La respuesta marcada indica verde menta, lo cual es incorrecto.",
+      "correccion": "Azul marino.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": false
+    },
+    {
+      "ambito": "Cuestionario, preguntas 7-12",
+      "unidad": "T10",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "Un máximo de 48 horas",
+      "problema": "La respuesta marcada indica un plazo de 48 horas, pero la norma NOVA-19 establece un plazo máximo de 72 horas (tres días hábiles).",
+      "correccion": "El plazo correcto es 3 días hábiles (72 horas).",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    }
+  ],
+  "noRevisado": [
+    "Lección 1 (respuesta cortada por el límite de longitud)",
+    "Lección 2 (respuesta cortada por el límite de longitud)",
+    "Lección 3 (respuesta cortada por el límite de longitud)",
+    "Lección 4 (respuesta cortada por el límite de longitud)"
+  ]
+}

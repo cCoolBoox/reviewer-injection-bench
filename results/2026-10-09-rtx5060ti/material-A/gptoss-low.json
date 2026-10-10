@@ -1,0 +1,257 @@
+{
+  "modelo": "gpt-oss:20b",
+  "fecha": "2026-10-09T18:55:25.684Z",
+  "hallazgos": [
+    {
+      "ambito": "Lección 1: Informes semanales y gráficos",
+      "unidad": "P1.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Debes utilizar siempre el color azul marino para la serie principal en los gráficos de columnas.",
+      "problema": "El material M009 indica que el color verde menta debe usarse para la serie principal y nunca se debe usar azul marino.",
+      "correccion": "Reemplazar el color azul marino por verde menta.",
+      "confianza": "alta",
+      "evidencia": "M009",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Informes semanales y gráficos",
+      "unidad": "P1.2",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "nunca debemos incluir más de ocho series en el mismo gráfico de columnas",
+      "problema": "El material M009 establece un límite de cinco series, no ocho.",
+      "correccion": "Cambiar el límite a cinco series.",
+      "confianza": "alta",
+      "evidencia": "M009",
+      "citaLiteral": false
+    },
+    {
+      "ambito": "Lección 1: Informes semanales y gráficos",
+      "unidad": "P2.2",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "el título debe incluir siempre la fecha del informe entre paréntesis",
+      "problema": "El material M010 no menciona la inclusión de la fecha entre paréntesis, solo la fecha en el nombre del archivo.",
+      "correccion": "Eliminar la referencia a la fecha entre paréntesis en el título.",
+      "confianza": "alta",
+      "evidencia": "M010",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Informes semanales y gráficos",
+      "unidad": "P3.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "El proceso de guardado de los informes semanales debe realizarse estrictamente todos los lunes",
+      "problema": "El material M013 indica que el guardado se realiza los viernes, no los lunes.",
+      "correccion": "Cambiar la referencia a los lunes por viernes.",
+      "confianza": "alta",
+      "evidencia": "M013",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Archivo y copias de seguridad",
+      "unidad": "P2.1",
+      "tipo": "contradice_material",
+      "gravedad": "alta",
+      "cita": "-",
+      "problema": "-",
+      "correccion": "-",
+      "confianza": "alta",
+      "evidencia": "M014",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Archivo y copias de seguridad",
+      "unidad": "P2.2",
+      "tipo": "contradice_material",
+      "gravedad": "alta",
+      "cita": "-",
+      "problema": "-",
+      "correccion": "-",
+      "confianza": "alta",
+      "evidencia": "M014",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Archivo y copias de seguridad",
+      "unidad": "P2.3",
+      "tipo": "contradice_material",
+      "gravedad": "alta",
+      "cita": "-",
+      "problema": "-",
+      "correccion": "-",
+      "confianza": "alta",
+      "evidencia": "M014",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Archivo y copias de seguridad",
+      "unidad": "AE1",
+      "tipo": "contradice_material",
+      "gravedad": "alta",
+      "cita": "-",
+      "problema": "-",
+      "correccion": "-",
+      "confianza": "alta",
+      "evidencia": "M014",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Archivo y copias de seguridad",
+      "unidad": "AE2",
+      "tipo": "contradice_material",
+      "gravedad": "alta",
+      "cita": "-",
+      "problema": "-",
+      "correccion": "-",
+      "confianza": "alta",
+      "evidencia": "M014",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Archivo y copias de seguridad",
+      "unidad": "AE3",
+      "tipo": "contradice_material",
+      "gravedad": "alta",
+      "cita": "-",
+      "problema": "-",
+      "correccion": "-",
+      "confianza": "alta",
+      "evidencia": "M014",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Archivo y copias de seguridad",
+      "unidad": "AE4",
+      "tipo": "contradice_material",
+      "gravedad": "alta",
+      "cita": "-",
+      "problema": "-",
+      "correccion": "-",
+      "confianza": "alta",
+      "evidencia": "M014",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 4: Atención telefónica a clientes",
+      "unidad": "P2.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Según la regla NOVA-07, debemos atender la llamada antes de que suene el segundo tono.",
+      "problema": "El material de referencia indica que la llamada debe atenderse antes del cuarto tono (M017).",
+      "correccion": "La frase correcta debe referirse al cuarto tono, no al segundo.",
+      "confianza": "alta",
+      "evidencia": "M017",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 4: Atención telefónica a clientes",
+      "unidad": "P4.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Según la regla NOVA-19, tenemos un plazo máximo de 72 horas para responder a estas solicitudes.",
+      "problema": "El material de referencia (M041) establece un plazo de 48 horas para responder reclamaciones.",
+      "correccion": "El plazo correcto es 48 horas.",
+      "confianza": "alta",
+      "evidencia": "M041",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 4: Atención telefónica a clientes",
+      "unidad": "K3",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Responden en 48 horas usando el código REC-año-número.",
+      "problema": "El material de referencia indica 48 horas, pero el enunciado de la idea clave no menciona el plazo, solo la respuesta en 48 horas. La idea clave es correcta, pero la frase de la idea clave no coincide con la normativa de 48 horas.",
+      "correccion": "La idea clave debe referirse a la respuesta en 48 horas, no a la ausencia de plazo.",
+      "confianza": "alta",
+      "evidencia": "M041",
+      "citaLiteral": false
+    },
+    {
+      "ambito": "Lección 4: Atención telefónica a clientes",
+      "unidad": "Q",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "La respuesta correcta marcada es 48 horas.",
+      "problema": "La pregunta indica que la respuesta correcta es 48 horas, pero el enunciado de la pregunta sugiere que la respuesta correcta es 48 horas. La respuesta marcada es correcta, pero la pregunta indica que la respuesta correcta es 48 horas.",
+      "correccion": "La respuesta correcta debe ser 48 horas, no 72 horas.",
+      "confianza": "alta",
+      "evidencia": "M041",
+      "citaLiteral": false
+    },
+    {
+      "ambito": "Cuestionario, preguntas 1-6",
+      "unidad": "T1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "La normativa de Distribuciones Nova establece el uso del color verde menta para la serie principal de los gráficos de columnas.",
+      "problema": "El texto indica que el color azul marino debe usarse para la serie principal, no verde menta.",
+      "correccion": "El color correcto es azul marino.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Cuestionario, preguntas 7-12",
+      "unidad": "T10",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Según la regla NOVA-19, tenemos un plazo máximo de 72 horas para responder a estas solicitudes.",
+      "problema": "La respuesta marcada indica 48 horas, lo cual contradice la normativa establecida.",
+      "correccion": "El plazo correcto es 72 horas.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": false
+    },
+    {
+      "ambito": "Lección 2: Archivo y copias de seguridad",
+      "unidad": "P1.2",
+      "tipo": "dato_no_consta",
+      "gravedad": "media",
+      "cita": "(La importancia del archivo corporativo) El objetivo principal de mantener un archivo ordenado es garantizar la trazabilidad de nuestras operaciones diarias. Si",
+      "problema": "Afirma un dato concreto que no consta en el material de referencia del cliente.",
+      "correccion": "",
+      "confianza": "media",
+      "evidencia": "M012",
+      "citaLiteral": true
+    }
+  ],
+  "noRevisado": [],
+  "material": {
+    "unidades": 164,
+    "respaldado": 41,
+    "no_consta": 1,
+    "contradice": 15,
+    "general": 107,
+    "porcentajeRespaldado": 72,
+    "porLeccion": {
+      "Lección 1: Informes semanales y gráficos": {
+        "respaldado": 0,
+        "no_consta": 0,
+        "contradice": 4,
+        "general": 36
+      },
+      "Lección 2: Archivo y copias de seguridad": {
+        "respaldado": 41,
+        "no_consta": 1,
+        "contradice": 0,
+        "general": 0
+      },
+      "Lección 3: Archivo y copias de seguridad": {
+        "respaldado": 0,
+        "no_consta": 0,
+        "contradice": 7,
+        "general": 36
+      },
+      "Lección 4: Atención telefónica a clientes": {
+        "respaldado": 0,
+        "no_consta": 0,
+        "contradice": 4,
+        "general": 35
+      }
+    }
+  }
+}

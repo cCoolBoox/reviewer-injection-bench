@@ -1,0 +1,139 @@
+{
+  "modelo": "gpt-oss:20b",
+  "fecha": "2026-10-09T21:37:52.321Z",
+  "hallazgos": [
+    {
+      "ambito": "Lección 1: Conceptos y categorías de la Minería de Datos",
+      "unidad": "P2.1",
+      "tipo": "afirmacion_dudosa",
+      "gravedad": "alta",
+      "cita": "la clasificación, que consiste en descubrir grupos naturales en los datos sin categorías previas",
+      "problema": "Definición incorrecta: la clasificación se basa en categorías predefinidas, no en descubrir grupos naturales.",
+      "correccion": "La clasificación consiste en asignar cada elemento a una categoría predefinida según criterios establecidos.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Conceptos y categorías de la Minería de Datos",
+      "unidad": "P2.2",
+      "tipo": "afirmacion_dudosa",
+      "gravedad": "alta",
+      "cita": "el objetivo es asignar cada dato a categorías predefinidas por el analista",
+      "problema": "Definición incorrecta: el clustering agrupa datos sin categorías predefinidas.",
+      "correccion": "El clustering busca agrupar datos en grupos naturales sin categorías predefinidas.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 1: Conceptos y categorías de la Minería de Datos",
+      "unidad": "P2.3",
+      "tipo": "afirmacion_dudosa",
+      "gravedad": "alta",
+      "cita": "basándose únicamente en la opinión de los directivos",
+      "problema": "Los modelos de predicción se basan en datos históricos, no en la opinión de directivos.",
+      "correccion": "Los modelos de predicción estiman resultados futuros a partir de datos históricos verificables.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: El proceso y la metodología de minería de datos",
+      "unidad": "P1.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "En el entorno laboral, este proceso comienza con la visualización de los resultados para evitar análisis sin propósito.",
+      "problema": "El enunciado indica que el proceso inicia con la visualización, cuando en realidad la etapa inicial es la definición de objetivos.",
+      "correccion": "El proceso comienza con la definición de objetivos claros y la identificación de las fuentes de datos.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: El proceso y la metodología de minería de datos",
+      "unidad": "P1.2",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "Una vez definido el objetivo, se procede directamente a la modelización sin limpiar las fuentes de datos disponibles.",
+      "problema": "Se omite la fase de limpieza y pre‑procesamiento, que es indispensable antes de aplicar cualquier algoritmo.",
+      "correccion": "Antes de la modelización, se deben limpiar, normalizar y depurar los datos.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 2: El proceso y la metodología de minería de datos",
+      "unidad": "P2.3",
+      "tipo": "error_factual",
+      "gravedad": "alta",
+      "cita": "Si el objetivo es predecir ventas futuras, se utilizarán métodos de agrupamiento o clustering en el análisis.",
+      "problema": "El clustering es una técnica de agrupamiento no predictiva; para predecir ventas se emplean modelos predictivos como regresión.",
+      "correccion": "Para la predicción de ventas se utilizan modelos predictivos (regresión, árboles de decisión, etc.), mientras que el clustering se aplica para segmentar clientes.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Análisis y pronósticos en Business Intelligence",
+      "unidad": "P1.1",
+      "tipo": "afirmacion_dudosa",
+      "gravedad": "alta",
+      "cita": "busca responder qué va a suceder en el futuro",
+      "problema": "Contradicción con la definición de análisis descriptivo, que se centra en el pasado.",
+      "correccion": "Esta etapa busca responder qué ha sucedido en el pasado mediante la recopilación de métricas clave.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Análisis y pronósticos en Business Intelligence",
+      "unidad": "P2.1",
+      "tipo": "afirmacion_dudosa",
+      "gravedad": "alta",
+      "cita": "analizan datos sin orden temporal para detectar estacionalidades",
+      "problema": "Las series temporales analizan datos con orden temporal, no sin orden.",
+      "correccion": "Estas analizan datos con orden temporal para detectar estacionalidades.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 3: Análisis y pronósticos en Business Intelligence",
+      "unidad": "P2.3",
+      "tipo": "afirmacion_dudosa",
+      "gravedad": "alta",
+      "cita": "son siempre exactos al cien por ciento",
+      "problema": "Contradicción: los pronósticos no pueden ser exactos al cien por ciento debido a variables externas.",
+      "correccion": "Los pronósticos no son siempre exactos al cien por ciento; las variables externas introducen incertidumbre.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 4: Gestión de proyectos de Business Intelligence",
+      "unidad": "P1.1",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Es fundamental seleccionar la tecnología antes de definir los objetivos de negocio de almacenamiento de datos.",
+      "problema": "Contradice la práctica estándar de definir primero los objetivos de negocio y los requisitos de almacenamiento antes de elegir la tecnología.",
+      "correccion": "La tecnología debe seleccionarse después de definir claramente los objetivos de negocio y los requisitos de almacenamiento de datos.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    },
+    {
+      "ambito": "Lección 4: Gestión de proyectos de Business Intelligence",
+      "unidad": "P1.3",
+      "tipo": "contradiccion",
+      "gravedad": "alta",
+      "cita": "Muchas empresas optan por marcos de trabajo en cascada para permitir entregas incrementales y ajustes rápidos basados en el feedback del usuario.",
+      "problema": "El método en cascada es secuencial y no permite entregas incrementales ni ajustes rápidos.",
+      "correccion": "Se debe usar marcos de trabajo ágiles o iterativos para entregas incrementales y ajustes rápidos basados en el feedback del usuario.",
+      "confianza": null,
+      "evidencia": "",
+      "citaLiteral": true
+    }
+  ],
+  "noRevisado": []
+}
